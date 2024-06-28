@@ -1,8 +1,7 @@
-# Goal Model Extraction from User Stories Using Large Language Models
+# A Comparative Study of Large Language Models for Goal ModelExtraction
 
-This project consists of the code, the inputs, and outputs used in the paper titled "Goal Model Extraction from User Stories Using Large Language Models". 
-This paper presents early research proposing a technique using Large Language Models (LLMs), like GPT-4, to automatically generate goal models from user stories. The approach
-employs Iterative Prompt Engineering to guide the LLM in extracting intentional elements and generating XML representations using the Goal-oriented Requirements Language (GRL), visualized with the jUCMNav tool.
+This project consists of the code, the inputs, and outputs used in the paper titled A Comparative Study of Large Language Models for Goal Model Extraction". 
+This paper presents the research approach using Large Language Models (LLMs)- GPT-4, Llama-13B and Cohere, to automatically generate goal models from user stories. The approach employs Iterative Prompt Engineering to guide the LLM in extracting intentional elements and generating XML representations using the Goal-oriented Requirements Language (GRL), visualized with the jUCMNav tool.
 
 ## Repository Structure
 1. GPT_Data folder is the root file for all th input and the output data. 
