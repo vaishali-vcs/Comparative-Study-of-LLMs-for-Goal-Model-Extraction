@@ -1,0 +1,10 @@
+## Actors: The business owner
+## SoftGoals: To boost sales, offer customers an online shopping experience
+## Goals: Improve sales, offer an online shopping experience
+## Tasks: Offer a secure online shopping experience, ensure system security
+## Resources: Encryptions, user authentication
+## Contribution links: None
+## Dependencies links: None
+## Decomposition links: None
+
+The business owner's goal is to boost sales by offering customers an online shopping experience, with a key focus on ensuring system security. This emphasis on system security covers both terminal and host security. To enhance terminal security, it is necessary to implement access authorization by authenticating users by adopting the following techniques: Fingerprint, Password and Cardkey. Additionally, encryption measures must be employed to enhance overall system security.

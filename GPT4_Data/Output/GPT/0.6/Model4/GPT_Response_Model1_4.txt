@@ -1,0 +1,30 @@
+- 'Actors': 
+    - Executive
+    - HR Department Employee
+    - Employee
+- 'SoftGoals': 
+    - Ensuring data security 
+    - Maintaining data integrity 
+    - Ensuring high-speed data access 
+    - Providing reliable data access 
+- 'Goals': 
+    - To provide full access to company data for the executive 
+    - To allow HR department employees to modify company data 
+    - To allow employees to view company data 
+- 'Tasks': 
+    - Implement a secure login system for data access 
+    - Implement permissions to modify data for HR department employees 
+    - Implement permissions to view data for all employees 
+- 'Resources': 
+    - Company data 
+    - Data access system 
+- 'Contribution links': 
+    - Secure login system contributes positively to the softgoal of data security 
+    - Permission implementation contributes positively to the softgoal of maintaining data integrity 
+- 'Dependencies links': 
+    - The HR department employee's ability to modify data depends on the secure login system 
+    - The employee's ability to view data depends on the secure login system 
+- 'Decomposition links':
+    - The goal of providing full access to company data for the executive can be decomposed into the task of implementing a secure login system
+    - The goal of allowing HR department employees to modify company data can be decomposed into the task of implementing permissions to modify data
+    - The goal of allowing employees to view company data can be decomposed into the task of implementing permissions to view data

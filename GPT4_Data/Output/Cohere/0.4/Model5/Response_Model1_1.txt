@@ -1,0 +1,10 @@
+```
+Actors: Montfort Hospital
+SoftGoals: Real-time information, informed patients, efficient waiting times
+Goals: To provide patients with information on their status and expected wait time
+Tasks: Register patient, track process, set current status, expected time
+Resources: Access code
+Contribution links: None
+Dependencies links: None
+Decomposition links: None
+```

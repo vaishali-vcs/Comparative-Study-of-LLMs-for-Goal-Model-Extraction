@@ -1,0 +1,36 @@
+Actors: Wireless Telephony Company
+
+SoftGoals:
+
+* High performance: The system must be able to handle a high volume of calls and provide fast call setup and call tear-down times.
+* Low cost: The system must be able to minimize infrastructure alterations and optimize hardware utilization to keep costs low.
+
+Goals:
+
+* Optimize hardware utilization to its fullest extent.
+* Achieve high throughput while minimizing infrastructure alterations.
+
+Tasks:
+
+* Implement a system for optimizing hardware utilization, such as load balancing and resource allocation.
+* Develop algorithms for minimizing infrastructure alterations, such as software-defined networking and network function virtualization.
+
+Resources:
+
+* High-performance hardware, such as servers and switches.
+* Software-defined networking and network function virtualization technologies.
+
+Contribution Links:
+
+* Optimizing hardware utilization contributes to high performance.
+* Minimizing infrastructure alterations contributes to low cost.
+
+Dependency Links:
+
+* The system depends on high-performance hardware to achieve high throughput.
+* The system depends on software-defined networking and network function virtualization technologies to minimize infrastructure alterations.
+
+Decomposition Links:
+
+* Optimizing hardware utilization can be decomposed into load balancing and resource allocation.
+* Minimizing infrastructure alterations can be decomposed into software-defined networking and network function virtualization.

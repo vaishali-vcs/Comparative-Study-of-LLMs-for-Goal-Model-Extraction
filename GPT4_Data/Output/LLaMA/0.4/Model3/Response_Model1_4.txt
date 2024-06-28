@@ -1,0 +1,46 @@
+Actors: 
+- User
+
+SoftGoals:
+
+* Provide a user-friendly interface for viewing recycling center locations and hours
+* Enable users to plan their waste disposal routes and schedules effectively
+* Offer a convenient and accessible way to find recycling facilities
+
+Goals:
+
+* Display all recycling center locations on a map
+* Provide information on the hours of each recycling facility
+
+Tasks:
+
+* Develop a map-based interface for viewing recycling center locations
+* Implement a search function for finding recycling facilities by location or hours
+* Ensure the map is interactive and easy to use
+
+Resources:
+
+* A map-based interface development team
+* A database of recycling center locations and hours
+
+Contribution Links:
+
+* The map-based interface will contribute to the success of the recycling program by providing users with easy access to recycling facilities
+* The search function will contribute to the success of the recycling program by enabling users to find recycling facilities quickly and efficiently
+
+Dependencies Links:
+
+* The map-based interface will depend on the development team to create the interface
+* The database of recycling center locations and hours will depend on the recycling program to provide accurate and up-to-date information
+
+Decomposition Links:
+
+* The map-based interface can be decomposed into the following sub-elements:
+	+ Map display
+	+ Search function
+	+ Interactive features
+* The search function can be decomposed into the following sub-elements:
+	+ Location search
+	+ Hours search
+
+Note: The above decomposition links are just examples and can be adjusted based on the specific requirements of the user story.

@@ -1,0 +1,48 @@
+Actors:
+
+* The Kids Helpline (holder of intentions)
+* Youth seeking counseling (active entities in the system or its environment)
+
+SoftGoals:
+
+* Provide a comfortable and safe environment for youth to seek counseling
+* Increase accessibility of counseling services for youth
+* Encourage more youth to ask for help
+
+Goals:
+
+* Expand the organization's ability to provide counseling via the internet
+* Choose the best technical option for online counseling
+
+Tasks:
+
+* Modify the existing anonymous question and answer system
+* Create discussion boards
+* Develop wikis
+* Implement text messaging
+* Establish chat rooms
+
+Resources:
+
+* Technical expertise in online counseling
+* Funding for technical development
+* Infrastructure for online communication
+
+Contribution Links:
+
+* The organization's online counseling service will be accessible to multiple individuals, allowing more youth to seek help.
+* The online counseling service will provide a comfortable distance for youth to seek help, encouraging more to ask for help.
+
+Dependencies Links:
+
+* The success of the online counseling service depends on the organization's ability to ensure confidentiality and protection from predators.
+* The success of the online counseling service depends on the organization's ability to address public scrutiny over advice and liability over misinterpreted guidance.
+
+Decomposition Links:
+
+* The modification of the existing anonymous question and answer system can be decomposed into sub-tasks such as:
+	+ Reviewing the existing system to identify areas for improvement
+	+ Consulting with experts to determine the best modifications to make
+	+ Testing and evaluating the modified system to ensure it meets the needs of the organization and its clients
+
+Note: The above list of intentional elements is not exhaustive and may change as more information becomes available.

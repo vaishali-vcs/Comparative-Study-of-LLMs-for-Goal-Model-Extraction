@@ -1,0 +1,23 @@
+Certainly! Here is a list of intentional elements for each user story: 
+
+### User Story S1:
+- Actors: User, Recycling Center Database
+- SoftGoals: System should display all recycling center locations accurately on a map. Ensure that the map interface is user-friendly and accessible on various devices. Provide options for filtering or searching for specific recycling centers. Integrate traffic data or real-time route planning to display optimal routes to users. 
+- Goals: To provide users with a convenient way to view recycling center locations and plan their routes. 
+- Tasks: Collect and integrate recycling center data (latitude, longitude, address) with mapping services. Develop front-end and mapping integration to display centers on a map. Implement filtering and search functionalities. Provide route planning features incorporating traffic data. 
+- Resources: Recycling center data, Mapping services API, Development and design teams, Software and hardware resources for development and deployment.
+- Contribution links: This story relies on Story S2 because both stories aim to provide users with information about recycling facilities. If S2 is completed, it will allow this story's completion. 
+- Dependencies links: Depends on the successful completion of S2.
+- Decomposition links: Breaking this story down could involve identifying the specific mapping services and route planning tools to be used, designing the user interface, and developing the front-end and back-end functionality to display the map, filtering options, and routes. 
+
+### User Story S2:
+- Actors: User, Recycling Center Database
+- SoftGoals: System should display accurate operating hours for each recycling center and ensure that the information is updated regularly. Provide options for filtering centers by their hours of operation. Display hours in an easy-to-understand format, considering varying time formats across different locations. 
+- Goals: To provide users with a way to view operating hours for recycling centers. 
+- Tasks: Collect and integrate operating hours data for each recycling center. Develop front-end and filtering functionality to display hours based on user preferences. 
+- Resources: Recycling center data, Design and development resources for front-end and back-end.
+- Contribution links: This story is dependent on story S1 being completed first so that there is a map with visible recycling center locations to display the hours of. 
+- Dependencies links: Depends on the successful completion of S1.
+- Decomposition links: Breaking this story down could involve identifying the specific database or data sources for recycling center hours, designing the user interface to display hours, and developing the front-end and back-end functionality to filter and display the hours accurately. 
+
+Would you like help with anything else regarding user stories or intentional elements?

@@ -1,0 +1,46 @@
+Sure, I'd be happy to help! Here is the list of intentional elements for the three user stories you provided:
+
+s1: As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.
+
+* Actors: User
+* SoftGoals:
+	+ Easy access to recycling center locations
+	+ Ability to view locations on a map
+	+ Ability to plan the most efficient route to drop off waste
+* Goals:
+	+ View all recycling center locations on a map
+	+ Get directions to each recycling center
+* Tasks:
+	+ Display locations of recycling centers on a map
+	+ Provide directions to each recycling center
+* Resources:
+	+ Map of recycling center locations
+	+ GPS capabilities
+* Contribution Links:
+	+ Viewing locations on a map contribution to the user's goal of planning the most efficient route
+	+ Providing directions to each recycling center contribution to the user's goal of getting to the recycling center
+* Dependencies Links:
+	+ Depends on the user having a device with GPS capabilities
+
+s2: As a user, I want to be able to get the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.
+
+* Actors: User
+* SoftGoals:
+	+ Convenience of being able to drop off waste during off days or after work
+	+ Ability to plan ahead and avoid long lines
+* Goals:
+	+ Get the hours of each recycling facility
+	+ Plan ahead and avoid long lines
+* Tasks:
+	+ Provide information on the hours of each recycling facility
+	+ Allow the user to plan ahead and avoid long lines
+* Resources:
+	+ List of recycling facilities and their hours
+	+ Calendar functionality to schedule drop-offs
+* Contribution Links:
+	+ Providing information on the hours of each recycling facility contribution to the user's goal of planning ahead and avoiding long lines
+	+ Allowing the user to plan ahead and avoid long lines contribution to the user's goal of convenience
+* Dependencies Links:
+	+ Depends on the user having access to a list of recycling facilities and their hours
+
+I hope this helps! Let me know if you would like me to elaborate on any of the intentional elements or if you have any further questions.

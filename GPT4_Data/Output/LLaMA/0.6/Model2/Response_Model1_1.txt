@@ -1,0 +1,33 @@
+Actors:
+- User
+
+SoftGoals:
+- To provide the user with easy-to-understand information about recycling facilities and events
+- To enable the user to make informed decisions about how to recycle and dispose of waste
+- To provide the user with a map display of public recycling bins and recycling centers
+
+Goals:
+- View a map display of public recycling bins around the user's area
+- View the safe disposal events currently being organised around the user's area
+- View all locations of recycling centers on a map
+
+Tasks:
+- Display public recycling bins and recycling centers on a map
+- Provide information about safe disposal events
+- Allow the user to search for recycling facilities and events
+
+Resources:
+- Map display of public recycling bins and recycling centers
+- Information about safe disposal events
+
+Contribution links:
+- The map display of public recycling bins and recycling centers will contribute to the user's ability to view recycling facilities and make informed decisions about how to recycle and dispose of waste.
+- The information about safe disposal events will contribute to the user's ability to view recycling facilities and make informed decisions about how to recycle and dispose of waste.
+
+Dependencies links:
+- The map display of public recycling bins and recycling centers depends on the availability of accurate location information for these facilities.
+- The information about safe disposal events depends on the availability of information about upcoming events from the relevant authorities or organizations.
+
+Decomposition links:
+- The task of displaying public recycling bins and recycling centers on a map can be decomposed into sub-tasks such as retrieving location information for these facilities, formatting the information for display, and displaying the information on the map.
+- The task of providing information about safe disposal events can be decomposed into sub-tasks such as retrieving information about upcoming events from the relevant authorities or organizations, formatting the information for display, and displaying the information to the user.

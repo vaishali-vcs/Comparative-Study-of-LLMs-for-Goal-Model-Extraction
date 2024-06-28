@@ -1,0 +1,46 @@
+Actors:
+
+* Wireless telephony company
+
+SoftGoals:
+
+* High performance: The system should be able to handle a high volume of calls and data transmissions with minimal lag or downtime.
+	+ Specifications:
+		- High availability: The system should be available 99.9% of the time.
+		- Low latency: The system should respond to requests within 200ms.
+		- High throughput: The system should be able to handle a minimum of 1000 calls or data transmissions per second.
+* Low cost: The system should minimize infrastructure alterations and hardware utilization to keep costs low.
+	+ Specifications:
+		- Minimal hardware requirements: The system should be able to run on existing hardware with minimal upgrades.
+		- Open standards: The system should be based on open standards to minimize costs associated with proprietary technology.
+		- Scalability: The system should be able to scale to meet growing demands without major infrastructure overhauls.
+
+Goals:
+
+* Optimize hardware utilization: The system should be able to utilize hardware resources to their fullest extent.
+* Achieve high throughput: The system should be able to handle a high volume of calls and data transmissions with minimal lag or downtime.
+
+Tasks:
+
+* Improve hardware utilization: The system should be able to dynamically allocate hardware resources to meet changing demands.
+* Optimize network performance: The system should be able to optimize network performance to ensure high throughput and low latency.
+
+Resources:
+
+* Existing hardware infrastructure
+* Open standards-based technology
+
+Contribution Links:
+
+* Improved hardware utilization contributes to low costs.
+* High throughput contributes to high performance.
+
+Dependencies Links:
+
+* The system depends on existing hardware infrastructure.
+* The system depends on open standards-based technology.
+
+Decomposition Links:
+
+* Improved hardware utilization can be achieved through dynamic allocation of resources.
+* High throughput can be achieved through optimization of network performance.

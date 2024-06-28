@@ -1,0 +1,35 @@
+'Actors': 
+- Counselors
+
+'SoftGoals': 
+- Assisting as many children as they can
+- Actively listening to children's needs
+- Preventing burnout
+- Attaining job satisfaction
+- High speed of service
+- Secure communication
+- Reliable platform
+- Maintaining data integrity
+
+'Goals': 
+- Offer online counseling services
+
+'Tasks': 
+- Provide services in cyber cafes
+- Provide services in portal chat rooms
+
+'Resources': 
+- Online platforms (cyber cafes, portal chat rooms)
+
+'Contribution links': 
+- Providing services in cyber cafes and portal chat rooms contributes to the goal of offering online counseling services
+- Actively listening to children's needs contributes to assisting as many children as they can
+- Preventing burnout contributes to job satisfaction
+
+'Dependencies links': 
+- The task of providing services in cyber cafes and portal chat rooms depends on the availability of these online platforms
+- The softgoal of preventing burnout depends on the softgoal of attaining job satisfaction
+
+'Decomposition links':
+- The goal of offering online counseling services is decomposed into the tasks of providing services in cyber cafes and portal chat rooms
+- The softgoal of assisting as many children as they can is decomposed into actively listening to children's needs and providing services in cyber cafes and portal chat rooms.

@@ -1,0 +1,37 @@
+Based on the provided information, the following intentional elements can be extracted:
+
+- 'Actors': 
+    - User: A stakeholder who wants to view map displays, safe disposal events, and recycling center locations.
+
+- 'SoftGoals': 
+    - Usability: The system needs to be user-friendly to allow easy navigation and map viewing.
+    - Accessibility: The system should be accessible on multiple platforms to cater to the needs of different users.
+    - Speed: The system needs to load maps and events data swiftly to enhance the user experience.
+    - Data Integrity: The system needs to provide accurate and up-to-date information about recycling bins, disposal events, and recycling centers.
+    - Security: The system should ensure the data privacy and security of the user.
+
+- 'Goals': 
+    - Goal 1: Display of public recycling bins on the map.
+    - Goal 2: Display of safe disposal events in the user's area.
+    - Goal 3: Display of all recycling center locations on the map.
+
+- 'Tasks': 
+    - Task 1: Fetch and display the data of public recycling bins on the map.
+    - Task 2: Fetch and display the data of upcoming safe disposal events in the user's area.
+    - Task 3: Fetch and display the data of all recycling center locations on the map.
+    - Task 4: Implement a navigation feature for the user to plan their routes.
+
+- 'Resources': 
+    - Map Data: To display bin locations, events, and recycling centers.
+    - Event Data: To display information about safe disposal events.
+    - Recycling Center Data: To display the locations of recycling centers.
+
+- 'Contribution links': 
+    - Task 1, Task 2, and Task 3 contribute positively to Goal 1, Goal 2, and Goal 3 respectively.
+    - Achieving all goals contributes positively to SoftGoals like Usability and Accessibility.
+
+- 'Dependencies links': 
+    - The user is dependent on the system to achieve their goals.
+
+- 'Decomposition links': 
+    - The system's functionality is decomposed into Task 1, Task 2, and Task 3 to achieve the respective goals.

@@ -1,0 +1,37 @@
+Actors:
+
+* Business Owner
+
+Soft Goals:
+
+* Improve customer experience by providing an online shopping experience
+* Ensure system security by implementing access authorization and encryption measures
+
+Goals:
+
+* Boost sales
+
+Tasks:
+
+* Implement access authorization using Fingerprint, Password, and Cardkey techniques
+* Employ encryption measures to enhance overall system security
+
+Resources:
+
+* System security measures (access authorization, encryption)
+
+Contribution Links:
+
+* Implementing access authorization will contribute to system security
+* Employing encryption measures will contribute to system security
+
+Dependency Links:
+
+* System security measures depend on the implementation of access authorization and encryption measures
+
+Decomposition Links:
+
+* Implementing access authorization can be decomposed into Fingerprint, Password, and Cardkey techniques
+* Employing encryption measures can be decomposed into encryption algorithms and key management
+
+Note: The above list of intentional elements is based on the user story provided. The specific requirements and dependencies may vary depending on the context of the system being developed.

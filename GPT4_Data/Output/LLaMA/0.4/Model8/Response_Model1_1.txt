@@ -1,0 +1,46 @@
+Actors:
+
+* The Kids Helpline (holder of intentions)
+* Youth seeking counseling (active entities in the system or its environment)
+
+SoftGoals:
+
+* Provide a comfortable and accessible platform for youth to seek counseling
+* Increase the reach of the organization's counseling services
+* Ensure confidentiality and protection of youth's personal information
+* Mitigate the risk of predators and public scrutiny over advice
+* Ensure liability protection for the organization and its counselors
+
+Goals:
+
+* Expand the organization's internet counseling service
+* Choose the most appropriate technical option for the service
+
+Tasks:
+
+* Modify the existing anonymous question and answer system
+* Create discussion boards, wikis, and text messaging services
+* Develop a chat room feature
+* Ensure compatibility with existing systems and infrastructure
+
+Resources:
+
+* Technical expertise in web development and online counseling
+* Financial resources for software and infrastructure development
+
+Contribution Links:
+
+* The organization's existing anonymous question and answer system will contribute to the new internet counseling service
+* The new internet counseling service will contribute to the organization's goal of increasing its reach and providing more counseling services
+* The chat room feature will contribute to the organization's goal of providing a comfortable and accessible platform for youth to seek counseling
+
+Dependency Links:
+
+* The organization's existing infrastructure and systems will be dependent on the new internet counseling service
+* The new internet counseling service will be dependent on the organization's technical expertise and financial resources
+
+Decomposition Links:
+
+* The modification of the existing anonymous question and answer system can be decomposed into smaller tasks such as updating the software, creating new content, and testing the system
+* The creation of discussion boards, wikis, and text messaging services can be decomposed into smaller tasks such as designing the user interface, developing the content management system, and testing the functionality
+* The development of a chat room feature can be decomposed into smaller tasks such as selecting a chat room software, integrating it with the existing system, and testing the functionality.

@@ -1,0 +1,11 @@
+## Actors: Traffic planners, road engineers, system analysts, and game players
+## SoftGoals: A reliable system that minimises congestion and enables efficient traffic flow, while ensuring driver safety.
+## Goals: To develop an effective road traffic simulation model that can produce optimal solutions for different traffic scenarios.
+## Tasks: 
+1. Traffic flow simulation: Using road traffic simulation software such as Anylogic to model traffic flow and analyse the impact of road network changes, traffic light timing and sequencing, and placement of road network objects on traffic flow and capacity.
+2. Traffic planning: Optimising road networks, considering factors like traffic light placement, to reduce congestion and improve traffic flow.
+3. Traffic light management: Ensuring that traffic lights are timed and sequenced correctly to facilitate smooth traffic flow.
+## Resources: Traffic simulation software, road traffic data, computing infrastructure for simulation and analysis.
+## Contribution links: The simulation results and analysis may contribute to decisions on road network changes and traffic management strategies.
+## Dependencies links: The success of the traffic simulation depends on the quality of the road traffic data and the accuracy of the software models.
+## Decomposition links: The road traffic simulation can be decomposed into different aspects, such as traffic flow simulation, traffic signal control, and optimisation of road networks.

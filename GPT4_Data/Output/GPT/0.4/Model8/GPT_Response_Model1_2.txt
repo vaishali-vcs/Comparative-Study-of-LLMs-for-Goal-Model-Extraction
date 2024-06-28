@@ -1,0 +1,45 @@
+'Actors': 
+- Kids Helpline organization
+- Youth seeking help
+- Potential predators
+- Public scrutinizers
+
+'SoftGoals':
+- Increase accessibility of counseling services
+- Encourage more youth to ask for help
+- Maintain confidentiality
+- Protect from predators
+- Minimize public scrutiny over advice
+- Minimize liability over misinterpreted guidance
+- Maintain data integrity
+- Ensure security of the online platform
+
+'Goals': 
+- Expand counseling services via the Internet
+- Increase funds for the organization
+
+'Tasks': 
+- Choose among multiple technical options for internet counseling service
+- Modify existing anonymous question and answer system
+- Implement discussion boards
+- Implement wikis
+- Enable text messaging
+- Create chat rooms
+
+'Resources': 
+- Internet
+- Existing anonymous question and answer system
+- Technical options for internet counseling service (discussion boards, wikis, text messaging, chat rooms)
+
+'Contribution links': 
+- The task of choosing among multiple technical options contributes positively to the goal of expanding counseling services via the Internet
+- The task of modifying the existing anonymous question and answer system contributes positively to the goal of increasing funds for the organization
+- The softgoal of maintaining confidentiality contributes positively to the goal of expanding counseling services via the Internet
+- The softgoal of protecting from predators contributes negatively to the goal of expanding counseling services via the Internet
+
+'Dependencies links': 
+- The actor 'Youth seeking help' depends on the actor 'Kids Helpline organization' for achieving the goal of expanding counseling services via the Internet
+- The actor 'Kids Helpline organization' depends on the resources 'Internet' and 'technical options for internet counseling service' for performing the tasks related to expanding the counseling service
+
+'Decomposition links':
+- The goal of expanding counseling services via the Internet is decomposed into tasks like choosing among multiple technical options, modifying existing anonymous question and answer system, implementing discussion boards, wikis, enabling text messaging, and creating chat rooms.

@@ -1,0 +1,40 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- Easy access to location information of recycling centers
+- Easy access to operational hours of recycling centers
+- Convenient waste disposal experience
+- Improved user experience
+- Increased recycling rate
+- Enhanced system reliability and data integrity
+
+'Goals': 
+- To display all recycling center locations on a map
+- To provide the operational hours of each recycling center
+
+'Tasks': 
+- Development of a feature to view all locations of recycling centers on a map
+- Development of a feature to get the hours of each recycling facility
+- Regular update of recycling center data
+
+'Resources': 
+- Recycling center location data
+- Recycling center operational hours data
+- Map integration system
+
+'Contribution links': 
+- The task of developing a feature for viewing recycling center locations contributes to the goal of displaying all recycling center locations on the map
+- The task of developing a feature for getting the hours of each facility contributes to the goal of providing the operational hours of each recycling center
+- The goal of displaying all recycling center locations on a map contributes to the soft goal of convenient waste disposal experience and improved user experience
+- The goal of providing the operational hours of each recycling center contributes to the soft goal of convenient waste disposal experience and improved user experience.
+
+'Dependency links': 
+- The task of regular update of recycling center data is dependent on the availability of recycling center location data and recycling center operational hours data
+- The goal of displaying all recycling centers on a map is dependent on the task of developing a feature to view all locations of recycling centers on a map
+- The goal of providing the operational hours of each recycling center is dependent on the task of developing a feature to get the hours of each recycling facility.
+
+'Decomposition links': 
+- The soft goal of convenient waste disposal experience is decomposed into the goals of displaying all recycling center locations on a map and providing the operational hours of each recycling center
+- The task of developing a feature to view all locations of recycling centers on a map is decomposed from the goal of displaying all recycling center locations on a map
+- The task of developing a feature to get the hours of each facility is decomposed from the goal of providing the operational hours of each recycling center.

@@ -1,0 +1,12 @@
+## Actors: The business owner
+## SoftGoals: To boost sales by offering customers an online shopping experience with a key focus on ensuring system security
+## Goals: To achieve sales targets
+## Tasks: 
+- Implement access authorization by authenticating users using techniques like fingerprint, password and cardkey 
+- Employ encryption measures to enhance overall system security
+## Resources: Encrypted systems
+## Contribution links: The business owner wishes to achieve their goal of boosting sales by ensuring the security of their system to build trust with customers
+## Dependencies links: 
+## Decomposition links: 
+
+The business owner is the actor in this scenario, with the goal of boosting sales by focusing on ensuring system security. To achieve this, the owner must implement access authorization by authenticating users using techniques like fingerprint, password and cardkey, and employ encryption measures to enhance overall system security. The sales targets are the goals, while the tasks are the steps taken to achieve both the soft goal of security and the goal of sales. The resources are the encrypted systems, and the contribution links show how the owner's goal of security is linked to their goal of increased sales. There are no dependencies or decomposition links in

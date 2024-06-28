@@ -1,0 +1,37 @@
+Based on the provided user story, here are the intentional elements extracted:
+
+- 'Actors': 
+    - Montfort Hospital
+    - Patients
+    - Nurse
+
+- 'SoftGoals': 
+    - Real-time information provision
+    - Improved patient satisfaction
+    - Increased transparency in the process
+    - Ensuring data integrity
+    - Maintaining a secure and reliable system
+
+- 'Goals': 
+    - To inform patients about the current status and waiting time of their healthcare process
+    - Efficient patient registration into the WTES
+    - Effective patient tracking in the system
+
+- 'Tasks': 
+    - Registering the patient into the WTES
+    - Nurse providing an access code to the patient
+    - Nurse setting the current status and expected waiting time
+
+- 'Resources': 
+    - Wait Time Estimation System (WTES)
+    - Access code for patients
+
+- 'Contribution links': 
+    - The task of registering the patient into the WTES contributes to the goal of informing patients about their healthcare process status.
+    - The task of nurses providing an access code contributes to the goal of effective patient tracking in the system.
+
+- 'Dependencies links': 
+    - The task of nurse setting the current status and expected waiting time depends on the successful registration of the patient into the WTES.
+
+- 'Decomposition links':
+    - The goal of informing patients about their healthcare process status is decomposed into the tasks of patient registration, providing access code, and setting up the current status and expected waiting time.

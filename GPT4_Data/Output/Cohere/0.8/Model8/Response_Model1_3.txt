@@ -1,0 +1,41 @@
+Certainly, here is a breakdown of the elements in the user story: 
+
+**Actors:** 
+
+- The **Kids Helpline**, which is a not-for-profit organization. 
+- Youth who seek counseling through the organization. 
+
+**SoftGoals:**
+
+- To **expand their ability to provide counseling via the Internet**, thereby increasing their reach and potentially raising more funds.
+- To **provide a secure and confidential platform** for youth to seek counseling anonymously.
+- To offer a system that is **protected from predators and ensures public scrutiny is avoided**.
+- To mitigate the risks associated with **liability over misinterpreted guidance**.
+
+**Goals:** 
+
+- To enable the organization to **choice among multiple technical options** to deliver internet counseling, while considering the delicate nature of the services provided.
+
+**Tasks:**
+
+- To **research and analyze multiple technical options**, including modifications to their existing systems as well as exploring other potential platforms.
+- To **assess the feasibility** of each option while considering the soft goals outlined.
+
+**Resources:**
+
+- Access to technical expertise and support for research and implementation.
+- Funding resources to support the expansion.
+
+**Contribution links:**
+
+- The decision to expand their services is linked to the organization's goal of increasing accessibility and potentially increasing funds through more avenues of engagement.
+
+**Dependencies links:**
+
+- The ability to ensure a secure and confidential platform is dependent on the successful implementation of privacy-centric features.
+
+**Decomposition links:**
+
+- Deciding on the specific technical aspects of the platform would likely require breaking down the general idea of internet counseling into smaller, more manageable components (i.e., privacy, two-way communication, user accounts, etc.) 
+
+Would you like me to help you with anything else concerning this user story?

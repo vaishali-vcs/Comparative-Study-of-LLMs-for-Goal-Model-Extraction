@@ -1,0 +1,57 @@
+Actors: 
+
+* The Kids Helpline (the system itself)
+* Youth seeking counseling (stakeholders)
+* Parents (stakeholders)
+* Online predators (stakeholders)
+
+SoftGoals:
+
+* To provide a comfortable and secure environment for online counseling
+* To increase the accessibility of counseling services for youth
+* To provide a platform for youth to ask for help anonymously
+* To ensure the confidentiality and privacy of youth's personal information
+* To protect youth from online predators and public scrutiny
+* To provide a liability-free platform for counseling services
+
+Goals:
+
+* To expand the organization's ability to provide counseling via the internet
+* To increase the number of youth who seek counseling through the internet
+* To provide a variety of technical options for online counseling services
+* To ensure the security and reliability of the online counseling system
+* To provide a user-friendly interface for online counseling services
+
+Tasks:
+
+* To modify the existing anonymous question and answer system for online counseling
+* To create discussion boards and wikis for online counseling
+* To implement text messaging and chat rooms for online counseling
+* To ensure the confidentiality and privacy of youth's personal information
+* To protect youth from online predators and public scrutiny
+* To provide liability-free counseling services
+
+Resources:
+
+* High-speed internet connection
+* Secure and reliable servers for online counseling services
+* Trained counselors and moderators for online counseling services
+* User-friendly interface for online counseling services
+* Secure and reliable software for online counseling services
+
+Contribution Links:
+
+* The online counseling service will contribute to the organization's goal of increasing the number of youth who seek counseling
+* The online counseling service will contribute to the organization's goal of providing a comfortable and secure environment for counseling
+* The online counseling service will contribute to the organization's goal of increasing accessibility of counseling services for youth
+
+Dependency Links:
+
+* The online counseling service depends on the organization's existing anonymous question and answer system
+* The online counseling service depends on the organization's existing counseling services
+* The online counseling service depends on the organization's trained counselors and moderators
+
+Decomposition Links:
+
+* The online counseling service can be decomposed into sub-elements such as discussion boards, wikis, text messaging, and chat rooms
+* The online counseling service can be decomposed into sub-elements such as confidentiality and privacy measures, and predator protection measures.

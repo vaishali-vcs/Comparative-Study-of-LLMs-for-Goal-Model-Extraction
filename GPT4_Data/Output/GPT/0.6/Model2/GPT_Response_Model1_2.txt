@@ -1,0 +1,37 @@
+Based on the provided user stories, the intentional elements can be broken down as follows:
+
+- 'Actors': 
+  - User: Represents a stakeholder of the system who wants to view a map display of public recycling bins, safe disposal events, and locations of recycling centers around their area.
+
+- 'SoftGoals': 
+  - User-friendly Interface: The system should be easy to use and understand.
+  - Accessibility: The system should be accessible from any device.
+  - Real-time updates: The system should provide real-time updates on safe disposal events and recycling bin statuses.
+  - Security: The system should ensure the privacy and security of the user's location data.
+  - Reliability: The system should provide accurate and reliable information.
+
+- 'Goals': 
+  - To view a map display of public recycling bins around the user's area.
+  - To view the safe disposal events currently being organized around the user's area.
+  - To view all locations of recycling centers on a map.
+
+- 'Tasks': 
+  - Develop a map display interface.
+  - Integrate the system with public recycling bins and safe disposal events databases.
+  - Develop a route planning feature to guide users to recycling centers.
+
+- 'Resources':
+  - Public recycling bins data.
+  - Safe disposal events data.
+  - Recycling centers data.
+  - Map and location data.
+
+- 'Contribution links': 
+  - The map display interface contributes to the goal of viewing a map display of public recycling bins and the locations of recycling centers.
+  - The integration with public recycling bins and safe disposal events databases contributes to the goal of viewing safe disposal events.
+
+- 'Dependencies links': 
+  - The task of developing a route planning feature depends on the availability of recycling centers data and map and location data.
+
+- 'Decomposition links':
+  - The goal to view all locations of recycling centers on a map is decomposed into the tasks of developing a map display interface and integrating with recycling centers data.

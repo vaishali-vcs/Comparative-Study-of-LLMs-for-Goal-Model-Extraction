@@ -1,0 +1,33 @@
+Here is the breakdown of the user story into intentional elements:
+
+- 'Actors': 
+    - Executive
+    - Employee from the HR department
+    - Employee
+
+- 'SoftGoals':
+    - Executive: Improve sense of company’s performance
+    - HR Employee: Ensure data integrity while modifying company data
+    - Employee: Understand company data
+
+- 'Goals':
+    - Executive: Full access to company data
+    - HR Employee: Modify company data
+    - Employee: View company data
+
+- 'Tasks': 
+    - Executive: Monitor company performance
+    - HR Employee: Update company data
+    - Employee: Access company data
+
+- 'Resources':
+    - Company data
+
+- 'Contribution links':
+    - Not explicitly stated in the user story. However, we can infer that the task of modifying company data by the HR employee contributes positively to the executive's goal of having full access to company data. 
+
+- 'Dependencies links':
+    - Not explicitly stated in the user story. However, we can infer a dependency link between the HR employee and the executive - the executive's ability to have full access to company data depends on the HR employee's task of modifying company data.
+
+- 'Decomposition links':
+    - Not explicitly stated in the user story. However, we can infer that the overall goal of company performance management can be decomposed into sub-goals such as full access to company data, modification of company data, and viewing of company data.

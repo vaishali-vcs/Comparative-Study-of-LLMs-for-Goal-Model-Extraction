@@ -1,0 +1,42 @@
+Based on the user stories provided, the intentional elements can be identified as follows:
+
+- 'Actors': 
+    - Executive
+    - HR Department Employee
+    - Employee
+     
+- 'SoftGoals': 
+    - Maintain data integrity
+    - Ensure data security
+    - Rapid data access
+    - Consistent system performance
+    
+- 'Goals':
+    - Full access to company data for the executive
+    - Modify company data for the HR department employee
+    - Access to company data for the employee
+    
+- 'Tasks': 
+    - Authenticate the executive
+    - Authenticate the HR department employee
+    - Authenticate the employee
+    - Display data to the executive after successful authentication
+    - Allow HR department employee to modify data after successful authentication
+    - Display data to the employee after successful authentication
+    
+- 'Resources': 
+    - Company data
+    - Authentication system
+    
+- 'Contribution links': 
+    - Upon successful authentication, executive has full access to data contributing to company performance insight
+    - Upon successful authentication, HR department employee has modification access to data
+    - Upon successful authentication, employee has viewing access to data
+    
+- 'Dependencies links': 
+    - Employee depends on the system for viewing company data
+    - HR department employee depends on the system for modifying company data
+    - Executive depends on the system for full access to company data
+    
+- 'Decomposition links':
+    - The system functionality is decomposed into authentication and data access tasks

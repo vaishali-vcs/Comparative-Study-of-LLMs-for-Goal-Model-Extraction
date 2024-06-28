@@ -1,0 +1,32 @@
+- 'Actors': 
+  - Wireless telephony company
+
+- 'SoftGoals': 
+  - Achieve high performance
+  - Minimize infrastructure alterations
+  - Ensure low costs
+
+- 'Goals': 
+  - Optimize hardware utilization to its fullest extent
+  - Achieve high throughput
+
+- 'Tasks': 
+  - Implement strategies for hardware optimization
+  - Develop methods for throughput maximization
+  - Plan for minimal infrastructure alterations
+
+- 'Resources': 
+  - Hardware
+  - Infrastructure
+
+- 'Contribution links': 
+  - Hardware optimization contributes positively to high performance
+  - Throughput maximization contributes positively to high performance
+  - Minimal infrastructure alterations contribute positively to low costs
+
+- 'Dependencies links': 
+  - High performance depends on hardware optimization and throughput maximization
+  - Low costs depend on minimal infrastructure alterations
+
+- 'Decomposition links':
+  - The goal of achieving high performance at low cost is decomposed into the tasks of hardware optimization, throughput maximization, and minimal infrastructure alterations

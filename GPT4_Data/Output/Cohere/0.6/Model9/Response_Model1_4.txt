@@ -1,0 +1,13 @@
+Certainly! Here is a list of intentional elements extracted from the user story:
+
+- **Actors**: Counselors, Children
+- **SoftGoals**: Offer online counseling services including cyber cafes and portal chat rooms, Assist as many children as possible while actively listening to their needs, Prevent burnout to achieve job satisfaction
+- **Goals**: Assist children, Prevent counselor burnout
+- **Tasks**: Provide online counseling, Listen to children's needs, Assess children's well-being, Refer children to appropriate resources, Establish a safe and confidential environment, Develop coping strategies for children, Evaluate the effectiveness of counseling services, Promote self-care practices for counselors, Train and support counselors
+- **Resources**: Cyber cafes, Portal chat rooms, Counseling resources, Training materials, Support systems for counselors
+- **Contribution links**: Children seeking assistance, Counselor efforts to provide support, Counseling resources and training, Support systems for counselors
+- **Dependencies links**: Online platform functionality, Confidentiality and security of data, Availability of counselors
+- **Decomposition links**: Subtasks to achieve the goals and soft goals, Technological requirements for the platform
+
+
+Would you like help with anything else involving intentional models?

@@ -1,0 +1,4 @@
+## Intentional Elements of GRL
+Below is a list of the intentional elements of GRL and a description of each element:
+- **Actors**: Actors are the active entities in the system or its environment who want goals to be achieved, tasks to be performed, resources to be available, and soft goals to be satisfied. In GRL notation, an actor is represented as a circle with the actor's name inside.
+- **

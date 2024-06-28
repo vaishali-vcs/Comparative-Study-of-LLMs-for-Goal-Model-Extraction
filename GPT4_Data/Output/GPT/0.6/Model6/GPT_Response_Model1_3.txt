@@ -1,0 +1,10 @@
+Here is the breakdown of the user story:
+
+- 'Actors': Wireless Telephony Company
+- 'SoftGoals': High performance, Low cost, High throughput, Minimum infrastructure alterations
+- 'Goals': Optimize hardware utilization
+- 'Tasks': Achieve high performance, Ensure low costs, Maximize hardware utilization, Achieve high throughput, Minimize infrastructure alterations
+- 'Resources': Hardware
+- 'Contribution links': High performance contributes to low cost, High throughput contributes to high performance, Minimum infrastructure alterations contribute to low cost
+- 'Dependencies links': Achieving high performance depends on optimizing hardware utilization, Ensuring low cost depends on minimizing infrastructure alterations
+- 'Decomposition links': The goal of optimizing hardware utilization is decomposed into the tasks of achieving high performance and ensuring low cost.

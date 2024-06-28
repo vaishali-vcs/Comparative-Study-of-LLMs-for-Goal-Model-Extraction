@@ -1,0 +1,16 @@
+- 'Actors': Business owner, Customers
+- 'SoftGoals': Improve system security (terminal and host), Enhance online shopping experience
+- 'Goals': Boost sales
+- 'Tasks': 
+    - Implement access authorization
+    - Authenticate users
+    - Employ encryption measures
+- 'Resources': Techniques for user authentication (Fingerprint, Password, Cardkey)
+- 'Contribution links': 
+    - Improving system security contributes positively to the goal of boosting sales
+    - Enhancing online shopping experience positively contributes to the goal of boosting sales
+- 'Dependencies links': 
+    - Implementation of access authorization depends on the available authentication techniques
+- 'Decomposition links': 
+    - Improve system security is decomposed into Terminal security and Host security
+    - Implement access authorization is further decomposed into Authenticate users

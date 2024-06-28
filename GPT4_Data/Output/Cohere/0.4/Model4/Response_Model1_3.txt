@@ -1,0 +1,33 @@
+Certainly! Here is a list of intentional elements for each user story in the set S:
+
+### S1:
+- Actors: Executive
+- SoftGoals: Full access to data related to the company, Company data security, Reliable data transfer and viewing, Fast access to data
+- Goals: Gain insight into company performance 
+- Tasks: View company data
+- Resources: Access to company database
+- Contribution links: Executive's position providing importance to company performance
+- Dependencies links: None
+- Decomposition links: None
+
+### S2:
+- Actors: HR Employee
+- SoftGoals: Modify company data with proper authorization, Company data security, Reliable data input and modification
+- Goals: Update company data accurately 
+- Tasks: Modify company data
+- Resources: Access to company database and employee information
+- Contribution links: HR Employee's position providing ability to update company information
+- Dependencies links: Access to employee information
+- Decomposition links: None
+
+### S3:
+- Actors: Employee
+- SoftGoals: Reliable company data viewing, Company data security
+- Goals: View company data
+- Tasks: View company data
+- Resources: Access to company database
+- Contribution links: Employee's position providing ability to view company information
+- Dependencies links: None
+- Decomposition links: None
+
+Would you like help with anything else regarding user stories or intentional elements?

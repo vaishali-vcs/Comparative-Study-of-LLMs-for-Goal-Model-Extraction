@@ -1,0 +1,44 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- User-friendly interface
+- Accurate display of recycling bin locations
+- Real-time update of safe disposal events
+- Accurate display of recycling center locations
+- Optimal route suggestion
+- Speed
+- Security
+- Reliability
+- Data integrity
+
+'Goals': 
+- To provide a map display of the public recycling bins around user's area
+- To provide information about the safe disposal events currently being organised around user's area
+- To provide all locations of recycling centers on a map
+
+'Tasks': 
+- Develop a feature to display public recycling bins on a map
+- Develop a feature to display safe disposal events
+- Develop a feature to display recycling center locations on a map
+- Develop a feature to suggest optimal routes to recycling centers
+
+'Resources': 
+- Map data
+- Recycling bin location data
+- Safe disposal event data
+- Recycling center location data
+
+'Contribution links': 
+- The map display feature contributes to the goal of providing a map display of the public recycling bins
+- The safe disposal event display feature contributes to the goal of providing information about the safe disposal events
+- The recycling center location display feature contributes to the goal of providing all locations of recycling centers on a map
+- The optimal route suggestion feature contributes to the softgoal of user-friendly interface
+
+'Dependencies links': 
+- The task of developing a feature to suggest optimal routes to recycling centers depends on the availability of recycling center location data
+
+'Decomposition links':
+- The goal of providing a map display of the public recycling bins is decomposed into the task of developing a feature to display public recycling bins on a map
+- The goal of providing information about the safe disposal events is decomposed into the task of developing a feature to display safe disposal events
+- The goal of providing all locations of recycling centers on a map is decomposed into the task of developing a feature to display recycling center locations on a map

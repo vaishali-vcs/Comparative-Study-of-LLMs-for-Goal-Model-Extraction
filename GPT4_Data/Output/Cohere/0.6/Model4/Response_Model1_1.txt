@@ -1,0 +1,56 @@
+Sure, here is a list of intentional elements for each of the user stories in the set S: 
+
+### User Story S1:
+- **Actors**: Executive 
+
+- **SoftGoals**: Full access to data related to the company, Company data security, Reliable and timely access to data, Easy navigation and search options for data, Option to download or export data 
+
+- **Goals**: Obtain a sense of the company's performance 
+
+
+
+- **Tasks**: View relevant dashboards detailing company performance over time periods, Compare different departments' performance, Download or print relevant reports 
+
+- **Resources**: Access to all company databases and records, Login credentials to company data platforms, Company intranet access 
+
+- **Contribution links**: None specified 
+
+- **Dependencies links**: None specified 
+
+- **Decomposition links**: None specified
+
+### User Story S2:
+- **Actors**: HR Employee 
+
+- **SoftGoals**: Modify company data securely, Efficiently update large volumes of employee data, Access and edit employee profiles and job roles, Data integrity after modifications 
+
+- **Goals**: Update company employee data 
+
+- **Tasks**: Add or remove employees from the database, Update employee roles and departments, Amend employee personal details 
+
+- **Resources**: Access to the company's HR database, Training on data protection and privacy, Access to relevant employee documentation 
+
+- **Contribution links**: Depends on the existing process of updating employee data 
+
+- **Dependencies links**: None specified 
+
+- **Decomposition links**: None specified
+
+### User Story S3:
+- **Actors**: Employee 
+
+- **SoftGoals**: Secure access to company data, Reliable and consistent data representation, Easy search and navigation options 
+
+- **Goals**: View company data 
+
+- **Tasks**: Access company data relevant to their role, Search for specific data points, Download relevant reports 
+
+- **Resources**: Company intranet access, Access to relevant databases, Training on data privacy and protection 
+
+- **Contribution links**: None specified 
+
+- **Dependencies links**: None specified 
+
+- **Decomposition links**: None specified
+
+Would you like help with anything else?

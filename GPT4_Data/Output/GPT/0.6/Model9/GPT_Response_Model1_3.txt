@@ -1,0 +1,30 @@
+- 'Actors': 
+    - Counselors: They offer online counseling services to children and also strive to prevent burnout in order to attain job satisfaction.
+
+- 'SoftGoals': 
+    - Job Satisfaction: This is a non-functional requirement. Counselors should achieve job satisfaction by balancing their workload and preventing burnout.
+    - Prevent Burnout: This is also a non-functional requirement. Counselors should prevent burnout by managing their workload and maintaining a healthy work-life balance.
+
+- 'Goals': 
+    - Assist as many children as they can: This is a functional requirement. Counselors should be able to assist as many children as they can through their online counseling services.
+    - Actively listen to children's needs: This is also a functional requirement. Counselors should be able to actively listen to and understand the needs of the children they are assisting.
+
+- 'Tasks': 
+    - Offer online counseling services: This is the main task that counselors need to perform in order to achieve their goals and softgoals. This includes providing services through cyber cafes and portal chat rooms.
+
+- 'Resources': 
+    - Cyber Cafes: This is a resource that counselors can use to offer their online counseling services.
+    - Portal Chat Rooms: This is another resource that counselors can use to offer their online counseling services.
+
+- 'Contribution links': 
+    - Offering online counseling services contributes positively to the goal of assisting as many children as possible.
+    - Actively listening to children's needs contributes positively to the goal of assisting as many children as possible.
+    - Preventing burnout contributes positively to the softgoal of achieving job satisfaction.
+
+- 'Dependencies links': 
+    - The task of offering online counseling services is dependent on the availability of the resources, i.e., cyber cafes and portal chat rooms.
+    - The goal of assisting as many children as possible is dependent on the task of offering online counseling services and actively listening to children's needs.
+
+- 'Decomposition links':
+    - The goal of assisting as many children as possible can be decomposed into the tasks of offering online counseling services and actively listening to children's needs.
+    - The softgoal of achieving job satisfaction can be decomposed into the task of preventing burnout.

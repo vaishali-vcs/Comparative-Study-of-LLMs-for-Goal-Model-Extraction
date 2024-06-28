@@ -1,0 +1,16 @@
+```
+ Actors:Montfort Hospital
+ SoftGoals:Real-time information, Wait time estimation, Nurse intervention 
+
+Goals:To provide patients with a user-friendly and efficient system.
+
+Tasks:Register patient, Track process, Set current status and expected time 
+
+Resources:Nurse, Hospital database
+
+Contribution links:Nurse to Set current status and expected time, Patient to track the process
+
+Dependencies links:Nurse on Hospital database, Patient on Nurse
+
+Decomposition links:Nurse to Hospital database
+```

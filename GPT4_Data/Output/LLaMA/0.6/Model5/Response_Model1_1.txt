@@ -1,0 +1,44 @@
+Actors: 
+
+* Montfort Hospital (system itself)
+* Patients (stakeholders)
+
+SoftGoals:
+
+* Provide real-time information of patient status and wait time
+* Improve patient experience and satisfaction
+* Enhance the efficiency of the hospital's operations
+
+Goals:
+
+* To register patients in the system
+* To give patients access codes to track the process
+* To set the current status and expected time for each patient
+
+Tasks:
+
+* To register patients in the system
+* To give patients access codes to track the process
+* To set the current status and expected time for each patient
+
+Resources:
+
+* WTES system
+* Access codes
+* Nurses
+
+Contribution Links:
+
+* Patient registration and access code assignment contribute to the goal of providing real-time information of patient status and wait time
+* Nurse setting the current status and expected time contributes to the goal of improving patient experience and satisfaction
+
+Dependency Links:
+
+* The success of the WTES system depends on the availability of the hospital's resources, such as nurses and access codes
+
+Decomposition Links:
+
+* Patient registration can be decomposed into sub-tasks, such as collecting patient information and verifying patient identity
+* Access code assignment can be decomposed into sub-tasks, such as generating access codes and distributing them to patients
+
+Note: The above list of intentional elements is not exhaustive and may change depending on the specific requirements of the project.

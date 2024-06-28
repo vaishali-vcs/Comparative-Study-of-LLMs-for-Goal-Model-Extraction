@@ -1,0 +1,31 @@
+'Actors': 
+- Wireless Telephony Company: This actor represents a stakeholder of the system or the system itself. This company has the goal of achieving high performance at a low cost.
+
+'SoftGoals': 
+- High Performance: This is a softgoal as there is no clear, objective measure of satisfaction. High performance in this context could involve fast data speeds, low latency, and high reliability among other factors.
+- Low Cost: This is also a softgoal, as cost-effectiveness can be subjective and depends on various factors such as the financial resources of the company, the operational efficiency, and the market conditions.
+
+'Goals': 
+- Optimize Hardware Utilization: This is a goal that the company wants to achieve. It is quantifiable as the company can measure how efficiently its hardware resources are being used.
+- High Throughput: This is another goal that the company aims to achieve. Throughput can be quantified by measuring the amount of data that can be processed in a given time frame.
+- Minimize Infrastructure Alterations: This is a goal that aims to keep costs down by limiting changes to the company's existing infrastructure.
+
+'Tasks': 
+- Hardware Optimization: This involves tasks such as assessing current hardware utilization, identifying areas of improvement, and implementing optimization strategies to maximize utilization.
+- Throughput Enhancement: This task may involve improving network infrastructure, upgrading technology, or implementing more efficient data management techniques.
+- Infrastructure Change Management: This task involves careful planning and execution of any required changes to the infrastructure to prevent unnecessary costs.
+
+'Resources':
+- Hardware: The company needs hardware resources such as servers, routers, and other network equipment to deliver its services.
+- Infrastructure: The existing infrastructure of the company, including its physical locations, network layout, and technology, is a critical resource.
+
+'Contribution Links':
+- Optimize Hardware Utilization -> High Performance: Positive Contribution. Optimizing hardware utilization can contribute to achieving high performance.
+- High Throughput -> High Performance: Positive Contribution. Achieving a high throughput will contribute positively to the company's performance.
+- Minimize Infrastructure Alterations -> Low Cost: Positive Contribution. By minimizing unnecessary changes to the infrastructure, the company can keep costs down.
+
+'Dependency Links': 
+- No explicit dependency links are mentioned in the user story.
+
+'Decomposition Links':
+- High Performance at Low Cost -> (Optimize Hardware Utilization, High Throughput, Minimize Infrastructure Alterations): This represents an AND decomposition link, as all these goals need to be achieved for the main goal to be achieved.

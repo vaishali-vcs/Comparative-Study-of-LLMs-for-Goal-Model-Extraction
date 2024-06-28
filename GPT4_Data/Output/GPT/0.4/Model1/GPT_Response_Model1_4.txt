@@ -1,0 +1,30 @@
+- 'Actors': 
+  - Traffic Simulator: This is the system itself that is responsible for enabling traffic flow simulation.
+  
+- 'SoftGoals': 
+  - Efficient Road Traffic Engineering: This softgoal aims to improve the efficiency of road traffic engineering through the use of the Traffic Simulator.
+  - Clear Visualizations: This softgoal aims to provide clear and understandable visualizations to aid in development.
+  - Highlighting Congestion: This softgoal aims to highlight areas of congestion through density maps.
+  - Demonstrating Traffic Flow and Bottlenecks: This softgoal aims to demonstrate the flow of traffic and identify bottlenecks through animations.
+  
+- 'Goals': 
+  - Traffic Flow Simulation: The main goal of the Traffic Simulator is to simulate traffic flow.
+  
+- 'Tasks': 
+  - Simulate Traffic Flow: This task involves using the Traffic Simulator to simulate the flow of traffic.
+  - Develop Density Maps: This task involves developing density maps to highlight areas of congestion.
+  - Create Animations: This task involves creating animations to demonstrate the flow of traffic and identify bottlenecks.
+  
+- 'Resources': 
+  - Traffic Data: This resource is necessary for the Traffic Simulator to simulate traffic flow.
+  - Visualization Tools: These resources are necessary for creating clear visualizations, density maps, and animations.
+  
+- 'Contribution links': 
+  - The Traffic Simulator contributes to the goal of Traffic Flow Simulation by providing the necessary tools and resources.
+  - The tasks of developing density maps and creating animations contribute to the softgoals of Highlighting Congestion and Demonstrating Traffic Flow and Bottlenecks, respectively.
+  
+- 'Dependencies links': 
+  - The tasks of developing density maps and creating animations are dependent on the availability of the resources of Traffic Data and Visualization Tools, respectively.
+  
+- 'Decomposition links':
+  - The goal of Traffic Flow Simulation is decomposed into the tasks of Simulating Traffic Flow, Developing Density Maps, and Creating Animations.

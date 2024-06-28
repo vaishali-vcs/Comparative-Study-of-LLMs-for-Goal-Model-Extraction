@@ -1,0 +1,15 @@
+'Actors': 'Wireless Telephony Company' - The company represents the system stakeholder who desires the achievement of goals and requirements. 
+
+'SoftGoals': 'Achieving high performance at low cost', 'Optimizing hardware utilization to its fullest extent', 'Achieving high throughput', 'Minimizing infrastructure alterations', 'Ensuring low costs' - All these represent the non-functional requirements or the quality attributes that the company is looking to achieve. These softgoals are not quantifiable, they are more subjective and are often associated with operational capabilities and constraints such as speed, efficiency, security, reliability, and data integrity. 
+
+'Goals': 'High Performance', 'Low Cost' - These are the quantifiable objectives that the company aims to achieve. 
+
+'Tasks': 'Optimizing hardware utilization', 'Achieving high throughput', 'Minimizing infrastructure alterations' - These are the operationalizations or the solutions that the company will perform to achieve their goals and softgoals. 
+
+'Resources': 'Hardware', 'Infrastructure' - These are the tangible objects or entities that need to be available in order for the tasks to be completed and the goals and softgoals to be achieved. 
+
+'Contribution links': Not explicitly mentioned in the user story. 
+
+'Dependencies links': Not explicitly mentioned in the user story. 
+
+'Decomposition links': Not explicitly mentioned in the user story. However, the decomposition link can be inferred from the tasks that need to be performed to achieve the goals and softgoals. For example, 'Optimizing hardware utilization' and 'Achieving high throughput' can be sub-tasks that decompose the goal of 'High Performance'. Similarly, 'Minimizing infrastructure alterations' can be a sub-task that decomposes the goal of 'Low Cost'.

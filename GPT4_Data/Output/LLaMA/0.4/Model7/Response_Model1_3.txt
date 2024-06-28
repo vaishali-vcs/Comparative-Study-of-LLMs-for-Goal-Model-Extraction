@@ -1,0 +1,42 @@
+Actors:
+
+* Business Owner
+
+Soft Goals:
+
+* Boost sales by offering customers an online shopping experience
+* Ensure system security, with a key focus on both terminal and host security
+
+Goals:
+
+* Implement access authorization by authenticating users using Fingerprint, Password, and Cardkey techniques
+* Employ encryption measures to enhance overall system security
+
+Tasks:
+
+* Develop and implement a secure online shopping experience for customers
+* Integrate access authorization techniques to ensure secure user authentication
+* Implement encryption measures to protect sensitive data and maintain system security
+
+Resources:
+
+* Secure online shopping platform
+* Encryption software and techniques
+* Access authorization systems and techniques (Fingerprint, Password, and Cardkey)
+
+Contribution Links:
+
+* The secure online shopping experience will contribute to the achievement of the soft goal of boosting sales
+* The implementation of access authorization techniques will contribute to the achievement of the goal of ensuring system security
+* The use of encryption measures will contribute to the achievement of the goal of ensuring system security
+
+Dependencies Links:
+
+* The online shopping platform will depend on the availability of secure servers and networks to maintain system security
+* The access authorization techniques will depend on the availability of secure user authentication methods
+* The encryption measures will depend on the availability of secure encryption software and techniques
+
+Decomposition Links:
+
+* The goal of implementing access authorization techniques can be decomposed into sub-goals of integrating Fingerprint, Password, and Cardkey techniques
+* The goal of employing encryption measures can be decomposed into sub-goals of implementing encryption software and techniques, and ensuring the security of sensitive data.

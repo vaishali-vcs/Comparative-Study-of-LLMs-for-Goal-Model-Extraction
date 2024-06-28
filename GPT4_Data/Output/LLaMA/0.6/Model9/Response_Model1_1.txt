@@ -1,0 +1,42 @@
+Actors:
+
+* Counselors (holders of intentions)
+
+SoftGoals:
+
+* Providing online counseling services that meet the needs of children
+* Assisting as many children as possible
+* Preventing burnout among counselors to ensure job satisfaction
+
+Goals:
+
+* Offer online counseling services that are accessible and available to all children
+* Provide a safe and secure platform for children to share their concerns
+* Ensure that counselors are equipped with the necessary resources to provide effective support
+
+Tasks:
+
+* Develop and maintain online counseling platforms that are user-friendly and accessible
+* Provide training and support for counselors to ensure they have the necessary skills to provide effective support
+* Monitor the platform and provide technical support to ensure that it is secure and functioning properly
+
+Resources:
+
+* Online counseling platforms
+* Trained counselors
+* Technical support staff
+
+Contribution Links:
+
+* Counselors contribute to the success of the online counseling services by providing support and resources to children
+* Online counseling platforms contribute to the success of the services by providing a safe and secure space for children to share their concerns
+
+Dependencies Links:
+
+* The success of the online counseling services depends on the availability of trained counselors and the functionality of the online platforms
+
+Decomposition Links:
+
+* Developing and maintaining online counseling platforms can be decomposed into smaller tasks such as designing and developing the platform, testing and launching the platform, and maintaining and updating the platform
+
+Note: In this example, the softgoals are not quantifiable, but they are still important for the success of the online counseling services. The goals are quantifiable and provide a clear measure of success. The tasks are the specific actions that need to be taken to achieve the goals and softgoals. The resources are the items that are needed to complete the tasks, and the contribution and dependency links show the relationships between the different elements in the GRL model.

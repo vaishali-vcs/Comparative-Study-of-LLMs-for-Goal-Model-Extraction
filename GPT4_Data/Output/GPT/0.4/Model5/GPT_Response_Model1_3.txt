@@ -1,0 +1,35 @@
+- 'Actors': 
+  - Montfort Hospital
+  - Patients
+  - Nurse
+
+- 'SoftGoals': 
+  - Provide real-time information to patients about their status and wait time.
+  - Improve the patient's experience by reducing uncertainty and anxiety.
+  - Ensure data integrity by accurately tracking the process.
+  - Maintain security by providing unique access codes to patients.
+  - Ensure reliability of the system in providing accurate and timely information.
+
+- 'Goals': 
+  - Implement a Wait Time Estimation System (WTES) that informs patients about the current status of the process and estimated wait time.
+
+- 'Tasks': 
+  - Register patients to the WTES.
+  - Provide an access code to the patient.
+  - Set the current status and expected time in the system.
+
+- 'Resources': 
+  - Wait Time Estimation System (WTES)
+  - Access codes for patients
+
+- 'Contribution links': 
+  - The task of registering patients to WTES contributes to the goal of implementing the system.
+  - Providing an access code to the patient contributes to the softgoal of maintaining security.
+  - Setting the current status and expected time contributes to the softgoal of providing real-time information to patients.
+
+- 'Dependencies links': 
+  - The task of providing an access code to the patient is dependent on the task of registering patients to WTES.
+  - The task of setting the current status and expected time is dependent on the task of providing an access code to the patient.
+
+- 'Decomposition links': 
+  - The goal of implementing a Wait Time Estimation System (WTES) is decomposed into the tasks of registering patients to the system, providing an access code to the patient, and setting the current status and expected time in the system.

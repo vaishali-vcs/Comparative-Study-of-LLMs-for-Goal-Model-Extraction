@@ -1,0 +1,33 @@
+'Actors': 
+- Business owner
+- Customers
+
+'SoftGoals': 
+- Enhance system security 
+- Provide an enjoyable online shopping experience
+
+'Goals': 
+- Boost sales
+
+'Tasks': 
+- Implement access authorization
+- Authenticate users
+- Employ encryption measures
+
+'Resources': 
+- Fingerprint technique
+- Password technique
+- Cardkey technique
+
+'Contribution links': 
+- Implementing access authorization contributes to enhancing system security
+- Authenticating users contributes to enhancing system security
+- Employing encryption measures contributes to enhancing overall system security
+- Offering an online shopping experience contributes to boosting sales
+
+'Dependencies links': 
+- The business owner depends on the customers to boost sales
+
+'Decomposition links':
+- Enhancing system security is decomposed into implementing access authorization, authenticating users, and employing encryption measures
+- Implementing access authorization is further decomposed into using fingerprint, password, and cardkey techniques

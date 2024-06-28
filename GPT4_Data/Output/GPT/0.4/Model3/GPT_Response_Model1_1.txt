@@ -1,0 +1,37 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- User-friendly interface for viewing locations on a map
+- Easy access to recycling facility hours
+- Convenient route planning to drop off waste
+- High data integrity to ensure accurate information about recycling centers and their hours
+- Reliable system uptime to allow users to access information at any time
+
+'Goals': 
+- View all locations of recycling centers on a map
+- Get the hours of each recycling facility
+
+'Tasks': 
+- Implement a feature to display all recycling centers on a map
+- Implement a feature to display the hours of operation for each recycling facility
+- Implement a route planning feature for users to easily navigate to their chosen recycling center
+
+'Resources': 
+- Database of recycling centers and their hours
+- Map API for displaying locations
+- Development team to implement the features
+- Testing team to ensure the features work as expected
+
+'Contribution links': 
+- The task of displaying all recycling centers on a map contributes positively to the goal of viewing all locations
+- The task of displaying the hours of each recycling facility contributes positively to the goal of getting the hours of each facility
+- The task of implementing a route planning feature contributes positively to the softgoal of convenient route planning
+
+'Dependencies links': 
+- The task of displaying all recycling centers on a map depends on the availability of a map API and the database of recycling centers
+- The task of displaying the hours of each recycling facility depends on the database of recycling centers
+
+'Decomposition links': 
+- The goal of viewing all locations of recycling centers on a map can be decomposed into the task of implementing a feature to display all recycling centers on a map and the task of implementing a route planning feature
+- The goal of getting the hours of each recycling facility can be decomposed into the task of implementing a feature to display the hours of operation for each facility

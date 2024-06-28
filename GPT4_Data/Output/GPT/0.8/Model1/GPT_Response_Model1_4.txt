@@ -1,0 +1,38 @@
+'Actors': 
+- Traffic Simulator: This system is designed to simulate traffic flow and aid in efficient road traffic engineering and design. 
+- Traffic Engineers: These are the end users who will use the Traffic Simulator to design and engineer efficient road traffic systems. 
+
+'SoftGoals': 
+- Efficient Traffic Engineering: This refers to the aim of the Traffic Simulator to assist in the design and engineering of effective road traffic systems.
+- Clear Visualizations: The traffic simulator should provide easy-to-understand visual representations of simulated traffic flow and congestion.
+- Fast Simulation: The simulator should perform simulations quickly to aid development. 
+- Security: The simulator should be secure to protect any sensitive data.
+- Reliability: The simulator should consistently perform well and produce accurate results.
+- Data Integrity: The simulator should ensure the accuracy and consistency of data over its entire lifecycle.
+
+'Goals': 
+- Simulate Traffic Flow: The primary goal of Traffic Simulator is to simulate traffic flow.
+- Highlight Congestion: The system should be able to identify and highlight areas of congestion in the simulation.
+- Demonstrate Traffic Flow and Bottlenecks: The system should visually represent traffic flow and bottlenecks.
+
+'Tasks': 
+- Run Simulation: The Traffic Simulator needs to run simulations of traffic flow.
+- Generate Density Maps: The system needs to generate density maps to highlight congestion.
+- Create Animations of Traffic Flow and Bottlenecks: The system needs to animate the traffic flow and bottlenecks.
+
+'Resources':
+- Traffic Data: This is needed for the simulator to accurately simulate traffic flow.
+- Computing Power: This is needed to run the simulations and generate visualizations.
+- Visualization Tools: These will be necessary for creating clear visual maps and animations.
+
+'Contribution links': 
+- The task of running the simulation contributes to the goal of simulating traffic flow.
+- Generating density maps and creating animations contribute to the soft goal of clear visualizations.
+
+'Dependencies links': 
+- The tasks of generating density maps and creating animations depend on the successful completion of the simulation task.
+- The goal of highlighting congestion depends on the task of generating density maps.
+
+'Decomposition links':
+- The main goal of simulating traffic flow can be decomposed into the tasks of running the simulation, generating density maps, and creating animations.
+- The softgoal of efficient traffic engineering is decomposed into the goals of simulating traffic flow, highlighting congestion, and demonstrating traffic flow and bottlenecks.

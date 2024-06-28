@@ -1,0 +1,23 @@
+Certainly! Here is a list of intentional elements for each user story: 
+
+### User Story S1:
+- Actors: User, Recycling Center Map
+- SoftGoals: The system should have real-time updates, so that the user can have the most accurate data possible. The system should prioritize the user's privacy and data security, providing safe and secure user information.
+- Goals: View all recycling center locations on a map to determine optimal routes for waste drop-offs.
+- Tasks: The user must access the map to view all recycling center locations. The map must display the most up-to-date and accurate information possible.
+- Resources: A fully-functional smartphone or computer with access to the internet is required for this task. 
+- Contribution links: This story relies on the existence of recycling centers and the ability to collect their location data, possibly contributed by local governments, waste management companies or other relevant organizations.
+- Dependencies links: None
+- Decomposition links: This story may decompose into tasks such as gathering location data, designing an interactive map interface, and implementing a way to display hours of operation for each recycling facility in a subsequent story. 
+
+### User Story S2:
+- Actors: User, Recycling Center Database
+- SoftGoals: The system should have a search function that allows users to filter recycling centers by type of waste accepted, to ensure that users can find centers suitable for their specific waste materials. The system should have a notification system to inform users of any changes to recycling center hours.
+- Goals: Obtain the hours of operation for all recycling centers to determine optimal times for waste drop-offs.
+- Tasks: The user must search for recycling centers either by location or by filtering for specific waste types. The system must display the hours of operation for each center.
+- Resources: A fully-functional smartphone or computer with access to the internet is required for this task. Access to waste disposal services and the ability to travel to recycling centers is also necessary. 
+- Contribution links: This story relies on the existence of recycling centers with defined hours of operation, possibly contributed by local governments, private companies, or individual facilities.
+- Dependencies links: This story depends on the successful completion of Story S1, which provides the map interface showing recycling center locations.
+- Decomposition links: This story may decompose into tasks such as capturing and organizing hours of operation data for each recycling facility. 
+
+Would you like help with anything else?

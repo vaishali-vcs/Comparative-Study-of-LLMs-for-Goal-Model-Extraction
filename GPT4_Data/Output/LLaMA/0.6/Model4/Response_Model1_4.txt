@@ -1,0 +1,51 @@
+Actors: 
+* Executive
+* HR Employee
+* Employee
+
+SoftGoals:
+
+* Data Accessibility: Full access to data related to the company for executives.
+* Data Modifiability: Modify data of the company for HR employees.
+* Data Visibility: View data of the company for employees.
+
+Goals:
+
+* S1: To have full access to data related to the company for executives.
+* S2: To modify data of the company for HR employees.
+* S3: To view data of the company for employees.
+
+Tasks:
+
+* S1: To provide an executive dashboard with real-time data.
+* S2: To implement a data modification module for HR employees.
+* S3: To create a data visualization module for employees.
+
+Resources:
+
+* Data storage and processing infrastructure.
+* Data analytics and reporting tools.
+
+Contribution Links:
+
+* S1: Contributes to Data Accessibility and Goal Achievement for Executives.
+* S2: Contributes to Data Modifiability and Goal Achievement for HR Employees.
+* S3: Contributes to Data Visibility and Goal Achievement for Employees.
+
+Dependency Links:
+
+* S1, S2, and S3 depend on the availability of data storage and processing infrastructure.
+
+Decomposition Links:
+
+* S1 can be decomposed into the following tasks:
+	+ Provide an executive dashboard with real-time data.
+	+ Implement a data access module for executives.
+* S2 can be decomposed into the following tasks:
+	+ Implement a data modification module for HR employees.
+	+ Validate and enforce data modification rules.
+* S3 can be decomposed into the following tasks:
+	+ Create a data visualization module for employees.
+	+ Provide real-time data to the data visualization module.
+
+Note: This is just one possible decomposition of the user stories. Depending on the specific requirements and constraints of the system, the decomposition may vary.

@@ -1,0 +1,12 @@
+Okay, here is a list of the intentional elements in the user story: 
+
+- Actors - Kids and Youth, Counseling Service, Text Messaging, Cyber Café, Portal, Chat Rooms
+- SoftGoals - Prioritize anonymity, Convenient counseling, Prompt response, Effective counseling
+- Goals - To receive counseling services
+- Tasks - To utilize the various platforms provided for counseling, to express their concerns and receive guidance, to engage in counseling sessions
+- Resources - Counselor or expert availability, Cyber space, Online portal or chat platform 
+- Contribution links - None specified in the story.
+- Dependencies links - None specified in the story.
+- Decomposition links - None specified in the story.
+
+Is there any more information I can extract from this story?

@@ -1,0 +1,23 @@
+Certainly! Here is a list of intentional elements for each user story: 
+
+### User Story S1:
+- Actors: User, Recycling Center Map
+- SoftGoals: Smooth and accurate visualization of map locations, Real-time updates on recycling center availability, Efficient routing options for multiple recycling center visits, Accessibility for all users regardless of location or device type
+- Goals: Efficient waste disposal through convenient routing, Promotion of recycling practices through accessible information
+- Tasks: Gather and integrate data on recycling center locations, Implement a mapping interface, Ensure accurate and up-to-date information, Provide routing options and directions, Ensure cross-platform and accessibility
+- Resources: Recycling center data, Mapping technology and data, Development resources for front-end and back-end, Testing resources for usability and functionality, Support resources for user assistance
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+### User Story S2:
+- Actors: User, Recycling Center Database
+- SoftGoals: Accurate and up-to-date information on recycling center hours, 24/7 accessibility of this information, Options for various time frames and locations, Reliable and secure database management
+- Goals: Convenient arrangement of waste drop-offs, Promotion of efficient use of users' time and resources
+- Tasks: Gather and integrate data on recycling center hours, Implement a user interface for searching and displaying hours, Ensure accurate and up-to-date information, Provide filters and options for location and time frame, Ensure secure management and accessibility of data
+- Resources: Recycling center data (hours of operation), Development resources for front-end and back-end, Testing resources for usability and functionality, Support resources for user assistance
+- Contribution links: None specified
+- Dependencies links: Depends on the successful implementation of S1, User story S1 provides the mapping interface that displays the locations of recycling centers which is a prerequisite for S2 which displays the hours of operation for each center.
+- Decomposition links: None specified
+
+Would you like help with anything else?

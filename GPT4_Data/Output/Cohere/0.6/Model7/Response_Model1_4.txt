@@ -1,0 +1,11 @@
+## Actors: The business owner
+## SoftGoals: 
+- Ensure a secure online shopping experience for customers 
+- Enhance terminal security 
+- Implement access authorization by authenticating users
+## Goals: 
+- Boost sales 
+## Tasks: 
+- Implement the techniques listed below to achieve the soft goals and goal listed above
+- Encryption measures
+-

@@ -1,0 +1,44 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- User-friendly interface
+- Accurate information 
+- Real-time updates
+- Easy navigation
+- Security
+- Data integrity
+- Speed
+- Reliability
+
+'Goals': 
+- View a map display of the public recycling bins around user's area
+- View the safe disposal events currently being organised around user's area
+- View all locations of recycling centers on a map
+
+'Tasks': 
+- Develop a map display feature for public recycling bins
+- Develop a feature to view safe disposal events
+- Develop a feature to view all locations of recycling centers on a map
+- Implement real-time updates for the map and events
+- Ensure data integrity and security
+
+'Resources': 
+- Map data for public recycling bins
+- Information about safe disposal events
+- Map data for recycling centers
+- Development team
+- IT infrastructure
+
+'Contribution links': 
+- The map display feature contributes to the goal of viewing public recycling bins around user's area
+- The feature to view safe disposal events contributes to the goal of viewing the safe disposal events around user's area
+- The feature to view all locations of recycling centers on a map contributes to the goal of viewing all locations of recycling centers on a map
+
+'Dependencies links': 
+- The tasks of developing features depend on the resources of map data, event information, development team, and IT infrastructure
+
+'Decomposition links':
+- The goal of viewing a map display of the public recycling bins around user's area is decomposed into the task of developing a map display feature and implementing real-time updates
+- The goal of viewing the safe disposal events currently being organised around user's area is decomposed into the task of developing a feature to view safe disposal events and implementing real-time updates
+- The goal of viewing all locations of recycling centers on a map is decomposed into the task of developing a feature to view all locations of recycling centers on a map and implementing real-time updates.

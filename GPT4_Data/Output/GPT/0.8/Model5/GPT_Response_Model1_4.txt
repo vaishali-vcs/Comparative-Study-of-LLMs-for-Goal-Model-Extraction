@@ -1,0 +1,36 @@
+Given the above user story, the identified intentional elements are as follows:
+
+- 'Actors': 
+    - Montfort Hospital: The stakeholder requiring the new system.
+    - Nurse: An actor within the system who provides access codes and sets the current status and expected time for the patient.
+    - Patient: An actor who will use the system to track their process and estimated wait time.
+
+- 'SoftGoals':
+  - Real-time Information: The system must provide up-to-date information regarding the patient's status and wait time.
+  - User-Friendly: The system should be easy for both the patients and the nurses to use and understand.
+  - Security: The access code given to patients to track their process must be secure and confidential.
+
+- 'Goals':
+  - Development of Wait Time Estimation System (WTES): The main goal is to create a system that can accurately estimate wait times for patients.
+  - Accurate Status Tracking: The system should be able to accurately track the process of each patient.
+
+- 'Tasks':
+  - Register Patient: The first step in the process is registering the patient into the WTES.
+  - Generate Access Code: The nurse needs to provide the patient with an access code for tracking their process.
+  - Set Current Status and Expected Time: This task is performed by the nurse using the WTES.
+  - Track Process: The patient can track their process using the provided access code.
+
+- 'Resources':
+  - WTES: The system itself is a resource that must be implemented and maintained.
+  - Access Code: A unique code provided to each patient to track their process.
+
+- 'Contribution links':
+  - Registering the patient contributes to the goal of developing the WTES.
+  - The task of generating an access code contributes to the goal of accurate status tracking.
+
+- 'Dependencies links':
+  - The tasks of setting the current status and expected time and tracking the process are dependent on the patient being registered and receiving an access code.
+
+- 'Decomposition links':
+  - The goal of developing the WTES can be decomposed into the tasks of registering the patient, generating an access code, setting the current status and expected time, and tracking the process.
+  - The goal of accurate status tracking can be decomposed into the tasks of generating an access code and tracking the process.

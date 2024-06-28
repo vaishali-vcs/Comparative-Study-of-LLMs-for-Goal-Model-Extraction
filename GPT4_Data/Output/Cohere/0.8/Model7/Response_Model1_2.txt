@@ -1,0 +1,12 @@
+## Actors: The business owner
+## SoftGoals: To boost sales by offering customers an online shopping experience with a key focus on ensuring system security
+## Goals: To achieve sales by implementing security measures for the system including authentication techniques and encryption measures
+## Tasks: 
+- Adopt security techniques including implementing access authorization by authenticating users with techniques like fingerprint, password and cardkey.
+- Employ encryption measures to enhance overall system security.
+## Resources: Encryption measures
+## Contribution links: The business owner hopes to achieve their goal of boosting sales by ensuring the security of their system to encourage more customers to shop online. If the system is secure, more customers will be willing to provide their personal and payment information to make purchases.
+## Dependencies links: 
+## Decomposition links: 
+
+Would you like me to continue providing information regarding any of the elements I have listed above?

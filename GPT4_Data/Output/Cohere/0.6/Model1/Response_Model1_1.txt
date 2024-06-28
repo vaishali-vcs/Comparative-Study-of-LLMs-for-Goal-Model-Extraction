@@ -1,0 +1,12 @@
+## Actors: traffic engineers, road traffic planners, network designers
+## SoftGoals: efficient traffic flow, minimised congestion, optimal traffic light sequencing and timing
+## Goals: achieve efficient road traffic engineering and design
+## Tasks: analyse traffic data, simulate traffic flow, optimise road network
+## Resources: traffic simulation software, road traffic library, traffic data
+## Contribution links: improve traffic light sequencing and timing impacts road traffic flow and capacity
+## Dependencies links: none
+## Decomposition links: none
+
+I have created a list of intentional elements based on your provided user story about a traffic simulator. It seems like the simulator you are describing is aimed to help traffic engineers and planners to analyse and optimise traffic flow and engineering. I could not find any explicit decomposition links or dependency links in your story, so I have not included them in my list. However, I have included contribution links as an important aspect of road traffic simulation is the ability to experiment with different parameters, such as traffic light sequencing and timing, to influence traffic flow and capacity. 
+
+Would you like me to explain any of the intentional elements in more detail?

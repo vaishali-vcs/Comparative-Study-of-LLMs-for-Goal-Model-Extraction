@@ -1,0 +1,23 @@
+Certainly! Here is a breakdown of the elements for each user story:
+
+### S1:
+- **Actors**: User
+- **SoftGoals**: Map all recycling center locations, Accurate real-time location data, Optimized routing options, Mobile-friendly interface, Secure user data, Prompt and accurate user notifications
+- **Goals**: To provide users with a convenient way to view recycling center locations and optimize their routing options. 
+- **Tasks**: Develop a mapping interface, Integrate real-time location data, Provide routing options, Ensure cross-platform compatibility, Implement secure user authentication and data protection, Establish a notification system for updates.
+- **Resources**: Mapping APIs, Location data services, Development tools for mobile applications, Cloud storage for user data, Notification services
+- **Contribution links**: None specified
+- **Dependencies links**: None specified
+- **Decomposition links**: None specified
+
+### S2:
+- **Actors**: User
+- **SoftGoals**: Accurate operational hours for recycling facilities, Real-time update of operational hours, Filtering options for facilities based on operational hours, Mobile-friendly interface, Secure user data, Prompt and accurate user notifications
+- **Goals**: To enable users to view and make use of the operational hours of recycling facilities. 
+- **Tasks**: Develop a database of facility hours, Implement a real-time update mechanism, Provide filtering and search options based on hours, Ensure cross-platform compatibility, Implement secure user authentication and data protection, Establish a notification system for updates.
+- **Resources**: Recycling facility data, Development tools for mobile applications, Cloud storage for user data, Notification services
+- **Contribution links**: None specified
+- **Dependencies links**: None specified
+- **Decomposition links**: None specified
+
+Would you like me to break down another user story?

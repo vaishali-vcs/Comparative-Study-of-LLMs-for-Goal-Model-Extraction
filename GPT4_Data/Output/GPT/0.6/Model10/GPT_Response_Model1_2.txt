@@ -1,0 +1,36 @@
+'Actors': 
+- Kids 
+- Youth
+- Counseling service
+
+'SoftGoals': 
+- Anonymity: The counseling service should ensure the privacy and confidentiality of the kids and youth.
+- Convenience: The counseling service should be easily accessible and user-friendly.
+- Promptness: The counseling service should provide immediate response and support.
+- Effectiveness: The counseling service should be able to address the issues and concerns of the kids and youth effectively.
+
+'Goals': 
+- To provide a counseling service that prioritizes anonymity.
+- To offer a convenient, prompt, and effective counseling service.
+
+'Tasks': 
+- Develop a texting messaging option for counseling.
+- Establish a Cyber Café for counseling.
+- Develop a portal for counseling.
+- Establish chat rooms for counseling.
+
+'Resources':
+- Counseling service professionals.
+- Technology infrastructure for text messaging, Cyber Café, portal, and chat rooms.
+
+'Contribution links': 
+- The development of various counseling options (text messaging, Cyber Café, portal, chat rooms) contributes to the goal of providing a convenient counseling service.
+- The prioritization of anonymity contributes to the softgoal of ensuring privacy and confidentiality.
+
+'Dependency links': 
+- The effectiveness of the counseling service depends on the skills and expertise of the counseling service professionals.
+- The promptness of the counseling service depends on the technology infrastructure.
+
+'Decomposition links':
+- The goal of providing a counseling service is decomposed into tasks (developing a texting messaging option, establishing a Cyber Café, developing a portal, establishing chat rooms).
+- The softgoal of convenience is decomposed into tasks (developing a texting messaging option, establishing a Cyber Café, developing a portal, establishing chat rooms).

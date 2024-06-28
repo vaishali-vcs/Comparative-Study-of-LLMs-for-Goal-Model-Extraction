@@ -1,0 +1,39 @@
+'Actors': 
+- Counselors
+
+'SoftGoals': 
+- Assist as many children as possible
+- Actively listen to the children's needs
+- Prevent burnout
+- Attain job satisfaction
+- Ensure speed and reliability of online services
+- Ensure security of online counseling services
+- Maintain data integrity during online counseling sessions
+
+'Goals': 
+- Offer online counseling services
+- Establish cyber cafes and portal chat rooms
+
+'Tasks': 
+- Set up online platforms for counseling
+- Engage in active listening during counseling sessions
+- Implement strategies to prevent burnout
+- Regularly evaluate job satisfaction
+
+'Resources':
+- Online platforms (cyber cafes, portal chat rooms)
+- Counseling skills and knowledge
+
+'Contribution links': 
+- Offering online counseling services contributes to assisting as many children as possible
+- Establishing cyber cafes and portal chat rooms contributes to offering online counseling services
+- Actively listening to children's needs contributes to job satisfaction
+- Preventing burnout contributes to attaining job satisfaction
+
+'Dependencies links': 
+- The task of offering online counseling services depends on the availability of online platforms
+- The goal of assisting as many children as possible depends on the task of engaging in active listening during counseling sessions
+
+'Decomposition links':
+- The goal of offering online counseling services is decomposed into the tasks of setting up online platforms for counseling and engaging in active listening during counseling sessions
+- The goal of attaining job satisfaction is decomposed into the tasks of preventing burnout and regularly evaluating job satisfaction.

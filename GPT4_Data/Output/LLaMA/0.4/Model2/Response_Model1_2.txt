@@ -1,0 +1,74 @@
+Actors:
+
+* User
+
+SoftGoals:
+
+* View a map display of public recycling bins around my area
+	+ Specifications:
+		- Display the location of public recycling bins on a map
+		- Provide a search function to find recycling bins near the user's location
+		- Include information on the types of materials accepted by each bin
+		- Display the current fill level of each bin
+		- Display any restrictions or guidelines for using the bins
+* View safe disposal events currently being organised around my area
+	+ Specifications:
+		- Provide a list of upcoming safe disposal events in the user's area
+		- Include information on the types of materials accepted by each event
+		- Provide a map view of the event locations
+		- Allow users to RSVP for events and receive reminders
+* View all locations of recycling centers on a map, so that I can check which routes to take to drop off waste
+	+ Specifications:
+		- Display the location of recycling centers on a map
+		- Provide information on the types of materials accepted by each center
+		- Include directions and routing information to each center
+		- Display the current hours of operation for each center
+		- Allow users to filter recycling centers by distance or material type
+
+Goals:
+
+* Provide users with a convenient way to view recycling bin locations and safe disposal events
+* Help users to properly dispose of their waste and recyclables
+* Encourage users to recycle and reduce waste
+
+Tasks:
+
+* Develop a map view of recycling bins and safe disposal events
+* Implement a search function to find recycling bins near the user's location
+* Integrate information on the types of materials accepted by each bin and event
+* Develop a list of upcoming safe disposal events in the user's area
+* Provide directions and routing information to recycling centers
+
+Resources:
+
+* Development team
+* GIS data for recycling bin and safe disposal event locations
+* API for integrating with map view
+* User research to inform user experience and interface design
+
+Contribution Links:
+
+* User story s1 contributes to the goal of providing users with a convenient way to view recycling bin locations
+* User story s2 contributes to the goal of helping users to properly dispose of their waste and recyclables
+* User story s3 contributes to the goal of encouraging users to recycle and reduce waste
+
+Dependency Links:
+
+* User story s1 depends on the development of a map view of recycling bins
+* User story s2 depends on the development of a list of upcoming safe disposal events in the user's area
+* User story s3 depends on the development of a list of recycling centers and their locations
+
+Decomposition Links:
+
+* User story s1 can be decomposed into the following sub-tasks:
+		- Develop a map view of recycling bins
+		- Integrate information on the types of materials accepted by each bin
+		- Provide a search function to find recycling bins near the user's location
+* User story s2 can be decomposed into the following sub-tasks:
+		- Develop a list of upcoming safe disposal events in the user's area
+		- Integrate information on the types of materials accepted by each event
+		- Provide a map view of the event locations
+* User story s3 can be decomposed into the following sub-tasks:
+		- Develop a list of recycling centers and their locations
+		- Integrate information on the types of materials accepted by each center
+		- Provide directions and routing information to each center

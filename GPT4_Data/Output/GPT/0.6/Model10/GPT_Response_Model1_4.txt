@@ -1,0 +1,40 @@
+'Actors': 
+- Kids
+- Youth
+
+'SoftGoals': 
+- Prioritize anonymity
+- Convenient counseling service
+- Prompt counseling service
+- Effective counseling service
+- Improve system's operation capabilities
+- Improve system's functionality 
+- Ensure speed of the service
+- Ensure security of the service
+- Ensure reliability of the service
+- Maintain data integrity 
+
+'Goals': 
+- Seek counseling service
+
+'Tasks': 
+- Utilize text messaging for counseling service
+- Opt for Cyber Café for counseling service
+- Visit the portal for counseling service
+- Use Chat Rooms for counseling service
+
+'Resources': 
+- Counseling service
+- Text messaging service
+- Cyber Café
+- Portal
+- Chat Rooms
+
+'Contribution links': 
+- The tasks (utilizing text messaging, opting for Cyber Café, visiting the portal, using Chat Rooms) contribute positively to the goals (seek counseling service) and softgoals (prioritize anonymity, convenience, promptness, effectiveness of the counseling service).
+
+'Dependencies links': 
+- The actors (Kids and Youth) are dependent on the resources (Counseling service, Text messaging service, Cyber Café, Portal, Chat Rooms) to achieve their tasks and ultimately their goals and softgoals.
+
+'Decomposition links':
+- The goal (seek counseling service) is decomposed into tasks (utilize text messaging, opt for Cyber Café, visit the portal, use Chat Rooms)

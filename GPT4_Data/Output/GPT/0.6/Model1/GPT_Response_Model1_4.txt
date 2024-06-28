@@ -1,0 +1,39 @@
+- 'Actors':
+  - Traffic Simulator: This is the system itself that enables traffic flow simulation and aids in the most efficient road traffic engineering and design.
+
+- 'SoftGoals':
+  - Efficient Traffic Flow Simulation: The system should be able to simulate road traffic efficiently.
+  - Clear Visualizations: The system should provide clear visualizations to quickly aid development.
+  - Highlighting Congestion: The system should be able to highlight areas of high traffic density.
+  - Demonstrate Traffic Flow and Bottlenecks: The system should animate traffic flow and identify bottlenecks.
+  - Speed: The system should perform these tasks in a timely manner.
+  - Reliability: The system should provide accurate and consistent results.
+  - Data Integrity: The system should ensure that the data used and generated is accurate and consistent.
+
+- 'Goals':
+  - Traffic Flow Simulation: The system aims to simulate road traffic.
+  - Road Traffic Engineering and Design: The system aims to aid in the most efficient road traffic engineering and design.
+
+- 'Tasks':
+  - Simulate Traffic Flow: The system needs to perform the task of simulating road traffic.
+  - Visualize Data: The system needs to visualize the data to aid in development.
+  - Highlight Congestion: The system needs to highlight areas of high traffic density.
+  - Demonstrate Traffic Flow and Bottlenecks: The system needs to animate traffic flow and identify bottlenecks.
+
+- 'Resources':
+  - Traffic Data: The system requires traffic data to perform simulations.
+  - Visualization Tools: The system requires tools to visualize data.
+
+- 'Contribution links':
+  - Simulate Traffic Flow contributes to Efficient Traffic Flow Simulation.
+  - Visualize Data contributes to Clear Visualizations.
+  - Highlight Congestion contributes to Efficient Traffic Flow Simulation.
+  - Demonstrate Traffic Flow and Bottlenecks contributes to Efficient Traffic Flow Simulation.
+
+- 'Dependencies links':
+  - Simulate Traffic Flow depends on Traffic Data.
+  - Visualize Data depends on Visualization Tools.
+
+- 'Decomposition links':
+  - The goal of Traffic Flow Simulation is decomposed into the tasks Simulate Traffic Flow and Highlight Congestion.
+  - The goal of Road Traffic Engineering and Design is decomposed into the tasks Visualize Data and Demonstrate Traffic Flow and Bottlenecks.

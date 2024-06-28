@@ -1,0 +1,25 @@
+- 'Actors': 
+    - Traffic Simulator: The system itself that enables traffic flow simulation and aids in efficient road traffic engineering and design.
+- 'SoftGoals': 
+    - Efficient road traffic engineering and design: The system aims to deliver the most efficient road traffic engineering and design.
+    - Clear visualizations: The system should provide clear visualizations to quickly aid development.
+    - Highlight congestion: The system should be able to highlight congestion through density maps.
+    - Demonstrate traffic flow and bottlenecks: The system should be able to animate traffic flow and bottlenecks.
+    - Speed: The system should be able to quickly provide the visualizations and simulations.
+    - Reliability: The system should reliably simulate traffic flow and highlight congestion and bottlenecks.
+    - Data integrity: The system should maintain the integrity of the traffic data used for the simulations.
+- 'Goals': 
+    - Traffic flow simulation: The main goal of the system is to simulate traffic flow.
+- 'Tasks': 
+    - Develop density maps: The system needs to develop density maps to highlight congestion.
+    - Develop animations: The system needs to develop animations to demonstrate traffic flow and bottlenecks.
+- 'Resources': 
+    - Traffic data: The system needs traffic data to perform the simulations and develop the visualizations.
+- 'Contribution links': 
+    - Traffic data contributes to the development of density maps and animations.
+    - Density maps and animations contribute to the goal of traffic flow simulation.
+    - Traffic flow simulation contributes to the softgoal of efficient road traffic engineering and design.
+- 'Dependencies links': 
+    - The tasks of developing density maps and animations are dependent on the availability of traffic data.
+- 'Decomposition links': 
+    - The goal of traffic flow simulation is decomposed into the tasks of developing density maps and animations.

@@ -1,0 +1,29 @@
+Based on the given user stories, we can extract the following elements:
+
+- 'Actors': 
+    - Executive
+    - HR Department Employee
+    - Employee
+- 'SoftGoals': 
+    - Provide a sense of company's performance (for Executive)
+    - Ensure data integrity 
+    - Ensure security in data access and modification 
+- 'Goals': 
+    - Full access to company data (for Executive)
+    - Modify company data (for HR Department Employee)
+    - View company data (for Employee)
+- 'Tasks': 
+    - Implement data access controls 
+    - Implement data modification controls 
+    - Implement data view controls 
+- 'Resources': 
+    - Company data
+- 'Contribution links': 
+    - The task 'Implement data access controls' positively contributes to the goal 'Full access to company data' for the Executive.
+    - The task 'Implement data modification controls' positively contributes to the goal 'Modify company data' for the HR Department Employee.
+    - The task 'Implement data view controls' positively contributes to the goal 'View company data' for the Employee.
+    - All tasks contribute positively to the softgoal 'Ensure data integrity' and 'Ensure security in data access and modification'.
+- 'Dependencies links': 
+    - The Executive, HR Department Employee, and Employee are all dependent on the company data resource.
+- 'Decomposition links':
+    - The softgoal 'Provide a sense of company's performance' can be decomposed into the goals 'Full access to company data', 'Modify company data', and 'View company data'.

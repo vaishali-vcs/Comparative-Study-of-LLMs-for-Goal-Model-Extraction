@@ -1,0 +1,44 @@
+Actors:
+
+* Business Owner
+
+Soft Goals:
+
+* Enhance system security
+	+ Specifications:
+		- Implement access authorization techniques such as fingerprint, password, and cardkey
+		- Employ encryption measures to protect sensitive data
+		- Ensure both terminal and host security
+	+ Rationales:
+		- To protect the system from unauthorized access and data breaches
+		- To maintain customer trust and confidence in the online shopping experience
+		- To comply with relevant regulations and standards for system security
+
+Goals:
+
+* Boost sales by offering customers an online shopping experience
+
+Tasks:
+
+* Implement access authorization techniques such as fingerprint, password, and cardkey
+* Employ encryption measures to protect sensitive data
+* Ensure both terminal and host security
+
+Resources:
+
+* IT team for implementing security measures
+* Security consultants for ensuring compliance with regulations and standards
+
+Contribution Links:
+
+* Access authorization techniques contribute to the overall system security
+* Encryption measures contribute to the overall system security
+
+Dependency Links:
+
+* The system's security is dependent on the implementation of access authorization techniques and encryption measures
+
+Decomposition Links:
+
+* Access authorization techniques can be decomposed into fingerprint, password, and cardkey
+* Encryption measures can be decomposed into data encryption and communication encryption.

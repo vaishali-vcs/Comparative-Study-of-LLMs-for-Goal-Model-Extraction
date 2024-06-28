@@ -1,0 +1,41 @@
+Actors: 
+- Wireless Telephony Company 
+
+SoftGoals:  
+
+1. Optimize hardware utilization to its fullest extent
+2. Achieve high throughput while minimizing infrastructure alterations. 
+
+Goals:  
+
+1. High performance at low cost
+
+Tasks:  
+
+1. Implement advanced software algorithms to optimize network resource allocation and usage.
+2. Deploy new hardware technologies to improve throughput without significant infrastructure modifications.
+3. Monitor and analyze network performance to identify areas for optimization and improve resource utilization.
+
+Resources: 
+
+1. Advanced software algorithms and tools
+2. New hardware technologies
+3. Network monitoring and analysis tools
+
+Contribution Links:  
+
+1. Optimized hardware utilization contributes to achieving high performance.
+2. High throughput contributes to achieving high performance at low cost.
+3. Minimizing infrastructure alterations contributes to low costs.
+
+Dependencies Links:  
+
+1. Advanced software algorithms and tools require adequate hardware resources to function effectively.
+2. New hardware technologies require software updates and modifications to function optimally.
+3. Network monitoring and analysis tools require access to network data to perform their functions.
+
+Decomposition Links:  
+
+1. Optimize hardware utilization can be decomposed into software algorithms, hardware upgrades, and resource allocation.
+2. Achieve high throughput can be decomposed into new hardware technologies, software updates, and network optimization.
+3. Minimize infrastructure alterations can be decomposed into hardware upgrades, software updates, and resource utilization management.

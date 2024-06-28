@@ -1,0 +1,41 @@
+#### Actors:
+**Kids Helpline Organization**: The non-profit organization that provides counseling to youth over the phone and aims to expand their services to internet counseling to reach more kids.
+**Counselors**: The individuals who will be providing the counseling services to youth via the internet. 
+
+#### SoftGoals:
+- **Accessibility**: The system should be accessible to as many kids as possible, regardless of their location or circumstances.
+- **Anonymity**: The system should maintain the anonymity of both the kids seeking counseling and the counselors providing the service to protect their privacy and encourage honest communication.
+- **Comforting Distance**: The internet counseling service should provide a sense of distance or comfort to kids who may find it difficult to seek help in person.
+- **Confidentiality**: The system should ensure that the conversations and personal information shared between kids and counselors remain confidential and secure from unauthorized access.
+- **Protection from Predators**: The system should have adequate security measures in place to protect kids from potential online predators or malicious individuals.
+- **Scalability**: The system should be able to handle increasing volumes of users and traffic as the organization expands its services.
+- **Liability Protection**: The system should consider measures to minimize liability risks arising from the advice or guidance given by counselors.
+
+#### Goals:
+- To provide a safe and accessible platform for kids to seek counseling and support.
+- To increase the reach and accessibility of the Kids Helpline services to a wider audience.
+- To maintain the integrity and quality of counseling services while leveraging the potential of online communication.
+
+#### Tasks:
+- Analyze the existing anonymous question and answer system, discussion boards, wikis, text messaging, and chat rooms to evaluate their potential for meeting the soft goals.
+- Conduct thorough research on potential technical options for expanding internet counseling services and consult with experts to ensure the chosen option aligns with the soft goals.
+- Design and implement security protocols and measures to protect the confidentiality and integrity of data, ensuring kids' safety from online predators.
+- Develop a scalable and robust system that can handle increasing user traffic and maintain high performance.
+- Provide training and support to counselors to ensure they are equipped to handle online counseling sessions and adhere to confidentiality protocols.
+
+#### Resources:
+- Funding: The organization has secured or plans to secure funds necessary for expanding their internet counseling services.
+- Technical Expertise: The organization has access to technical experts or resources to assist in choosing and implementing the appropriate technical options.
+- Infrastructure: The organization has the necessary infrastructure, such as servers, networks, and storage, to support the new system.
+
+#### Contribution Links:
+- Choosing the technical options and implementing security protocols contributes to achieving the goal of a safe and accessible platform.
+- Researching and evaluating different options helps in deciding the best course of action to achieve the soft goal of accessibility.
+
+#### Dependencies Links:
+- The implementation of security measures depends on the chosen technical option and is crucial to achieving the soft goal of protection from predators.
+
+#### Decomposition Links:
+- Analyzing the existing systems breaks down the task of choosing the best technical option.
+
+Would you like me to help you decompose any other user story?

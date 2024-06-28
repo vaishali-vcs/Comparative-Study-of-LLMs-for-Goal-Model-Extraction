@@ -1,0 +1,51 @@
+Sure, I can help you with that. Here's the list of intentional elements for the given user stories:
+
+Actors:
+
+* Executive
+* HR Employee
+* Employee
+
+SoftGoals:
+
+* To provide the executive with full access to company data to enable them to monitor the company's performance
+* To allow HR employees to modify company data
+* To provide employees with access to company data to enable them to perform their job tasks
+
+Goals:
+
+* To provide the executive with access to all company data
+* To enable HR employees to modify company data as needed
+* To provide employees with access to company data for their job tasks
+
+Tasks:
+
+* To create a user interface for the executive to view company data
+* To develop a data modification tool for HR employees
+* To create a data viewing tool for employees
+
+Resources:
+
+* User interface
+* Data modification tool
+* Data viewing tool
+
+Contribution Links:
+
+* The executive's access to company data will contribute to their ability to monitor the company's performance
+* The HR employees' ability to modify company data will contribute to their ability to perform their job tasks
+* The employees' access to company data will contribute to their ability to perform their job tasks
+
+Dependency Links:
+
+* The executive's access to company data depends on the availability of a user interface
+* The HR employees' ability to modify company data depends on the availability of a data modification tool
+* The employees' access to company data depends on the availability of a data viewing tool
+
+Decomposition Links:
+
+* The user interface can be decomposed into a login page and a dashboard for viewing company data
+* The data modification tool can be decomposed into a form for inputting data modifications and a confirmation page for reviewing and submitting the modifications
+* The data viewing tool can be decomposed into a search page for finding specific data and a data display page for viewing the data.
+
+I hope this helps! Let me know if you have any other questions.

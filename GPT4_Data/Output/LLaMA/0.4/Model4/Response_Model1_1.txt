@@ -1,0 +1,47 @@
+Actors:
+
+* Executive
+* HR Employee
+* Employee
+
+SoftGoals:
+
+* Data access for executive to monitor company performance
+* Data modification for HR employee to update company data
+* Data viewing for employees to access company information
+
+Goals:
+
+* Full access to company data for executive
+* Modification of company data for HR employee
+* Viewing of company data for employees
+
+Tasks:
+
+* Provide executive with access to company data
+* Allow HR employee to modify company data
+* Grant employees viewing access to company data
+
+Resources:
+
+* Company data
+
+Contribution Links:
+
+* Executive's access to data contributes to the company's performance monitoring
+* HR employee's ability to modify data contributes to the accuracy of company data
+* Employee's ability to view data contributes to the company's productivity
+
+Dependency Links:
+
+* Executive's access to data depends on the availability of company data
+* HR employee's ability to modify data depends on the availability of company data
+* Employee's ability to view data depends on the availability of company data
+
+Decomposition Links:
+
+* Executive's access to data can be decomposed into sub-elements such as data accessibility, data quality, and data relevance
+* HR employee's ability to modify data can be decomposed into sub-elements such as data modification, data validation, and data accuracy
+* Employee's ability to view data can be decomposed into sub-elements such as data visualization, data reporting, and data analysis
+
+Note: The above list of intentional elements is not exhaustive and can be further expanded based on the requirements of the system.

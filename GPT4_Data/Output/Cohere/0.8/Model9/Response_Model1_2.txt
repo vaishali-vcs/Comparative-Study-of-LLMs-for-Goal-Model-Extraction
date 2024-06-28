@@ -1,0 +1,19 @@
+Sure, here is a list of intentional elements extracted from the user story: 
+
+- **Actors**: Counselor, Children 
+
+- **SoftGoals**: Offer online counseling services that are accessible to children, Ensure that counselors are actively listening to children's needs, Prevent counselor burnout to improve job satisfaction 
+
+- **Goals**: Assist children through counseling, Promote effective communication between counselor and child, Support counselor job satisfaction and well-being 
+
+- **Tasks**: Provide online counseling services, Listen to children's concerns, Refer children to appropriate resources, Ensure secure and private communication, Offer additional support and guidance to children as needed, Monitor counselor workload and well-being 
+
+- **Resources**: Cyber cafes, Portal chat rooms, Counseling training, Support staff to assist counselors, Access to mental health resources for counselors, Clear guidelines and protocols for online counseling 
+
+- **Contribution links**: Children can contribute to the goals of the system by actively engaging in counseling sessions and expressing their concerns. Counselors can contribute by using their skills and training to provide effective support to children. 
+
+- **Dependencies links**: The functionality of this system depends on a reliable and secure online platform, as well as trained and supported counselors. 
+
+- **Decomposition links**: The tasks of providing online counseling services can be decomposed into subtasks such as platform development, counselor training, and resource allocation. 
+
+Would you like help with anything else?

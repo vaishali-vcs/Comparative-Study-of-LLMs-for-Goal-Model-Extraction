@@ -1,0 +1,54 @@
+Sure, here is a breakdown of the elements for each user story:
+
+#### User Story S1:
+- **Actors**: User 
+
+- **SoftGoals**: Map display should be interactive and user-friendly, Provide real-time updates on bin availability, Pinpoint accuracy of locations, Efficient route suggestion to nearest bins 
+
+- **Goals**: To enable users to view public recycling bins around their area 
+
+- **Tasks**: To gather and display location data for public recycling bins, To enable real-time updates of bin availability, To provide a map interface for user interaction 
+
+- **Resources**: Recycling bin location data, Mapping software and servers, Data processing capabilities 
+
+- **Contribution links**: None specified 
+
+- **Dependencies links**: None specified 
+
+- **Decomposition links**: None specified 
+
+#### User Story S2:
+- **Actors**: User 
+
+- **SoftGoals**: Provide reliable and verified information on safe disposal events, Filter and sort events based on user preferences, Ensure secure payment options for events, If possible, integrate user reviews and ratings for events 
+
+- **Goals**: To enable users to view safe disposal events around their area 
+
+- **Tasks**: To gather and display event data for safe disposal, To enable filtering and sorting of events, To enable secure payment options for events, To allow user reviews and ratings for events 
+
+- **Resources**: Event data for safe disposal, Payment gateway for event registration, User review and rating data 
+
+- **Contribution links**: None specified 
+
+- **Dependencies links**: None specified 
+
+- **Decomposition links**: None specified 
+
+#### User Story S3:
+- **Actors**: User 
+
+- **SoftGoals**: Provide search and filter functions for recycling centers, Display real-time opening hours for recycling centers, Enable route planning with accurate location data for centers, Ensure data privacy and security for user information 
+
+- **Goals**: To enable users to view all locations of recycling centers on a map 
+
+- **Tasks**: To gather and display location data for recycling centers, To enable search and filter functions for centers, To display real-time opening hours for centers, To enable route planning for user locations 
+
+- **Resources**: Recycling center location and operational data, Mapping software and servers, Data processing capabilities 
+
+- **Contribution links**: None specified 
+
+- **Dependencies links**: None specified 
+
+- **Decomposition links**: None specified 
+
+Would you like help with anything else?

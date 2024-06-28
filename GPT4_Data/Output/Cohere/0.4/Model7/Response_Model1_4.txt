@@ -1,0 +1,18 @@
+## Actors: The business owner
+## SoftGoals: Enhance terminal security, Ensure system security
+## Goals: Boost sales, Improve terminal security, Improve host security
+## Tasks: 
+- Implement access authorization by adopting techniques including fingerprint, password and cardkey
+- Adopt encryption measures
+## Resources: 
+- Fingerprint authentication technology
+- Encryption software
+- Access control system
+- Supervised entry protocols
+## Contribution links: 
+- The business owner's goal to boost sales is linked to the goal of improving terminal security as it is necessary to implement access authorization by authenticating users to enhance the customer shopping experience. 
+- The goal to improve terminal security is linked to the goal of improving host security as it is necessary to adopt encryption measures to enhance overall system security. 
+## Dependencies links: 
+- The goal to improve host security is dependent on the goal to improve terminal security as it is necessary to implement access authorization by authenticating users to ensure overall system security. 
+## Decomposition links: 
+- The goal to improve terminal security can be decomposed into sub-goals including the implementation of access

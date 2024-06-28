@@ -1,0 +1,38 @@
+User Story: 
+Actors: 
+- Kids Helpline (a not-for-profit organization that counsels youth over the phone)
+
+Soft Goals:
+- To provide a comfortable and accessible platform for youth to seek help
+- To increase the reach of the organization's counseling services
+- To ensure the confidentiality and privacy of the youth's information
+- To protect the youth from potential predators and public scrutiny
+- To ensure the liability of the organization is minimized
+
+Goals:
+- To expand the organization's ability to provide counseling via the internet
+- To increase the number of youth seeking help
+- To provide a platform for youth to connect with other youth who may be facing similar issues
+
+Tasks:
+- To develop a secure and anonymous online counseling platform
+- To implement a moderation system to ensure the safety and appropriateness of the content and interactions
+- To create a user-friendly interface that is accessible to youth of all ages and abilities
+- To integrate the online counseling platform with the organization's existing anonymous question and answer system
+
+Resources:
+- Technical expertise in web development and online security
+- Funding to support the development and implementation of the online counseling platform
+
+Contribution Links:
+- The online counseling platform will contribute to the organization's overall goal of helping more youth
+- The platform will provide a safe and accessible space for youth to seek help
+- The platform will help to increase the organization's reach and impact
+
+Dependencies Links:
+- The success of the online counseling platform will depend on the organization's ability to secure funding and technical expertise
+- The platform will be dependent on the organization's existing anonymous question and answer system
+
+Decomposition Links:
+- The online counseling platform can be decomposed into smaller components such as the moderation system, user interface, and integration with the existing question and answer system
+- Each component can be further decomposed into smaller tasks and sub-tasks to be completed by the organization's technical team.

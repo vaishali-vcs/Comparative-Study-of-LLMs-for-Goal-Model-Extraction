@@ -1,0 +1,59 @@
+Actors:
+
+* Kids and Youth (stakeholders of the system)
+* Counselors (stakeholders of the system)
+* System Administrators (stakeholders of the system)
+
+SoftGoals:
+
+* Anonymity: The system should provide an anonymous platform for kids and youth to seek counseling.
+	+ Specifications:
+		- The system should not require users to provide personal information or identify themselves in any way.
+		- The system should use end-to-end encryption for all communication.
+		- The system should have a strict privacy policy that prohibits the sharing of user data with third parties.
+		- The system should have a robust security framework to protect user data and prevent unauthorized access.
+* Convenience: The system should provide convenient counseling services for kids and youth.
+	+ Specifications:
+		- The system should be accessible through multiple channels (text messaging, Cyber Café, portal, chat rooms).
+		- The system should provide real-time counseling services.
+		- The system should have a user-friendly interface that is easy to navigate.
+* Promptness: The system should provide prompt counseling services for kids and youth.
+	+ Specifications:
+		- The system should have a responsive design that allows users to quickly access counseling services.
+		- The system should have a reliable and fast communication infrastructure.
+		- The system should have a dedicated team of counselors who are available 24/7.
+
+Goals:
+
+* Provide an anonymous and convenient counseling service for kids and youth.
+* Offer prompt counseling services that are accessible through multiple channels.
+
+Tasks:
+
+* Develop a user-friendly interface that is easy to navigate.
+* Implement end-to-end encryption for all communication.
+* Create a robust security framework to protect user data and prevent unauthorized access.
+* Develop a reliable and fast communication infrastructure.
+* Recruit a dedicated team of counselors who are available 24/7.
+
+Resources:
+
+* A team of developers with expertise in software development and security.
+* A team of counselors with expertise in counseling and mental health.
+* A secure and reliable communication infrastructure.
+* A user-friendly interface that is easy to navigate.
+
+Contribution Links:
+
+* The system will contribute to the well-being of kids and youth by providing them with access to counseling services.
+* The system will contribute to the safety of kids and youth by providing them with an anonymous platform for seeking counseling.
+
+Dependencies Links:
+
+* The system will depend on the availability of a reliable and fast communication infrastructure.
+* The system will depend on the expertise of counselors who are available 24/7.
+
+Decomposition Links:
+
+* The system can be decomposed into sub-systems for text messaging, Cyber Café, portal, and chat rooms.
+* The system can be decomposed into sub-systems for user authentication, encryption, and security.

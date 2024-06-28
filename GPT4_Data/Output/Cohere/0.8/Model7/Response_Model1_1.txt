@@ -1,0 +1,10 @@
+## Actors: The business owner
+## SoftGoals: Enhance security, improve functionality, ensure authorized access for guests
+## Goals: Boost sales, offer customers an online shopping experience
+## Tasks: 
+- Implement access authorization by adopting techniques like fingerprint, password and cardkey for authentication. 
+- Employ encryption measures to enhance system security.
+## Resources: Fingerprint, Password, Cardkey, Encryption Measures
+## Contribution links: The business owner's goal to boost sales is linked to the goal of enhancing security through the implementation of strong access authorization and encryption measures.
+## Dependencies links: N/A
+## Decomposition links: N/A

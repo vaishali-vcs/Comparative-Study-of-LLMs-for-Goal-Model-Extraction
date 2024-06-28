@@ -1,0 +1,74 @@
+Sure, here is a breakdown of the elements for each user story:
+
+#### User Story A: Map of Recycling Bins
+
+- Actors: User 
+
+- SoftGoals:
+  - Specifications: The system should have real-time updates for accurate locations, interactive map display with zoom-in options for precise bin identification, and options for different forms of waste classification.
+  - Speed: The system should have quick load times for the map and waste bin locations.
+  - Security: The system should have a secure platform for user information and protect user data from unauthorized access.
+  - Reliability: The system should have a consistent user experience and be accessible across various devices.
+  - Data Integrity: The system should ensure that the recycling bin locations are accurate and updated regularly.
+
+- Goals: To provide a user-friendly interface for users to view public recycling bins around their area. 
+
+- Tasks: Develop a mapping system with interactive features and secure user data management. 
+
+- Resources: A dedicated development team with experience in GIS and front-end development and access to waste management data. 
+
+- Contribution links: The development team's efforts in designing the system contribute to achieving the goal of providing an interactive map. 
+
+- Dependencies links: The user story does not require any dependencies links. 
+
+- Decomposition links: This user story can be broken down into tasks such as designing the user interface, developing the back-end functionality for mapping and location services, and securing user data. 
+
+#### User Story B: Safe Disposal Events
+
+- Actors: User 
+
+- SoftGoals:
+  - Specifications: The system should have filters for different types of safe disposal events (e.g., electronic waste, chemical waste, etc.), and allow users to sort events by date, location, and type. 
+  - Speed: The system should have quick load times for the list of events.
+  - Security: The system should have a secure platform for user information and event details, and protect data from unauthorized access.
+  - Reliability: The system should have a consistent user experience and be accessible across various devices.
+  - Data Integrity: The system should ensure that the event information is accurate and updated regularly.
+
+- Goals: To provide a user-friendly interface for users to view safe disposal events around their area. 
+
+- Tasks: Develop a list of events with filters and search options and ensure a secure user experience. 
+
+- Resources: A dedicated development team with experience in designing event listing platforms and access to waste management data. 
+
+- Contribution links: The development team's efforts in designing the system contribute to achieving the goal of providing an interactive event listing. 
+
+- Dependencies links: This user story is dependent on User Story A: Map of Recycling Bins, as the safe disposal events are listed relative to the user's location, which is determined through map display of the user's area. 
+
+- Decomposition links: This user story can be broken down into tasks such as designing the user interface for event listings, developing the back-end functionality for filtering and sorting events, and securing user data. 
+
+#### User Story C: Map of All Recycling Centers
+
+- Actors: User 
+
+- SoftGoals:
+  - Specifications: The system should have a comprehensive list of recycling centers with interactive markers for each center, and allow users to filter centers by type of waste accepted, location, and operating hours.
+  - Speed: The system should have quick load times for the map and recycling center information.
+  - Security: The system should have a secure platform for user information and recycling center details, and protect data from unauthorized access.
+  - Reliability: The system should have a consistent user experience and be accessible across various devices.
+  - Data Integrity: The system should ensure that the recycling center information is accurate and updated regularly.
+
+- Goals: To provide a user-friendly interface for users to view all recycling centers on a map. 
+
+- Tasks: Develop a mapping system with interactive markers and filters for recycling centers and ensure a secure user experience. 
+
+- Resources: A dedicated development team with experience in GIS and front-end development and access to recycling center data. 
+
+- Contribution links: The development team's efforts in designing the system contribute to achieving the goal of providing an interactive map with recycling center information. 
+
+- Dependencies links: This user story does not require any dependencies links. 
+
+- Decomposition links: This user story can be broken down into tasks such as designing the user interface, developing the back-end functionality for mapping and location services, and developing the filtering functionality for recycling centers. 
+
+
+
+Would you like help with anything else regarding user stories or any other topic?

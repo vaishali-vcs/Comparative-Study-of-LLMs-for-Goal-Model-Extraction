@@ -1,0 +1,11 @@
+Sure, here is a list of the intentional elements in the user story: 
+
+- Actors - Kids and Youth, Counseling Service, Text Messaging, Cyber Café, Portal, Chat Rooms
+- SoftGoals - Prioritize anonymity, Convenient counseling, Prompt assistance, Effective counseling
+- Goals - To provide a safe and confidential space for kids and youth to seek counseling, To offer various options for counseling to suit different preferences, To ensure prompt and effective response to counseling inquiries
+- Tasks - To design a system that upholds anonymity for users, To train counselors to provide counseling services, To establish a system for receiving counseling inquiries via text messaging, To provide resources for cyber cafés for counseling, To create a portal or chat room for counseling purposes
+- Resources - Counseling experts, Technology for messaging and cyber security, Space for cyber cafés
+- Contribution links - Seeking advice from mental health professionals, Using existing technologies for messaging and cybersecurity, Partnering with local cafes or community centers
+- Dependencies links - Depends on the availability of counseling experts, Technology, and resources to set up messaging systems, Cafes or community centers willing to partner 
+
+Would you like help with anything else?

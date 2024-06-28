@@ -1,0 +1,59 @@
+Actors:
+
+* Kids and Youth (stakeholders)
+
+SoftGoals:
+
+* Anonymity: Kids and Youth should be able to seek counseling services without revealing their identities.
+	+ Specifications:
+		- The system should provide a secure and anonymous communication channel for text messaging, Cyber Café, portal, and Chat Rooms.
+		- The system should not retain any personal information or data that could be used to identify the user.
+		- The system should provide a feature to allow users to create a pseudonym or alias to protect their identity.
+* Convenience: Kids and Youth should be able to access counseling services at their convenience.
+	+ Specifications:
+		- The system should provide a user-friendly interface that is accessible through various channels (text messaging, Cyber Café, portal, and Chat Rooms).
+		- The system should be available 24/7, with no time restrictions.
+		- The system should provide a feature to allow users to schedule appointments or sessions.
+* Promptness: Kids and Youth should be able to receive prompt and effective counseling services.
+	+ Specifications:
+		- The system should provide a response time of less than 24 hours for text messaging, Cyber Café, portal, and Chat Rooms.
+		- The system should provide a feature to allow users to request immediate assistance.
+		- The system should provide a feature to allow users to rate the effectiveness of the counseling services.
+
+Goals:
+
+* To provide a secure and anonymous counseling service for Kids and Youth.
+* To provide a user-friendly interface that is accessible through various channels.
+* To provide prompt and effective counseling services.
+
+Tasks:
+
+* Develop a secure and anonymous communication channel for text messaging, Cyber Café, portal, and Chat Rooms.
+* Create a user-friendly interface for the system that is accessible through various channels.
+* Provide a feature to allow users to schedule appointments or sessions.
+* Provide a response time of less than 24 hours for text messaging, Cyber Café, portal, and Chat Rooms.
+* Provide a feature to allow users to request immediate assistance.
+* Provide a feature to allow users to rate the effectiveness of the counseling services.
+
+Resources:
+
+* Developers with expertise in security and anonymity.
+* User experience designers.
+* Software and hardware resources for developing the system.
+
+Contribution links:
+
+* The system should contribute to the well-being and mental health of Kids and Youth.
+* The system should contribute to the accessibility and convenience of counseling services for Kids and Youth.
+
+Dependency links:
+
+* The system depends on the availability of developers with expertise in security and anonymity.
+* The system depends on the availability of user experience designers.
+* The system depends on the availability of software and hardware resources for developing the system.
+
+Decomposition links:
+
+* The system can be decomposed into sub-systems for text messaging, Cyber Café, portal, and Chat Rooms.
+* The system can be decomposed into sub-systems for user authentication and identity management.
+* The system can be decomposed into sub-systems for scheduling appointments or sessions.

@@ -1,0 +1,32 @@
+- 'Actors': 
+  - Kids Helpline organization
+  - Youth who need counseling 
+  - Public 
+- 'SoftGoals':
+  - Increase accessibility to counseling services 
+  - Maintain confidentiality 
+  - Protection from predators 
+  - Avoiding public scrutiny 
+  - Avoiding liability over misinterpreted guidance 
+  - Securing adequate funds 
+  - Improve the system’s operation capabilities like speed, security, reliability, and data integrity.
+- 'Goals': 
+  - Expand counseling services via the internet 
+  - Choose a technical option for expanding the internet counseling service 
+- 'Tasks': 
+  - Evaluate different technical options like modification of existing anonymous Q&A system, discussion boards, wikis, text messaging, chat rooms 
+  - Implement the chosen technical option 
+  - Monitor and manage the new system to ensure it meets the softgoals and goals 
+- 'Resources':
+  - Internet
+  - Technical options (anonymous Q&A system, discussion boards, wikis, text messaging, chat rooms)
+  - Funds 
+- 'Contribution links': 
+  - The task of evaluating different technical options contributes to the goal of choosing a technical option 
+  - The task of implementing the chosen option contributes to the goal of expanding counseling services via the internet 
+  - The task of monitoring and managing the new system contributes to the softgoals of maintaining confidentiality, protection from predators, avoiding public scrutiny, and avoiding liability. 
+- 'Dependencies links':
+  - The goal of expanding counseling services via the internet depends on the task of implementing the chosen technical option 
+  - The softgoal of increasing accessibility depends on the goal of expanding counseling services via the internet 
+- 'Decomposition links':
+  - The goal of expanding counseling services via the internet is decomposed into tasks of evaluating different technical options and implementing the chosen option.

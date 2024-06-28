@@ -1,0 +1,42 @@
+#### Actors:
+**Kids Helpline**: The non-profit organization that provides counseling to youth over the phone and aims to expand their services to online counseling to reach more kids.
+**Youth**: The target group of kids who will seek counseling services.
+**Technicians**: The team responsible for designing, implementing and maintaining the technology infrastructure of the online counseling service. 
+
+#### SoftGoals:
+- **Anonymity**: The system should ensure confidentiality and not reveal the identities of the kids seeking help to maintain their privacy and protect them from public scrutiny.
+- **Accessibility**: The system should be easy to use and understand for youth of all ages and technological proficiency to encourage them to seek help.
+- **Multilingual Support**: The system should support multiple languages to cater to a diverse user base.
+- **Rapid Response Time**: The system should provide near-instant responses to ensure kids receive timely advice and support.
+- **Filter and Blocking Options**: The system should allow kids to block and filter out unwanted communication and content to provide a safe environment.
+- **Accountability**: The system should have mechanisms to hold counselors accountable for their advice and actions to maintain the organization's credibility.
+
+#### Goals:
+- To provide a safe and accessible platform for kids to seek counseling and support.
+- To increase the reach of the Kids Helpline organization and provide support to more kids globally.
+- To ensure the privacy and confidentiality of kids seeking help while using the system.
+
+#### Tasks:
+- Analyze the existing anonymous question and answer system and identify its limitations and potential improvements to make it more suitable for online counseling.
+- Research and evaluate other technologies like discussion boards, wikis, text messaging, and chat rooms to understand their advantages and limitations for providing online counseling.
+- Collaborate with stakeholders, including counselors and mental health experts, to determine the essential features and requirements of the online counseling system.
+- Design and implement an online counseling system that addresses the SoftGoals and provides a safe, accessible, and confidential platform for kids to seek help.
+
+#### Resources:
+- Financial resources to invest in the development and maintenance of the online counseling system.
+- Human resources such as counselors, mental health experts, and technicians to design, operate and monitor the system.
+- Technological resources like servers, software, and cybersecurity measures to ensure the smooth functioning and security of the system.
+
+#### Contribution links:
+- Improving the existing anonymous question and answer system to allow for anonymous counseling sessions.
+- Integration of a chat feature in the existing system to enable real-time communication between kids and counselors.
+- Development of a mobile application featuring chat, voice, and video calling options to provide counseling services on the go.
+
+#### Dependencies links:
+- The success of the project is dependent on reliable and secure communication channels to ensure the privacy of kids using the system.
+- The availability of counselors and mental health experts to provide timely responses and support is crucial to the effectiveness of the online counseling service.
+
+#### Decomposition links:
+- Break down the development of the online counseling system into smaller tasks, such as designing the user interface, implementing chat functionality, and integrating security measures.
+
+Would you like me to help you with anything else regarding decomposition links or any other aspect of this user story?

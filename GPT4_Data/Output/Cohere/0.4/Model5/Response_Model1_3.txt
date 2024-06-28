@@ -1,0 +1,14 @@
+```
+Actors: The patients, nurses, and other stakeholders involved with the WTE System.
+
+SoftGoals: The patients wish to be provided with real-time information of their status and wait time. The nurses should be able to set the current status and expected time for the patients.
+
+Goals: To achieve a system that informs patients of their wait time and status.
+
+Tasks: Register patients to the WTE System, allow nurses to input current status and expected time, and display this information to patients.
+
+Resources: Patient database, nurse resources, computer systems.
+
+Contribution links: The nurse contributes to the patient's status by setting it within the system. The patient can then view this information.
+
+Dependencies links:

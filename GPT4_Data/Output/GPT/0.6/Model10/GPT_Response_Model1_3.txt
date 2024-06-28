@@ -1,0 +1,39 @@
+Here is the list of intentional elements extracted from the user story:
+
+- 'Actors': 
+    - Kids and Youth
+    - Counseling Service Provider
+
+- 'SoftGoals': 
+    - Anonymity: The service should prioritize anonymity to ensure the privacy of the users.
+    - Convenience: The service should be user-friendly and easy to access.
+    - Promptness: The service should offer immediate response to the users.
+    - Effectiveness: The service should be able to address the issues of the users effectively.
+    - Security: The service should ensure the safety of the users' information.
+    - Reliability: The service should be dependable and consistent in its performance.
+    - Data Integrity: The service should ensure that the users' information is accurate and consistent.
+
+- 'Goals': 
+    - To provide a counseling service that prioritizes anonymity, convenience, promptness, and effectiveness.
+
+- 'Tasks': 
+    - Utilize text messaging for counseling.
+    - Opt for Cyber Café for counseling.
+    - Visit the portal for counseling.
+    - Use Chat Rooms for counseling.
+
+- 'Resources': 
+    - Text Messaging platform
+    - Cyber Café
+    - Counseling Portal
+    - Chat Rooms
+
+- 'Contribution links': 
+    - Text messaging, Cyber Café, the portal, and Chat Rooms contribute to the convenience of the service.
+    - Anonymity contributes to the security and reliability of the service.
+
+- 'Dependencies links': 
+    - The effectiveness of the counseling service depends on the availability of the resources (Text Messaging platform, Cyber Café, Counseling Portal, Chat Rooms).
+
+- 'Decomposition links':
+    - The goal of providing a counseling service is decomposed into tasks of utilizing different platforms (Text Messaging, Cyber Café, Counseling Portal, Chat Rooms) for counseling.

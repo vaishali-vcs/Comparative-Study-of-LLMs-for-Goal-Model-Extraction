@@ -1,0 +1,33 @@
+- 'Actors': 
+  - Business owner
+  - Customers
+  - System security team
+- 'SoftGoals':
+  - Enhance system security 
+  - Ensure terminal security
+  - Ensure host security
+  - Enhance user experience
+  - Improve online shopping experience
+  - Implement encryption measures
+- 'Goals': 
+  - Boost sales
+  - Offer customers an online shopping experience
+- 'Tasks': 
+  - Implement access authorization
+  - Authenticate users
+  - Employ encryption measures
+- 'Resources': 
+  - Fingerprint system
+  - Password system
+  - Cardkey system
+  - Encryption tools
+- 'Contribution links': 
+  - Implementing access authorization contributes to terminal security
+  - Authenticating users contributes to terminal security
+  - Employing encryption measures contributes to overall system security
+- 'Dependencies links': 
+  - The business owner depends on the system security team to enhance system security
+  - Customers depend on the system security measures for a secure online shopping experience
+- 'Decomposition links':
+  - The goal of boosting sales is decomposed into the task of offering an online shopping experience
+  - The softgoal of enhancing system security is decomposed into the tasks of implementing access authorization, authenticating users, and employing encryption measures.

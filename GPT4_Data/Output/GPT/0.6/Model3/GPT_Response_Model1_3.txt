@@ -1,0 +1,32 @@
+Based on the user stories, here's the breakdown of the intentional elements:
+
+- 'Actors':
+  - User: The primary stakeholder who wants to view locations of recycling centers and get their operational hours.
+
+- 'SoftGoals':
+  - Usability: The system should be user-friendly, allowing the user to easily navigate to the locations of recycling centers and view their operational hours.
+  - Convenience: The system should provide the user with the ability to arrange drop-offs on their off days or after work hours.
+  - Data Integrity: The system should provide accurate and up-to-date information about recycling center locations and their operational hours.
+
+- 'Goals':
+  - To view all locations of recycling centers on a map.
+  - To get the operating hours of each recycling facility.
+
+- 'Tasks':
+  - Display all recycling center locations on a map.
+  - Provide information about the operational hours of each recycling facility.
+
+- 'Resources':
+  - Map: This is needed to display the locations of the recycling centers.
+  - Database: This is required to store and retrieve information about the recycling centers and their operational hours.
+
+- 'Contribution links':
+  - The task of displaying all recycling center locations contributes positively to the goal of viewing all locations of recycling centers.
+  - The task of providing information about the operational hours of each recycling facility contributes positively to the goal of getting the operating hours of each recycling facility.
+
+- 'Dependencies links':
+  - Not explicitly mentioned in the user stories.
+
+- 'Decomposition links':
+  - The goal of viewing all locations of recycling centers on a map can be decomposed into the task of displaying all recycling center locations.
+  - The goal of getting the operating hours of each recycling facility can be decomposed into the task of providing information about the operational hours of each recycling facility.

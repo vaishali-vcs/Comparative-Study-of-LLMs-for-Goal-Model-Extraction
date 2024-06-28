@@ -1,0 +1,48 @@
+Actors:
+
+* The wireless telephony company as the system's stakeholder
+* The system's users who want high performance and low costs
+
+SoftGoals:
+
+* High performance: The system should be capable of handling a large number of users and providing high-quality service
+* Low costs: The system should minimize infrastructure alterations and optimize hardware utilization to keep costs low
+
+Specifications:
+
+* The system should be able to handle a minimum of 10,000 concurrent users
+* The system should be able to provide a throughput of at least 100 Mbps
+* The system should be able to support a variety of wireless communication standards
+* The system should be able to integrate with existing infrastructure without significant modifications
+
+Goals:
+
+* Achieve high throughput
+* Minimize infrastructure alterations
+
+Tasks:
+
+* Optimize hardware utilization
+* Implement advanced signal processing algorithms
+* Use efficient communication protocols
+
+Resources:
+
+* High-performance hardware (e.g., servers, routers, switches)
+* Advanced signal processing software
+* Efficient communication protocols
+
+Contribution Links:
+
+* The system's high throughput will contribute to the satisfaction of the soft goal of high performance
+* The system's low costs will contribute to the satisfaction of the soft goal of low costs
+
+Dependencies Links:
+
+* The system's performance is dependent on the availability of high-performance hardware and advanced signal processing algorithms
+* The system's low costs are dependent on the ability to integrate with existing infrastructure without significant modifications
+
+Decomposition Links:
+
+* The task of optimizing hardware utilization can be decomposed into sub-tasks such as optimizing server utilization, optimizing router utilization, and optimizing switch utilization
+* The task of implementing advanced signal processing algorithms can be decomposed into sub-tasks such as implementing signal compression, implementing signal amplification, and implementing signal filtering.

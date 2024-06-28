@@ -1,0 +1,8 @@
+## Actors: Users of the traffic simulator, including traffic engineers and designers
+## SoftGoals: Efficient road traffic engineering and design, reduced congestion and bottlenecks
+## Goals: To analyse and find optimal solutions for road traffic planning
+## Tasks: To simulate traffic flow, and manage the traffic by sequencing and timing traffic lights
+## Resources: Traffic data, including placement of road network objects such as parking bays and bus stops
+## Contribution links: The impact of the traffic simulator on road traffic planning and engineering
+## Dependencies links: None
+## Decomposition links: None

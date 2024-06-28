@@ -1,0 +1,35 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- User-friendly interface
+- Efficient retrieval of recycling center locations
+- Efficient retrieval of recycling center operating hours
+- Reliable data on recycling center locations and operating hours
+- Secure access to the application
+- High performance and speed of the application
+
+'Goals': 
+- To view all locations of recycling centers on a map
+- To get the hours of each recycling facility
+
+'Tasks': 
+- Implement a feature to display all recycling center locations on a map
+- Implement a feature to display the operating hours of each recycling center
+- Ensure the data on recycling centers and their operating hours is up-to-date
+
+'Resources': 
+- A map with recycling center locations
+- Database of recycling centers and their operating hours
+
+'Contribution links': 
+- The task of implementing a feature to display all recycling center locations on a map contributes positively to the goal of viewing all locations of recycling centers on a map
+- The task of implementing a feature to display the operating hours of each recycling center contributes positively to the goal of getting the hours of each recycling facility
+- The task of ensuring the data on recycling centers and their operating hours is up-to-date contributes positively to the softgoals of efficient retrieval of recycling center locations and operating hours, and reliable data on recycling center locations and operating hours
+
+'Dependencies links': 
+- The user depends on the system to provide accurate and up-to-date information on recycling center locations and operating hours
+
+'Decomposition links':
+- The goal of viewing all locations of recycling centers on a map is decomposed into the task of implementing a feature to display all recycling center locations on a map
+- The goal of getting the hours of each recycling facility is decomposed into the task of implementing a feature to display the operating hours of each recycling center.

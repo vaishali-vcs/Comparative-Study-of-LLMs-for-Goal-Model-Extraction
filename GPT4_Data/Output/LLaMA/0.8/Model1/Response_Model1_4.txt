@@ -1,0 +1,48 @@
+Actors: 
+
+* Traffic Engineers and Planners: They want to use the simulator to design and optimize traffic flow to minimize congestion and improve road network efficiency.
+* City and State Transportation Departments: They want to use the simulator to evaluate different traffic management scenarios and make informed decisions about road infrastructure investments.
+* Researchers: They want to use the simulator to study traffic flow dynamics and develop new traffic management strategies.
+
+SoftGoals:
+
+* Improved road network efficiency
+* Reduced traffic congestion
+* Improved traffic safety
+* Enhanced visualization of traffic flow and bottlenecks
+
+Goals:
+
+* Accurately simulate traffic flow and bottlenecks in real-world road networks
+* Provide visualizations of traffic density and congestion hotspots
+* Offer animations to demonstrate traffic flow and bottlenecks
+* Facilitate the evaluation of different traffic management scenarios
+
+Tasks:
+
+* Develop algorithms to simulate traffic flow and bottlenecks
+* Implement visualization and animation capabilities
+* Integrate real-world road network data to ensure accuracy
+* Test and validate the simulator to ensure reliable results
+
+Resources:
+
+* High-performance computing resources (e.g., GPUs, parallel processing)
+* Large-scale traffic data sets (e.g., from sensors, cameras, and other sources)
+* Expertise in traffic flow modeling and simulation
+
+Contribution Links:
+
+* Accurate simulation of traffic flow and bottlenecks contributes to improved road network efficiency
+* Improved traffic safety contributes to reduced traffic congestion
+* Enhanced visualization of traffic flow and bottlenecks contributes to improved traffic safety
+
+Dependencies Links:
+
+* The simulator relies on high-performance computing resources to process large-scale traffic data sets
+* The simulator relies on expertise in traffic flow modeling and simulation to develop accurate algorithms
+
+Decomposition Links:
+
+* The simulator can be decomposed into individual components, such as the algorithm development and visualization tools
+* The simulator can be decomposed into different types of traffic flows, such as passenger car traffic and truck traffic

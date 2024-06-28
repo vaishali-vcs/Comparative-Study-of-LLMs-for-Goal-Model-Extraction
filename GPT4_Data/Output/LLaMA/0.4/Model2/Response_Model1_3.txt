@@ -1,0 +1,51 @@
+Actors:
+
+* User
+
+SoftGoals:
+
+* To be able to view a map display of the public recycling bins around the user's area
+	+ Specifications:
+		- The system should display a map of the user's area with public recycling bins marked
+		- The system should allow the user to filter the map by type of recycling bin (e.g. paper, plastic, glass)
+		- The system should provide information about the location and capacity of each recycling bin
+	+ Attempt to improve functionality:
+		- The system should provide real-time information about the availability of recycling bins
+		- The system should allow the user to search for recycling bins near their current location
+
+Goals:
+
+* To be able to view safe disposal events currently being organized around the user's area
+	+ Specifications:
+		- The system should display a list of upcoming safe disposal events in the user's area
+		- The system should provide information about the location, date, and time of each event
+		- The system should allow the user to filter the list by type of event (e.g. electronics, hazardous waste)
+
+Tasks:
+
+* To view all locations of recycling centers on a map
+	+ Specifications:
+		- The system should display a map of the user's area with all locations of recycling centers marked
+		- The system should provide information about the location and hours of operation for each recycling center
+
+Resources:
+
+* A map display of the user's area with public recycling bins marked
+* A list of upcoming safe disposal events in the user's area
+* A map of the user's area with all locations of recycling centers marked
+
+Contribution Links:
+
+* The system should provide information about the location and capacity of each recycling bin to help the user find the nearest bin
+* The system should allow the user to filter the list of upcoming safe disposal events by type of event to help the user find events that are relevant to them
+
+Dependency Links:
+
+* The system should depend on a map service to display the map of the user's area
+* The system should depend on a database to store information about recycling bins and safe disposal events
+
+Decomposition Links:
+
+* The system should decompose the task of viewing all locations of recycling centers on a map into the sub-tasks of displaying a map of the user's area and marking all locations of recycling centers on the map
+
+Note: The above is just an example of how the user story can be broken down into intentional elements using GRL. The actual decomposition and specification of the user story may vary depending on the specific requirements of the system.

@@ -1,0 +1,43 @@
+- 'Actors': 
+  - Business Owner
+  - Customers
+  - Users
+
+- 'SoftGoals': 
+  - Enhance system security
+  - Enhance terminal security
+  - Enhance host security
+  - Improve online shopping experience
+  - Speed: Ensure fast and efficient online shopping experience
+  - Security: Implement robust security measures including access authorization and encryption
+  - Reliability: Ensure the system is reliable and consistently available for customers
+  - Data Integrity: Safeguard customer and transaction data
+
+- 'Goals': 
+  - Boost sales
+  - Implement online shopping system
+  - Authenticate users
+
+- 'Tasks': 
+  - Implement access authorization
+  - Use fingerprint, password, and cardkey for authentication
+  - Employ encryption measures
+
+- 'Resources': 
+  - Online shopping system
+  - Access authorization system
+  - Encryption measures
+
+- 'Contribution links': 
+  - Implementing access authorization contributes positively to the goal of enhancing terminal security
+  - Using fingerprint, password, and cardkey authentication methods contributes positively to the task of implementing access authorization
+  - Employing encryption measures contributes positively to the softgoal of enhancing system security
+
+- 'Dependencies links': 
+  - The task of implementing access authorization depends on the availability of the online shopping system resource
+  - The task of employing encryption measures depends on the availability of the online shopping system resource
+
+- 'Decomposition links':
+  - The goal of boosting sales is decomposed into the tasks of implementing an online shopping system and enhancing system security
+  - The softgoal of enhancing system security is decomposed into enhancing terminal security and enhancing host security
+  - The task of implementing access authorization is decomposed into authenticating users using fingerprint, password, and cardkey techniques.

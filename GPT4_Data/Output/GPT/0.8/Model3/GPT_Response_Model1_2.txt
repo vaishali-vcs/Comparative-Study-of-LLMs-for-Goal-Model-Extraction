@@ -1,0 +1,34 @@
+Based on the user stories provided, we can extract the following elements. 
+
+- 'Actors': 
+    - User
+
+- 'SoftGoals': 
+    - Improve user experience by providing easy access to recycling center's location and working hours.
+    - Ensure data integrity and accuracy of the recycling centers' information (location, working hours). 
+    - Ensure the reliability of the system to provide updated and accurate information.
+    - Maintain high system performance speed for retrieving and displaying information. 
+
+- 'Goals':
+    - To view all locations of recycling centers on a map.
+    - To get the operating hours of each recycling facility.
+
+- 'Tasks':
+    - Fetch recycling centers' data from the database.
+    - Display a map indicating the locations of the recycling centers.
+    - Provide a feature to get the working hours of the recycling centers.
+
+- 'Resources':
+    - Database of recycling centers with their locations and working hours.
+    - Mapping system to display the locations of the recycling centers.
+    - User interface to display the working hours of each recycling center.
+
+- 'Contribution links':
+    - The user interface contributes positively to the user's goal of viewing the recycling centers' locations and getting their working hours. 
+    - The database contributes positively to the system's functionality of providing accurate and updated information.
+
+- 'Dependencies links':
+    - The display of recycling centers' locations and their working hours depends on the availability and accuracy of data in the database.
+
+- 'Decomposition links':
+    - The overall goal of improving user experience can be decomposed into sub-goals like providing a map view of recycling centers' locations and displaying their working hours.

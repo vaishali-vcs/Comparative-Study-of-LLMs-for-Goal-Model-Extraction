@@ -1,0 +1,60 @@
+Actors: 
+
+* Kids and Youth (as stakeholders of the system)
+* Counseling Service Providers (as stakeholders of the system)
+
+SoftGoals: 
+
+* Anonymity: Kids and Youth should be able to seek counseling services without revealing their identities.
+* Convenience: The counseling service should be accessible through various channels (text messaging, Cyber Café, portal, Chat Rooms) and should be available at any time, any place.
+* Promptness: The counseling service should be provided in a timely manner, with minimal delays.
+* Effectiveness: The counseling service should be able to address the concerns and needs of Kids and Youth effectively.
+
+Goals: 
+
+* To provide a secure and confidential counseling service that prioritizes anonymity.
+* To offer a convenient and accessible counseling service that can be accessed through various channels.
+* To provide a prompt and effective counseling service that addresses the concerns and needs of Kids and Youth.
+
+Tasks: 
+
+* To develop a secure and anonymous messaging system for text-based counseling.
+* To create a user-friendly portal and Chat Rooms for online counseling.
+* To set up a Cyber Café for those who do not have access to the internet.
+* To train counseling service providers to be sensitive to the needs of Kids and Youth.
+
+Resources: 
+
+* Secure and confidential messaging system for text-based counseling.
+* User-friendly portal and Chat Rooms for online counseling.
+* Cyber Café for those who do not have access to the internet.
+* Trained counseling service providers.
+
+Contribution links: 
+
+* The secure and confidential messaging system will contribute to the anonymity of the counseling service.
+* The user-friendly portal and Chat Rooms will contribute to the convenience and accessibility of the counseling service.
+* The Cyber Café will contribute to the accessibility of the counseling service for those who do not have access to the internet.
+* The trained counseling service providers will contribute to the effectiveness of the counseling service.
+
+Dependencies links: 
+
+* The secure and confidential messaging system depends on the availability of a reliable and secure technology.
+* The user-friendly portal and Chat Rooms depend on the availability of a user-friendly and intuitive design.
+* The Cyber Café depends on the availability of a physical space and the necessary technology.
+* The trained counseling service providers depend on the availability of a comprehensive training program.
+
+Decomposition links: 
+
+* The secure and confidential messaging system can be decomposed into the following elements:
+	+ Secure messaging platform
+	+ Confidential messaging platform
+	+ Anonymous messaging platform
+* The user-friendly portal and Chat Rooms can be decomposed into the following elements:
+	+ User-friendly design
+	+ Intuitive interface
+	+ Accessible technology
+* The Cyber Café can be decomposed into the following elements:
+	+ Physical space
+	+ Necessary technology
+	+ Trained staff

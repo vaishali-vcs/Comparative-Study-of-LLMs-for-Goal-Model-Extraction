@@ -1,0 +1,40 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- User-friendly interface for viewing locations
+- Accurate representation of recycling centers on the map
+- Easy access to the hours of operation of each recycling facility
+- Security of user data
+- Reliability of system uptime and data accuracy
+- Data integrity of recycling center information and user data
+
+'Goals': 
+- Provide a comprehensive map of all recycling center locations
+- Display the operational hours of each recycling center
+
+'Tasks': 
+- Develop a system to map recycling centers
+- Collect data about recycling center locations
+- Incorporate hours of operation for each center into the system
+- Ensure accurate data representation on the map
+- Provide an interface for users to view recycling center locations and hours
+
+'Resources': 
+- Comprehensive and accurate data on recycling center locations and hours
+- User interface development tools
+- Data collection tools and resources
+- Server and database for storing and retrieving data
+
+'Contribution links': 
+- The user interface contributes to the softgoal of a user-friendly system
+- Accurate map representation contributes to the goal of providing a comprehensive map of recycling center locations
+- The task of collecting data contributes to the goal of displaying the operational hours of each recycling center
+
+'Dependency links': 
+- The task of developing the system depends on the availability of resources such as user interface development tools
+- The goal of providing a comprehensive map depends on the task of collecting accurate data
+
+'Decomposition links': 
+- The goal of providing a comprehensive map is decomposed into tasks such as developing the system and collecting data
+- The softgoal of a user-friendly system is decomposed into tasks such as providing an interface for users to view recycling center locations and hours.

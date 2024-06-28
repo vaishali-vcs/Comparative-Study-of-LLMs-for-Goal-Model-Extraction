@@ -1,0 +1,40 @@
+'Actors':
+- Executive
+- Employee from HR department
+- Employee
+
+'SoftGoals':
+- Ensure data security: only authorized personnel should have the ability to modify and view company data. 
+- Ensure data accessibility: all personnel should be able to view company data as required by their job role.
+- Ensure data integrity: the data should be reliable and accurate.
+
+'Goals':
+- Executive wants to have full access to company data.
+- The HR department employee wants to modify company data.
+- The employee wants to view company data.
+
+'Tasks':
+- Implement secure login systems for different user roles.
+- Implement appropriate access control measures for different user roles.
+- Implement system functionality to allow the HR department to modify company data.
+- Implement system functionality to allow all users to view company data.
+
+'Resources':
+- Company data
+- System with data access and modification capabilities
+- Employees in various roles (Executive, HR department)
+
+'Contribution links':
+- The secure login system positively contributes to the softgoal of data security.
+- The access control measures positively contribute to the softgoal of data accessibility.
+- The system functionality for data modification by HR contributes positively to the softgoal of data integrity.
+- The system functionality for data viewing by all users contributes positively to the softgoal of data accessibility.
+  
+'Dependencies links':
+- The softgoal of data integrity depends on the goal of enabling HR to modify data.
+- The softgoal of data accessibility depends on the goal of enabling all users to view data.
+  
+'Decomposition links':
+- The goal of the executive having full access to company data can be decomposed into the task of implementing a secure login system for the executive and the task of providing system functionality for data access by the executive.
+- The goal of the HR department employee modifying company data can be decomposed into the task of implementing a secure login system for the HR department and the task of providing system functionality for data modification by HR.
+- The goal of the employee viewing company data can be decomposed into the task of implementing a secure login system for employees and the task of providing system functionality for data viewing by all users.

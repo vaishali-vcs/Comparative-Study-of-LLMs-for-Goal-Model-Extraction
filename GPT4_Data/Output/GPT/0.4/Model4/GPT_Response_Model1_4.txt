@@ -1,0 +1,41 @@
+'Actors': 
+- Executive
+- Employee from the HR department
+- Employee
+
+'SoftGoals': 
+- Ensure data integrity
+- Ensure data security
+- Maintain high data retrieval speed
+- Maintain high data update speed
+
+'Goals': 
+- Full access to company data for executives
+- Modification of company data by HR department employees
+- Viewing of company data by employees
+
+'Tasks': 
+- Implement data access control for different roles
+- Implement data modification functionality for HR department employees
+- Implement data viewing functionality for employees
+
+'Resources': 
+- Company data
+- Data access control system
+- Data modification system
+- Data viewing system
+
+'Contribution links': 
+- Data access control contributes positively to data security
+- Data modification functionality contributes positively to data integrity
+- Data viewing functionality contributes positively to data retrieval speed
+
+'Dependency links': 
+- HR department employees depend on the data modification system to modify company data
+- Employees depend on the data viewing system to view company data
+- Executives depend on the data access control system to have full access to company data
+
+'Decomposition links':
+- The goal of full access to company data for executives is decomposed into the task of implementing data access control for different roles
+- The goal of modification of company data by HR department employees is decomposed into the task of implementing data modification functionality for HR department employees
+- The goal of viewing of company data by employees is decomposed into the task of implementing data viewing functionality for employees

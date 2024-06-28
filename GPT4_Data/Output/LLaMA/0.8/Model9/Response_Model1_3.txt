@@ -1,0 +1,46 @@
+Actors:
+
+* Counselors
+
+SoftGoals:
+
+* Provide online counseling services that are easily accessible to children
+* Offer a safe and secure platform for children to share their concerns and emotions
+* Ensure that children receive timely and personalized support from counselors
+* Provide resources and support for counselors to prevent burnout and maintain job satisfaction
+
+Goals:
+
+* Assist as many children as possible with their emotional and psychological needs
+* Provide a positive and supportive online environment for children
+* Help children develop coping skills and strategies to manage their emotions
+* Offer counseling services that are tailored to the needs of each child
+
+Tasks:
+
+* Develop and maintain an online counseling platform
+* Recruit and train counselors to provide online support
+* Provide resources and support for counselors to prevent burnout
+* Monitor and evaluate the effectiveness of the online counseling services
+* Ensure that the online platform is secure and safe for children to use
+
+Resources:
+
+* Online counseling platform
+* Trained counselors
+* Resources for preventing burnout (e.g. stress management techniques, self-care strategies)
+
+Contribution Links:
+
+* The online counseling platform contributes to the goal of assisting as many children as possible by providing a convenient and accessible way for children to receive support.
+* The counselors' active listening and personalized support contribute to the goal of helping children develop coping skills and strategies.
+
+Dependency Links:
+
+* The online counseling platform depends on the availability of trained counselors to provide support to children.
+* The counselors' ability to provide effective support depends on their own well-being and job satisfaction.
+
+Decomposition Links:
+
+* The goal of assisting as many children as possible can be decomposed into sub-goals such as providing support to a specific number of children per week or per month.
+* The goal of providing a positive and supportive online environment can be decomposed into sub-goals such as ensuring the platform is user-friendly and accessible, and providing resources for children to access.

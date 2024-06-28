@@ -1,0 +1,41 @@
+'Actors': 
+- Kids Helpline organization
+- Youth who need counseling
+- Potential predators
+- Public scrutinizers
+- Technical team responsible for implementing the chosen solution
+
+'SoftGoals': 
+- Increase accessibility of counseling services
+- Maintain confidentiality of users
+- Protect users from potential predators
+- Avoid public scrutiny over advice
+- Minimize liability over misinterpreted guidance
+- Increase funds for the organization
+
+'Goals': 
+- Expand the organization's ability to provide counseling via the Internet
+- Choose the most suitable technical option for expanding the internet counseling service
+
+'Tasks': 
+- Modify the existing anonymous question and answer system
+- Implement discussion boards
+- Implement wikis
+- Implement text messaging system
+- Implement chat rooms
+
+'Resources': 
+- Existing anonymous question and answer system
+- Technical infrastructure for implementing discussion boards, wikis, text messaging, chat rooms
+
+'Contribution links': 
+- The task of modifying the existing anonymous question and answer system contributes positively to the goal of expanding the organization's ability to provide counseling via the Internet
+- The task of implementing discussion boards, wikis, text messaging, chat rooms contributes positively to the goal of expanding the organization's ability to provide counseling via the Internet
+- The goal of expanding the organization's ability to provide counseling via the Internet contributes positively to the softgoal of increasing accessibility of counseling services
+
+'Dependencies links': 
+- The task of modifying the existing anonymous question and answer system depends on the resource of the existing anonymous question and answer system
+- The task of implementing discussion boards, wikis, text messaging, chat rooms depends on the resource of the technical infrastructure
+
+'Decomposition links':
+- The goal of expanding the organization's ability to provide counseling via the Internet is decomposed into the tasks of modifying the existing anonymous question and answer system, implementing discussion boards, wikis, text messaging, chat rooms.

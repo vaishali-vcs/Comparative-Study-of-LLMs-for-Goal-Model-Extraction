@@ -1,0 +1,46 @@
+Actors:
+
+* Executive
+* HR Employee
+* Employee
+
+SoftGoals:
+
+* Full access to data related to the company for the executive
+* Modify data of the company for the HR employee
+* View data of the company for the employee and the HR employee
+
+Goals:
+
+* To achieve the soft goals
+
+Tasks:
+
+* To provide full access to data for the executive
+* To allow the HR employee to modify data
+* To allow the employee to view data
+
+Resources:
+
+* Data related to the company
+
+Contribution Links:
+
+* The ability to view and modify data is crucial to the success of the company
+* The data should be up-to-date and accurate to ensure the company's performance is accurately represented
+
+Dependencies links:
+
+* The ability to view and modify data is dependent on the availability of the data
+
+Decomposition Links:
+
+* The ability to view and modify data can be decomposed into the following tasks:
+	+ Providing full access to data for the executive
+	+ Allowing the HR employee to modify data
+	+ Allowing the employee to view data
+
+Note:
+
+* The soft goals and goals are related to the non-functional requirements of the system, such as the ability to view and modify data
+* The tasks and resources are related to the functional requirements of the system, such as providing full access to data and allowing modification and viewing of data.

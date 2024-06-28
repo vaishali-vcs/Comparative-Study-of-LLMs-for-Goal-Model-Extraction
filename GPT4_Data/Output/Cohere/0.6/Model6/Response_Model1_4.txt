@@ -1,0 +1,18 @@
+Certainly, here is a list of the intentional elements in the user story: 
+
+- Actors: Wireless Telephony Company
+- SoftGoals: 
+    - High Performance: Achieve high throughput and optimal performance of the telephony system.
+    - Low Cost: Minimize infrastructure alterations and optimize hardware utilization to achieve cost-effectiveness.
+    - Specifications: Ensure the system meets requirements such as speed, security, reliability, and data integrity to achieve efficient performance.
+- Goals: Achieve high performance at low cost.
+- Tasks: 
+    - Optimise hardware utilization: Maximize the performance of existing hardware to reduce costs associated with purchasing additional hardware.
+    - Achieve high throughput: Enhance the system's capabilities to handle a large volume of network traffic or data transfer to support efficient performance.
+    - Minimize infrastructure alterations: Reduce or eliminate the need for significant changes or expansions to the current infrastructure to minimize costs.
+- Resources: Workforce, financial resources, and technological resources.
+- Contribution links: Improving hardware utilization and reducing infrastructure alterations can contribute to achieving high performance at low costs.
+- Dependencies links: The ability to achieve low costs depends on the successful optimization of hardware utilization and minimizing infrastructure alterations.
+- Decomposition links: Breaking down the goal of achieving high performance at low cost may involve further decomposition of specific tasks and sub-goals, such as researching and developing cost-effective technologies, implementing efficient operational procedures, and optimizing network routing. 
+
+Would you like help with anything else involving intentional models?

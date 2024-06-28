@@ -1,0 +1,9 @@
+## Intentional elements in GRL format:
+- **Actors**: Represented as circles with the actor's name inside.
+- **SoftGoals**: Represented as SOFTGOAL followed by the softgoal name.
+- **Goals**: Represented as the user wants, usually in the format of a hexagon with the goal's name inside.
+- **Tasks**: Represented as a hexagon with the task name inside.
+- **Resources**: Represented as the resources that are needed.
+- **Contribution links**: Represented as CONTRIBUTION followed by the contribution identifier.
+- **Dependencies links**: Represented as DEPENDENCY followed by the dependency identifier.
+- **Decomposition links**: Represented as DECOMPOSITION-LINK followed by the decomposition identifier.

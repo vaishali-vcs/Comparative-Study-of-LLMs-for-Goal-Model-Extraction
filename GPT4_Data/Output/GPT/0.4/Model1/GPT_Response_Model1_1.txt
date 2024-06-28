@@ -1,0 +1,43 @@
+- 'Actors': 
+  - Traffic Simulator (system itself)
+  - Traffic engineers (stakeholders)
+  - Road designers (stakeholders)
+
+- 'SoftGoals':
+  - Efficient road traffic engineering
+  - Efficient road traffic design
+  - Quick aid development
+  - Clear visualizations
+  - Highlighting congestion through density maps
+  - Demonstrating traffic flow and bottlenecks through animations
+  - Speed: The simulator should be able to process and display results quickly
+  - Reliability: The simulator should consistently deliver accurate results
+  - Data integrity: The simulator should maintain and display accurate and consistent data
+
+- 'Goals':
+  - Simulate traffic flow
+  - Deliver efficient road traffic engineering and design
+
+- 'Tasks':
+  - Develop clear visualizations
+  - Highlight congestion using density maps
+  - Demonstrate traffic flow and bottlenecks using animations
+
+- 'Resources':
+  - Traffic data
+  - Road design data
+  - Computing resources for simulation and visualization
+
+- 'Contribution links':
+  - Clear visualizations contribute to efficient road traffic engineering and design
+  - Density maps contribute to highlighting congestion
+  - Animations contribute to demonstrating traffic flow and bottlenecks
+
+- 'Dependencies links':
+  - The task of developing clear visualizations depends on the availability of traffic data and road design data
+  - The task of highlighting congestion using density maps depends on the availability of traffic data
+  - The task of demonstrating traffic flow and bottlenecks using animations depends on the availability of traffic data
+
+- 'Decomposition links':
+  - The goal of simulating traffic flow is decomposed into the tasks of developing clear visualizations, highlighting congestion using density maps, and demonstrating traffic flow and bottlenecks using animations
+  - The softgoal of efficient road traffic engineering and design is decomposed into the tasks of developing clear visualizations, highlighting congestion using density maps, and demonstrating traffic flow and bottlenecks using animations

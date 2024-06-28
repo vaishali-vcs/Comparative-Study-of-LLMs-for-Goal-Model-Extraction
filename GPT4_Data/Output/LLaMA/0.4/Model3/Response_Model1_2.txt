@@ -1,0 +1,42 @@
+Actors:
+
+* User
+
+SoftGoals:
+
+* To provide the user with information about the locations of recycling centers on a map
+* To enable the user to plan their routes to drop off waste
+
+Goals:
+
+* To display all locations of recycling centers on a map
+* To provide the user with information about the hours of each recycling facility
+
+Tasks:
+
+* To retrieve data about the locations of recycling centers
+* To display the data on a map
+* To provide the user with information about the hours of each recycling facility
+
+Resources:
+
+* Map data
+* Recycling center location data
+* Hours of operation data
+
+Contribution Links:
+
+* The user can contribute to the system by providing feedback on the accuracy of the map data and the hours of operation data.
+* The system can contribute to the user by providing information about the locations of recycling centers and the hours of operation.
+
+Dependencies Links:
+
+* The system depends on the user to provide feedback on the accuracy of the data.
+* The user depends on the system to provide information about the locations of recycling centers and the hours of operation.
+
+Decomposition Links:
+
+* The task of retrieving data about the locations of recycling centers can be decomposed into sub-tasks such as retrieving data from a database or web service, and processing the data to prepare it for display on the map.
+* The task of displaying the data on a map can be decomposed into sub-tasks such as creating a map interface, and displaying the data on the map.
+
+Note: The above list of intentional elements is not exhaustive and may change as the user story is further refined or additional user stories are considered.

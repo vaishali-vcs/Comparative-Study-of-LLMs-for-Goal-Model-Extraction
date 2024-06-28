@@ -1,0 +1,54 @@
+Actors:
+
+* Kids and Youth (as stakeholders of the system)
+
+SoftGoals:
+
+* Anonymity
+* Convenience
+* Promptness
+* Effectiveness
+
+The system should provide:
+
+* Secure and confidential text messaging service
+* Access to Cyber Café or Chat Rooms for online counseling
+* A user-friendly portal for scheduling appointments and accessing counseling resources
+* A secure and reliable platform for accessing counseling services
+
+Goals:
+
+* Provide accessible and convenient counseling services to Kids and Youth
+* Ensure the privacy and anonymity of users
+* Offer effective and prompt counseling services
+
+Tasks:
+
+* Develop a user-friendly portal for scheduling appointments and accessing counseling resources
+* Implement secure and confidential text messaging service
+* Provide access to Cyber Café or Chat Rooms for online counseling
+* Ensure the platform is secure and reliable
+
+Resources:
+
+* Secure and reliable technology infrastructure
+* Trained counseling professionals
+* User-friendly technology interfaces
+
+Contribution links:
+
+* The system should provide secure and confidential text messaging service to ensure the privacy and anonymity of users
+* The system should offer access to Cyber Café or Chat Rooms for online counseling to provide convenient and accessible counseling services
+* The system should have a user-friendly portal for scheduling appointments and accessing counseling resources to ensure ease of use
+
+Dependencies links:
+
+* The system's functionality depends on the availability of trained counseling professionals
+* The system's functionality depends on the secure and reliable technology infrastructure
+
+Decomposition links:
+
+* The system's text messaging service can be decomposed into sub-elements such as text messaging interface, encryption, and secure server hosting
+* The system's online counseling service can be decomposed into sub-elements such as Cyber Café or Chat Rooms interface, encryption, and secure server hosting
+
+Note: The above list of intentional elements is not exhaustive and may change as more user stories are elicited.

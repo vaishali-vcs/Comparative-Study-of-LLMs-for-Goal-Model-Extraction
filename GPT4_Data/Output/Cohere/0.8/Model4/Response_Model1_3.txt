@@ -1,0 +1,68 @@
+Certainly! Here is a list of intentional elements for each user story in your set S:
+
+### S1: As an executive, I want to have full access to data related to my company, so that I can have a sense of my company’s performance.
+
+**Actors:** Executive, System 
+
+**SoftGoals:** Privacy ( complies with data protection and privacy laws regarding the handling of sensitive company data), 
+Efficiency ( provides access to data in a timely and efficient manner),
+Reliability (data is accurate and up-to-date),
+Usability (user-friendly interface for the executive to navigate and understand the data).
+
+**Goals:** Provide the executive with a sense of the company's performance. 
+
+**Tasks:** Gather relevant data from different departments, Summarize and present the data in a comprehensible manner, Ensure data security and privacy.
+
+**Resources:** Access to all departments' data, Software for data analysis and presentation, Employee(s) responsible for handling executive requests 
+
+**Contribution links:** The work of the executive relies on the availability of the system to access the data. The system's ability to provide accurate data in a timely and organized manner contributes to the executive's ability to make informed decisions. 
+
+**Dependencies links:** The executive's request depends on the system's ability to handle data privacy regulations. 
+
+**Decomposition links:** None
+
+### S2: As an employee from the HR department, I want to modify the data of the company. As an employee, I want to view the data of the company.
+
+**Actors:** HR Employee, Employee, System 
+
+**SoftGoals:** Accessibility ( ensures that authorized employees can access the system from various devices and locations),
+Security ( safeguards the privacy and integrity of company data),
+Consistency ( maintains data consistency across the system),
+Usability ( provides a user-friendly interface for employees to navigate and perform actions)
+
+**Goals:** Enable HR employees and other employees to modify and view company data.
+
+**Tasks:** Ensure that only HR employees can modify company data, Allow other employees to view company data, 
+Implement access controls to ensure that only authorized employees can access the system, 
+
+**Resources:** Employee database, Access control system, Software for managing company data, HR employees trained to use the system 
+
+**Contribution links:** The work of the system relies on the HR employees' ability to input accurate data. The employees' ability to access and use the system is crucial to input the data correctly. 
+
+**Dependencies links:** The ability of employees to view company data depends on the successful modification of company data by the HR employees. 
+
+**Decomposition links:** The ability to view and modify company data can be decomposed into several tasks, such as creating user accounts, authorizing access, and managing data storage.
+
+### S3: As an employee, I want to view the data of the company.
+
+**Actors:** Employee, System 
+
+**SoftGoals:** Accessibility ( ensures that authorized employees can access the system from various devices and locations),
+Security ( safeguards the privacy and integrity of company data),
+Reliability (data is accurate and up-to-date),
+Usability ( provides a user-friendly interface for employees to navigate and view the data)
+
+**Goals:** Enable employees to view company data.
+
+**Tasks:** Implement access controls to ensure that only authorized employees can access the system, 
+Allow employees to view company data, Ensure that the system is accessible to employees across different devices and locations.
+
+**Resources:** Employee database, Access control system, Software for managing company data 
+
+**Contribution links:** The work of the system relies on the employees' ability to use the system to view the data. The system's ability to provide accessible and accurate data in a timely manner contributes to the employees' ability to stay informed. 
+
+**Dependencies links:** The ability of employees to view company data depends on the system's ability to handle access control and data management. 
+
+**Decomposition links:** The ability to view company data can be decomposed into several tasks, such as creating user accounts, authorizing access, and managing data storage. 
+
+I hope this was helpful! Would you like help with anything else?

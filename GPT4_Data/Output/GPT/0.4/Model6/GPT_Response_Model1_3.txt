@@ -1,0 +1,17 @@
+Based on the provided user story, the intentional elements can be extracted as follows:
+
+- 'Actors': Wireless telephony company
+- 'SoftGoals': High performance, low cost, high throughput, minimal infrastructure alterations
+- 'Goals': Optimize hardware utilization, achieve high throughput, minimize infrastructure alterations
+- 'Tasks': 
+    - Identify and utilize hardware to its fullest extent
+    - Implement strategies for achieving high throughput
+    - Plan and execute infrastructure alterations with minimal costs
+- 'Resources': Hardware, infrastructure
+- 'Contribution links': 
+    - Optimizing hardware utilization contributes positively to the softgoal of high performance
+    - Achieving high throughput contributes positively to the softgoal of high performance
+    - Minimizing infrastructure alterations contributes positively to the softgoal of low cost
+- 'Dependencies links': Not explicitly mentioned in the user story
+- 'Decomposition links': 
+    - The goal of achieving high performance at low cost is decomposed into the tasks of optimizing hardware utilization, achieving high throughput, and minimizing infrastructure alterations.

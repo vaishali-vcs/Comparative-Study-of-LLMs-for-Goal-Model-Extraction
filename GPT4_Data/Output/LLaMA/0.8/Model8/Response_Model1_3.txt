@@ -1,0 +1,48 @@
+Actors:
+
+* The Kids Helpline (holder of intentions)
+
+SoftGoals:
+
+* To provide a comfortable and accessible platform for youth to seek help and support
+* To increase the reach and effectiveness of the counseling service
+* To ensure the privacy and security of the youth using the online counseling service
+* To protect the organization from potential legal liabilities
+
+Goals:
+
+* To develop an online counseling service that is accessible and user-friendly
+* To maintain the confidentiality and privacy of the youth seeking help
+* To protect the organization from potential legal liabilities
+
+Tasks:
+
+* To modify the existing anonymous question and answer system to make it more accessible online
+* To create a safe and secure platform for online discussion boards and wikis
+* To implement a secure text messaging service for the youth to reach out to the counselors
+* To set up a monitored chat room for the youth to seek immediate help
+
+Resources:
+
+* Technical expertise in developing an online counseling platform
+* Secure and reliable hosting and infrastructure for the online platform
+* A team of trained counselors to provide support and guidance to the youth
+
+Contribution Links:
+
+* The modification of the existing anonymous question and answer system will contribute to the goal of developing an online counseling service that is accessible and user-friendly.
+* The creation of a safe and secure platform for online discussion boards and wikis will contribute to the goal of maintaining the confidentiality and privacy of the youth seeking help.
+* The implementation of a secure text messaging service will contribute to the goal of providing a comfortable and accessible platform for the youth to seek help and support.
+* The set up of a monitored chat room will contribute to the goal of providing immediate help to the youth.
+
+Dependency Links:
+
+* The online counseling service will depend on the availability of trained counselors to provide support and guidance to the youth.
+* The online platform will depend on secure and reliable hosting and infrastructure to ensure the privacy and security of the youth.
+
+Decomposition Links:
+
+* The modification of the existing anonymous question and answer system can be decomposed into smaller tasks such as updating the interface, testing the platform, and training counselors on the new system.
+* The creation of a safe and secure platform for online discussion boards and wikis can be decomposed into smaller tasks such as setting up user accounts, creating moderation guidelines, and implementing security measures.
+* The implementation of a secure text messaging service can be decomposed into smaller tasks such as selecting a messaging platform, setting up the messaging system, and training counselors on the new system.
+* The set up of a monitored chat room can be decomposed into smaller tasks such as selecting a chat room platform, setting up the chat room, and training counselors on the new system.

@@ -1,0 +1,31 @@
+Based on the provided user stories, here are the intentional elements:
+
+- 'Actors': 
+    - User
+- 'SoftGoals': 
+    - Reliable and accurate display of locations and hours of recycling centers
+    - User-friendly interface
+    - High-speed data retrieval and display
+    - Secure data transmission
+- 'Goals': 
+    - View locations of recycling centers on a map
+    - Get the hours of operation of each recycling facility
+- 'Tasks': 
+    - Retrieve data about recycling center locations from the database
+    - Display the locations on a map
+    - Retrieve data about the hours of operation of each recycling center from the database
+    - Display the hours of operation
+- 'Resources': 
+    - Database of recycling centers with their locations and hours of operation
+    - Map displaying software or API
+- 'Contribution links': 
+    - Reliable and accurate data retrieval contributes positively to the goals of viewing locations and getting hours of operation
+    - User-friendly interface contributes positively to the user's experience
+    - High-speed data retrieval and display contributes positively to user satisfaction and efficiency of task completion
+    - Secure data transmission contributes positively to user trust and system integrity
+- 'Dependencies links': 
+    - The tasks of retrieving data about locations and hours of operation depend on the availability of the database resource
+    - The task of displaying locations on a map depends on the map displaying software or API resource
+- 'Decomposition links':
+    - The goal of viewing locations of recycling centers is decomposed into the tasks of retrieving location data and displaying it on a map
+    - The goal of getting hours of operation of each recycling center is decomposed into the tasks of retrieving hours of operation data and displaying it.

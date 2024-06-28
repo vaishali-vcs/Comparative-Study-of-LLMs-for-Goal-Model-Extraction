@@ -1,0 +1,35 @@
+Sure, here is a list of intentional elements for each of the user stories provided:
+
+### User Story S1:
+- Actors: User, Recycling Bin, Map Display
+- SoftGoals: Real-time visibility of bin locations, Accurate representation of bin availability, Filter options for different types of bins, Search functionality for specific bin locations, Integration with geographical maps for precise location visualization, Mobile-friendly interface for easy accessibility.
+- Goals: To provide users with a convenient way to locate public recycling bins in their area.
+- Tasks: Collect and organize data on recycling bin locations, Implement a mapping platform that can display the data, Ensure accurate representation of bin availability, Allow users to filter and search for specific bins, Make the platform accessible on mobile devices.
+- Resources: Recycling bin location data, Mapping software and data, Development resources for creating the map display interface
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+### User Story S2:
+- Actors: User, Recycling Event, Safe Disposal Location
+- SoftGoals: Real-time visibility of disposal events, Filter options for different types of events, Search functionality for specific events, Mobile-friendly interface for easy event accessibility.
+- Goals: To provide users with a way to view safe disposal events organized around their area.
+- Tasks: Collect and organize data on recycling events, Implement an event display platform that can display the data, Ensure accurate representation of event details, Allow users to filter and search for specific events, Make the platform accessible on mobile devices.
+- Resources: Recycling event data, Development resources for creating the event display platform
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+### User Story S3:
+- Actors: User, Recycling Center, Waste Disposal
+- SoftGoals: Real-time visibility of recycling center locations, Filter options for different types of recycling centers, Search functionality for specific recycling centers, Integration with geographical maps for precise location visualization, Mobile-friendly interface for easy accessibility.
+- Goals: To provide users with a way to view all locations of recycling centers on a map, so they can plan their waste disposal routes.
+- Tasks: Collect and organize data on recycling center locations, Implement a mapping platform that can display the data, Ensure accurate representation of center locations, Allow users to filter and search for specific centers, Make the platform accessible on mobile devices.
+- Resources: Recycling center location data, Mapping software and data, Development resources for creating the map display interface
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+Would you like help with anything else regarding user stories or their intentional elements? 
+
+Let me know if you'd like me to clarify or expand on any of the information above.

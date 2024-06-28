@@ -1,0 +1,46 @@
+- 'Actors': 
+  - Business owner
+  - Customers
+  - Users
+
+- 'SoftGoals': 
+  - Ensuring system security
+  - Enhancing terminal security
+  - Enhancing host security
+  - Improving online shopping experience
+  - Boosting sales
+  - Implementing access authorization
+  - Authenticating users
+  - Employing encryption measures
+
+- 'Goals': 
+  - Boost sales
+  - Offer customers an online shopping experience
+  - Ensure system security
+
+- 'Tasks': 
+  - Implement access authorization
+  - Authenticate users using Fingerprint, Password, and Cardkey
+  - Employ encryption measures
+
+- 'Resources': 
+  - Fingerprint authentication system
+  - Password authentication system
+  - Cardkey authentication system
+  - Encryption measures
+
+- 'Contribution links': 
+  - Access authorization contributes to terminal security
+  - User authentication contributes to access authorization
+  - Encryption measures contribute to system security
+
+- 'Dependencies links': 
+  - Terminal security depends on access authorization
+  - Access authorization depends on user authentication
+  - System security depends on encryption measures
+
+- 'Decomposition links':
+  - System security is decomposed into terminal security and host security
+  - Access authorization is decomposed into Fingerprint, Password, and Cardkey authentication
+  - User authentication is decomposed into Fingerprint, Password, and Cardkey authentication
+  - Encryption measures are a part of system security

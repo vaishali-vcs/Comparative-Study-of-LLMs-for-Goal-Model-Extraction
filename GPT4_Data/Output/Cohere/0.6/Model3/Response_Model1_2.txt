@@ -1,0 +1,23 @@
+Certainly! Here is a list of intentional elements for each user story:
+
+### User Story S1:
+- Actors: User, Recycling Center Map
+- SoftGoals: Smooth and fast interface, Accurate and up-to-date information, Mobile-friendly design, Secure data transmission, Consistent user experience across platforms
+- Goals: View all recycling center locations, Check routes to drop off waste
+- Tasks: Develop a map interface, Integrate location data for recycling centers, Implement routing algorithms, Ensure accurate and up-to-date information, Test and optimize performance, Create a mobile-friendly version
+- Resources: Recycling center data, Mapping software and tools, Development and design resources, Testing equipment and tools
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+### User Story S2:
+- Actors: User, Recycling Facility Database
+- SoftGoals: Reliable opening hours information, Easy-to-use interface for hours retrieval, Transparent and secure data handling, Responsive customer support for feedback, Consistent design and functionality across platforms
+- Goals: Get hours of each recycling facility, Arrange drop-offs on off days or after work hours
+- Tasks: Develop a database of recycling facilities, Collect and integrate hours of operation data, Design and implement a user interface for hours retrieval, Ensure reliable and accurate data, Implement a feedback system for operational hours, Test and optimize the system
+- Resources: Recycling facility data, Customer support staff, Data handling and security tools, Development and design resources, Testing equipment and tools
+- Contribution links: None specified
+- Dependencies links: Depends on the successful implementation of S1
+- Decomposition links: The decomposition of this user story is directly linked to S1, as the successful completion of S1 is a prerequisite to achieve this user story. 
+
+Would you like help with anything else?

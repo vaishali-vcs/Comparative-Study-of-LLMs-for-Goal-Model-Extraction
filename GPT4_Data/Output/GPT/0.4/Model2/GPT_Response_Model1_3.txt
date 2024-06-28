@@ -1,0 +1,43 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- User-friendly interface
+- Accurate and up-to-date information display
+- Fast loading of map and event data
+- Secure data transmission
+- Reliable system performance
+- High data integrity
+
+'Goals': 
+- View a map display of public recycling bins
+- View safe disposal events
+- View all locations of recycling centers on a map
+
+'Tasks': 
+- Load and display map data
+- Retrieve and display public recycling bin locations
+- Retrieve and display safe disposal event information
+- Retrieve and display recycling center locations
+- Provide route suggestions to recycling centers
+
+'Resources': 
+- Map data
+- Public recycling bin location data
+- Safe disposal event data
+- Recycling center location data
+- Route suggestion algorithm
+
+'Contribution links': 
+- The task of loading and displaying map data contributes to the goal of viewing a map display of public recycling bins, viewing safe disposal events, and viewing all locations of recycling centers on a map.
+- The tasks of retrieving and displaying public recycling bin locations, safe disposal event information, and recycling center locations contribute to the respective goals.
+- The task of providing route suggestions contributes to the goal of viewing all locations of recycling centers on a map.
+
+'Dependencies links': 
+- The tasks of retrieving and displaying public recycling bin locations, safe disposal event information, and recycling center locations depend on the availability of the respective data resources.
+- The task of providing route suggestions depends on the availability of map data and recycling center location data.
+
+'Decomposition links':
+- The goal of viewing a map display of public recycling bins is decomposed into the tasks of loading and displaying map data and retrieving and displaying public recycling bin locations.
+- The goal of viewing safe disposal events is decomposed into the tasks of loading and displaying map data and retrieving and displaying safe disposal event information.
+- The goal of viewing all locations of recycling centers on a map is decomposed into the tasks of loading and displaying map data, retrieving and displaying recycling center locations, and providing route suggestions.

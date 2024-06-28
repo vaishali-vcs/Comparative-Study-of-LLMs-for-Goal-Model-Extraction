@@ -1,0 +1,43 @@
+- 'Actors': 
+    - Executive
+    - HR department employee
+    - Employee
+  
+- 'SoftGoals': 
+    - Improve data access.
+    - Enhance company performance monitoring.
+    - Maintain data integrity.
+    - Ensure data security.
+    - Efficient data management.
+
+- 'Goals': 
+    - Full access to company data for the executive.
+    - HR department employee should be able to modify company data.
+    - Employees should be able to view company data.
+
+- 'Tasks': 
+    - Development of a secure and efficient data management system.
+    - Implementation of appropriate user roles and access levels.
+    - Regular updates and maintenance of the data management system.
+
+- 'Resources': 
+    - Company data
+    - Data management system
+    - HR department
+    - Executive
+    - Employees
+
+- 'Contribution links': 
+    - Between the goal of full data access for the executive and the softgoal of enhanced company performance monitoring.
+    - Between the goal of HR department employee modifying company data and the softgoal of maintaining data integrity.
+    - Between the goal of employees being able to view company data and the softgoal of efficient data management.
+
+- 'Dependencies links': 
+    - Between the executive and the data management system for accessing company data.
+    - Between the HR department employee and the data management system for modifying company data.
+    - Between the employees and the data management system for viewing company data.
+
+- 'Decomposition links':
+    - From the task of developing a secure and efficient data management system to the goal of full data access for the executive, the goal of HR department employee modifying company data, and the goal of employees being able to view company data.
+    - From the task of implementing appropriate user roles and access levels to the goal of full data access for the executive, the goal of HR department employee modifying company data, and the goal of employees being able to view company data.
+    - From the task of regular updates and maintenance of the data management system to the goal of full data access for the executive, the goal of HR department employee modifying company data, and the goal of employees being able to view company data.

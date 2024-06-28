@@ -1,0 +1,28 @@
+- 'Actors': 
+    - Kids and Youth
+    - Counseling Service
+- 'SoftGoals': 
+    - Prioritize anonymity
+    - Offer convenient counseling
+    - Provide prompt counseling
+    - Deliver effective counseling
+    - Maintain security and data integrity
+    - Ensure reliability of the service
+- 'Goals': 
+    - To provide counseling service to kids and youth
+- 'Tasks': 
+    - Utilize text messaging for counseling
+    - Opt for Cyber Café for counseling
+    - Visit the portal for counseling
+    - Use Chat Rooms for counseling
+- 'Resources': 
+    - Text messaging platform
+    - Cyber Café
+    - Counseling portal
+    - Chat Rooms
+- 'Contribution links': 
+    - The text messaging, Cyber Café, portal, and Chat Rooms contribute positively to the goal of providing counseling service.
+- 'Dependencies links': 
+    - The effectiveness of counseling service depends on the anonymity, convenience, and promptness provided by the platforms.
+- 'Decomposition links':
+    - The goal of providing counseling service is decomposed into tasks: utilizing text messaging, opting for Cyber Café, visiting the portal, and using Chat Rooms.

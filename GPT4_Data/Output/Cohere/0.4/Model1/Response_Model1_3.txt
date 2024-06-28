@@ -1,0 +1,8 @@
+## Actors: Traffic engineers, planners and designers
+## SoftGoals: Efficient road traffic engineering and design, minimized congestion and optimized traffic flow
+## Goals: To analyze and find optimal solutions for road traffic
+## Tasks: To simulate changes, additions or subtractions in a road network, generate statistics for congestion and traffic jams, optimize traffic light timing and sequencing and assess the impact of public objects and buildings on road networks
+## Resources: Road traffic simulation software such as AnyLogic or Traffix, traffic lights, road network objects (e.g. parking bays, bus stops, access lanes)
+## Contribution links: The placement of road network objects and optimization of traffic light sequencing directly influence traffic flow and capacity
+## Dependencies links: None
+## Decomposition links: None

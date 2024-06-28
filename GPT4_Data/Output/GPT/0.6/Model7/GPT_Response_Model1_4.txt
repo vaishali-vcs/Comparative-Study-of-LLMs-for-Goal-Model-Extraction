@@ -1,0 +1,36 @@
+'Actors': 
+- Business Owner
+- Customers
+- System
+
+'SoftGoals': 
+- Enhance system security
+- Improve online shopping experience
+- Terminal security
+- Host security
+
+'Goals': 
+- Boost sales
+
+'Tasks': 
+- Implement access authorization
+- Authenticate users
+- Adopt fingerprint, password, and cardkey techniques
+- Employ encryption measures
+
+'Resources': 
+- Fingerprint, password, and cardkey techniques
+- Encryption measures
+
+'Contribution links': 
+- Implementation of access authorization contributes to enhancing terminal security
+- User authentication through fingerprint, password, and cardkey techniques contributes to the enhancement of terminal security
+- Encryption measures contribute to the improvement of overall system security
+
+'Dependencies links': 
+- The task of user authentication depends on the availability of fingerprint, password, and cardkey techniques
+- The task of employing encryption measures depends on the resources (encryption measures)
+
+'Decomposition links':
+- The softgoal of enhancing system security is decomposed into the tasks of implementing access authorization, authenticating users, and employing encryption measures
+- The task of authenticating users is further decomposed into the tasks of adopting fingerprint, password, and cardkey techniques.

@@ -1,0 +1,32 @@
+Actors:
+- User
+
+SoftGoals:
+- View a map display of the public recycling bins around my area.
+- View the safe disposal events currently being organised around my area.
+- View all locations of recycling centers on a map.
+
+Goals:
+- To provide the user with information on the location of public recycling bins and safe disposal events.
+- To enable the user to plan the most efficient route to drop off waste.
+
+Tasks:
+- Display a map of public recycling bins around the user's area.
+- Provide information on safe disposal events currently being organised around the user's area.
+- Display a map of all recycling center locations.
+
+Resources:
+- A map display of public recycling bins and safe disposal events.
+- Information on recycling center locations.
+
+Contribution Links:
+- The map display of public recycling bins and safe disposal events will contribute to the user being able to view all locations of recycling centers on a map.
+- The information on recycling center locations will contribute to the user being able to plan the most efficient route to drop off waste.
+
+Dependencies Links:
+- The map display of public recycling bins and safe disposal events will depend on the availability of up-to-date information on the location of these bins and events.
+- The information on recycling center locations will depend on the availability of accurate information on the location of these centers.
+
+Decomposition Links:
+- The task of displaying a map of public recycling bins and safe disposal events can be decomposed into sub-tasks such as retrieving the location data, formatting the data for display, and displaying the map.
+- The task of providing information on recycling center locations can be decomposed into sub-tasks such as retrieving the location data, formatting the data for display, and displaying the information.

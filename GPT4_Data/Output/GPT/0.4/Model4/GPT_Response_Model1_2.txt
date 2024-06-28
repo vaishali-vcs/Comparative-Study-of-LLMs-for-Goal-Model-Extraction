@@ -1,0 +1,35 @@
+'Actors': 
+- Executive
+- Employee from the HR department
+- Employee
+
+'SoftGoals': 
+- Executive: Enhance data accessibility, Improve company performance understanding
+- Employee from the HR department: Enhance data modification capabilities
+- Employee: Enhance data view capabilities
+
+'Goals': 
+- Executive: Full access to company data
+- Employee from the HR department: Modify company data
+- Employee: View company data
+
+'Tasks': 
+- Executive: Review company data, Analyze company performance
+- Employee from the HR department: Access company data, Modify company data
+- Employee: Access company data, View company data
+
+'Resources': 
+- Company data
+
+'Contribution links': 
+- Executive: Full access to company data contributes to enhanced data accessibility
+- Employee from the HR department: Ability to modify company data contributes to enhanced data modification capabilities
+- Employee: Ability to view company data contributes to enhanced data view capabilities
+
+'Dependencies links': 
+- Employee from the HR department and Employee are dependent on the Executive for data access permissions
+
+'Decomposition links':
+- The goal of full access to company data for the Executive can be decomposed into tasks of reviewing and analyzing company data
+- The goal of modifying company data for the Employee from the HR department can be decomposed into tasks of accessing and modifying company data
+- The goal of viewing company data for the Employee can be decomposed into tasks of accessing and viewing company data

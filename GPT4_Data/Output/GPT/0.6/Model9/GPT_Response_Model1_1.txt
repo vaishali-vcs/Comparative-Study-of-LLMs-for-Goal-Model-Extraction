@@ -1,0 +1,30 @@
+- 'Actors': 
+    - Counselors: They represent the stakeholders who are offering online counseling services. They have the goal of assisting as many children as possible and preventing burnout to achieve job satisfaction.
+  
+- 'SoftGoals': 
+    - Assisting as many children as possible: This is a softgoal as there is no clear, objective measure of satisfaction. It is related to the functionality of the online counseling services.
+    - Prevention of burnout: This is another softgoal as it is subjective and related to the well-being of the counselors. It is related to job satisfaction and the effectiveness of the counseling services.
+    - Job satisfaction: This is a softgoal related to the counselors' work environment. It is subjective and related to the well-being of the counselors.
+    - Maintain high level of service: This is a derived softgoal that ensures the quality of the online counseling services. It includes speed, security, reliability, and data integrity of the services.
+  
+- 'Goals': 
+    - Provide online counseling services: This is the main goal of the counselors. It is quantifiable and related to the functional requirements of the system.
+  
+- 'Tasks': 
+    - Offering counseling in cyber cafes: This is a task that operationalizes the goal of providing online counseling services.
+    - Offering counseling in portal chat rooms: This is another task that operationalizes the goal of providing online counseling services.
+  
+- 'Resources': 
+    - Cyber cafes: These are the resources needed to offer counseling services.
+    - Portal chat rooms: These are also resources needed to offer counseling services.
+  
+- 'Contribution links': 
+    - Offering counseling in cyber cafes and portal chat rooms contributes positively to the goal of providing online counseling services.
+    - Achieving the softgoal of assisting as many children as possible contributes positively to the main goal of providing online counseling services.
+    - Achieving the softgoal of preventing burnout contributes positively to the softgoal of job satisfaction.
+  
+- 'Dependencies links': 
+    - The task of offering counseling in cyber cafes and portal chat rooms is dependent on the resources of cyber cafes and portal chat rooms.
+  
+- 'Decomposition links':
+    - The main goal of providing online counseling services is decomposed into the tasks of offering counseling in cyber cafes and portal chat rooms.

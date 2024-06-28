@@ -1,0 +1,49 @@
+Actors:
+
+* The Kids Helpline (holder of intentions)
+* Youth seeking counseling (active entities in the system or its environment)
+
+SoftGoals:
+
+* To provide a comfortable and accessible platform for youth to seek counseling
+* To increase the reach and effectiveness of the counseling service
+* To maintain confidentiality and protect the privacy of youth seeking counseling
+* To prevent predators from using the platform to harm or exploit youth
+* To ensure the accuracy and reliability of the counseling advice provided
+
+Goals:
+
+* To expand the reach of the counseling service to more youth
+* To increase the accessibility of the counseling service to youth in remote or underserved areas
+* To provide a secure and trustworthy platform for online counseling
+
+Tasks:
+
+* To develop and implement a modified anonymous question and answer system
+* To create and maintain online discussion boards, wikis, and text messaging services
+* To establish and enforce strict moderation policies to ensure the safety and well-being of youth using the platform
+
+Resources:
+
+* A dedicated team of moderators to monitor and manage the online platform
+* A secure and reliable technology infrastructure to support the online counseling service
+
+Contribution links:
+
+* The confidentiality and security features of the online platform will contribute to the safety and well-being of youth seeking counseling
+* The accessibility of the online platform will contribute to the reach and effectiveness of the counseling service
+
+Dependencies links:
+
+* The success of the online counseling service depends on the availability and reliability of the technology infrastructure
+* The success of the online counseling service depends on the effectiveness of the moderation policies and procedures
+
+Decomposition links:
+
+* The online counseling service can be decomposed into the following sub-elements:
+	+ Anonymous question and answer system
+	+ Online discussion boards
+	+ Wikis
+	+ Text messaging services
+
+Note: The above list of intentional elements and links is just an example and may need to be adjusted based on the specific user story and the needs of the project.

@@ -1,0 +1,45 @@
+Actors: 
+
+* Montfort Hospital (system)
+* Patients (stakeholders)
+
+SoftGoals:
+
+* Provide patients with real-time information about their status and wait time
+* Improve patient satisfaction by keeping them informed about the process
+* Reduce patient anxiety and uncertainty by providing clear and accurate information
+* Increase efficiency of the process by reducing the need for patients to ask staff for updates
+
+Goals:
+
+* To provide patients with accurate and up-to-date information about their status and wait time
+* To enable nurses to easily set and update the current status and expected time for each patient
+* To improve the overall patient experience and satisfaction with the process
+
+Tasks:
+
+* Develop a user-friendly interface for patients to track their status and wait time
+* Implement a system for nurses to set and update the current status and expected time for each patient
+* Integrate the system with existing hospital systems to ensure accurate and up-to-date information
+
+Resources:
+
+* Hospital IT infrastructure
+* Development team
+* Software and hardware for the system
+
+Contribution Links:
+
+* Patients can contribute to the system by providing feedback and suggestions for improvement
+* Nurses can contribute to the system by providing accurate and up-to-date information about the patient's status and expected time
+
+Dependencies Links:
+
+* The system depends on the availability of hospital IT infrastructure and the development team
+* The system depends on the accuracy and completeness of the information provided by nurses
+
+Decomposition Links:
+
+* The system can be decomposed into smaller components, such as the user interface, the database, and the integration with existing hospital systems
+
+Note: The softgoals and goals are not mutually exclusive, and the tasks and resources are not exhaustive, but rather a starting point for the development of the Wait Time Estimation System.

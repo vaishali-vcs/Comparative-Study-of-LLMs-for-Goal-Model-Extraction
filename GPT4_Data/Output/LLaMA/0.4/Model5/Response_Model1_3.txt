@@ -1,0 +1,54 @@
+Actors:
+
+* Montfort Hospital (the system itself)
+* Patients (stakeholders of the system)
+
+SoftGoals:
+
+* Provide patients with real-time information about their status and wait time
+* Improve patient satisfaction by keeping them informed about the process
+* Reduce patient anxiety and stress by providing them with accurate wait time estimates
+* Increase the efficiency of the hospital's processes by providing real-time data to hospital staff
+
+SoftGoals Specifications:
+
+* The system should provide patients with real-time updates about their status and wait time
+* The system should be able to track the patient's progress through the process
+* The system should provide patients with accurate wait time estimates based on the current status of the process
+* The system should be able to handle a high volume of patients and provide real-time data to hospital staff
+
+Goals:
+
+* To provide patients with accurate wait time estimates
+* To improve patient satisfaction by keeping them informed about the process
+* To increase the efficiency of the hospital's processes by providing real-time data to hospital staff
+
+Tasks:
+
+* Register patients in the system
+* Provide patients with an access code to track the process
+* Set the current status and expected time for each step of the process
+
+Resources:
+
+* The system should be accessible to patients and hospital staff
+* The system should be able to track the patient's progress through the process
+* The system should provide real-time data to hospital staff
+
+Contribution Links:
+
+* The system's ability to provide real-time information to patients will improve their satisfaction
+* The system's ability to track the patient's progress will improve the efficiency of the hospital's processes
+* The system's ability to provide real-time data to hospital staff will improve the quality of care
+
+Dependency Links:
+
+* The system's functionality is dependent on the hospital's existing IT infrastructure
+* The system's functionality is dependent on the hospital's staff using the system correctly
+
+Decomposition Links:
+
+* The system can be decomposed into smaller sub-systems for registration, tracking, and wait time estimation
+* The system can be decomposed into smaller sub-systems for patient access and hospital staff access
+
+Note: The above output is just an example and may vary based on the specific requirements of the user story.

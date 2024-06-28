@@ -1,0 +1,75 @@
+Sure, here is a breakdown of the elements for each user story:
+
+### S1:
+- Actors: Executive
+- SoftGoals: Full access to data related to their company, Company Data Specifications (e.g. speed, security, reliability, and data integrity)
+- Goals: Obtain a sense of company performance
+- Tasks: View company data
+- Resources: Access to company databases
+- Contribution links: None
+- Dependencies links: None
+- Decomposition links: None
+
+### S2:
+- Actors: HR Employee
+- SoftGoals: Modify company data, Company Data Specifications 
+- Goals: Update company data
+- Tasks: Modify company data
+- Resources: Access to company databases and employee information
+- Contribution links: None
+- Dependencies links: None
+- Decomposition links: None
+
+### S3:
+- Actors: Employee
+- SoftGoals: Company Data Specifications
+- Goals: View company data
+- Tasks: View company data
+- Resources: Access to company databases
+- Contribution links: None
+- Dependencies links: None
+- Decomposition links: None
+
+Would you like help with anything else?
+
+<!-- markdown
+Output a list of intentional elements for the following user stories delimited by #### characters.
+
+Consider a set S that consists of three user stories:
+S1: As an executive, I want to have full access to data related to my company, so that I can have a sense of my company’s performance.
+S2: As an employee from the HR department, I want to modify the data of the company. As an employee, I want to view the data of the company.
+S3: As an employee, I want to view the data of the company.
+####Output:
+
+####S1:
+Actors: Executive
+SoftGoals: Full access to data related to their company, Company Data Specifications (e.g. speed, security, reliability, and data integrity)
+Goals: Obtain a sense of company performance
+Tasks: View company data
+Resources: Access to company databases
+Contribution links: None
+Dependencies links: None
+Decomposition links: None
+
+####S2:
+Actors: HR Employee
+SoftGoals: Modify company data, Company Data Specifications 
+Goals: Update company data
+Tasks: Modify company data
+Resources: Access to company databases and employee information
+Contribution links: None
+Dependencies links: None
+Decomposition links: None
+
+####S3:
+Actors: Employee
+SoftGoals: Company Data Specifications
+Goals: View company data
+Tasks: View company data
+Resources: Access to company databases
+Contribution links: None
+Dependencies links: None
+Decomposition links: None
+
+####Would you like help with anything else?
+-->

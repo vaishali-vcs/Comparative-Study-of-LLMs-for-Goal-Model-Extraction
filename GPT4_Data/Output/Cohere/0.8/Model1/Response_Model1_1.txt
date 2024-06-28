@@ -1,0 +1,8 @@
+## Actors: traffic managers, road traffic engineers, system analysts, and designers
+## Goals: to analyse and find optimal solutions for traffic flow and capacity, and to create efficient road traffic engineering and design
+## SoftGoals: to minimize congestion and traffic jams, and to improve traffic light timing and sequencing
+## Tasks: to plan road networks, to simulate changes, additions or subtractions to roads, to conduct throughput analysis, to integrate public objects and buildings into road networks, and to assess the traffic impact
+## Resources: various road network objects such as parking bays, bus stops and access lanes
+## Contribution links: the placement of road network objects and optimization of traffic light sequencing has a direct influence on traffic flow
+## Dependencies links: unlikely to be relevant for this scenario
+## Decomposition links: the road network can be decomposed into sub-elements such as individual roads and intersections

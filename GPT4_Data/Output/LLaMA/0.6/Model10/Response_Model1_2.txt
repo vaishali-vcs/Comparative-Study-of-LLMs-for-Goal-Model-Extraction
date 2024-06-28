@@ -1,0 +1,59 @@
+Actors:
+
+* Kids and Youth (users of the counseling service)
+
+SoftGoals:
+
+* Anonymity: The system must provide a high level of anonymity to protect the privacy of the users.
+	+ Specifications:
+		- The system must use end-to-end encryption for all communication channels.
+		- The system must not require users to provide personal information or identification.
+		- The system must have a strict no-logs policy.
+* Convenience: The system must provide convenient and accessible counseling services.
+	+ Specifications:
+		- The system must offer multiple communication channels (e.g., text messaging, Cyber Café, portal, Chat Rooms).
+		- The system must have a user-friendly interface that is easy to navigate.
+		- The system must be available 24/7.
+* Promptness: The system must provide prompt counseling services.
+	+ Specifications:
+		- The system must have a response time of less than 24 hours for all communication channels.
+		- The system must have a system in place for handling emergency situations.
+
+Goals:
+
+* Provide effective counseling services to Kids and Youth.
+
+Tasks:
+
+* Offer multiple communication channels for users to access counseling services.
+* Provide a user-friendly interface that is easy to navigate.
+* Ensure the system is available 24/7.
+* Implement end-to-end encryption for all communication channels.
+* Have a strict no-logs policy.
+* Have a system in place for handling emergency situations.
+
+Resources:
+
+* A team of licensed therapists and counselors.
+* A secure and reliable communication infrastructure.
+* A user-friendly online platform.
+
+Contribution Links:
+
+* The system's anonymity features contribute to the users' privacy and security.
+* The system's availability and responsiveness contribute to the users' convenience and promptness.
+
+Dependencies Links:
+
+* The system depends on the availability of licensed therapists and counselors.
+* The system depends on the reliability of the communication infrastructure.
+
+Decomposition Links:
+
+* The system's functionality can be decomposed into the following sub-systems:
+	+ Communication channel management.
+	+ User authentication and authorization.
+	+ Counseling service management.
+	+ Emergency response management.
+
+Note: The above list is not exhaustive and may require further specification and refinement based on the specific requirements of the system and the stakeholders.

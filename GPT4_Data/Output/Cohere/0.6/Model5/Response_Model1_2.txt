@@ -1,0 +1,10 @@
+```
+Actors: Montfort Hospital
+SoftGoals: Provide patients with real-time information of their status and wait time
+Goals: Achieve a system that informs patients of their current process and expected wait time
+Tasks: Register patients to the WTES system (Start of the process), Provide access codes to patients to track their process (Given by the nurse)
+Resources: Access codes
+Contribution links: Set by the nurse to track the process
+Dependencies links: 
+Decomposition links: 
+```

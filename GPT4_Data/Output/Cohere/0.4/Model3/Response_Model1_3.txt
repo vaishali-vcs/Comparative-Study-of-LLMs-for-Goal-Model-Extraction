@@ -1,0 +1,13 @@
+Certainly! Here is a list of intentional elements for each user story: 
+
+### User Story S1:
+- Actors: User, Recycling Center Map
+- SoftGoals: Provide accurate and up-to-date information, Easy to use interface, Efficient search functionality, Consider alternative routes for better navigation, Integrate with popular map platforms for wider accessibility, Secure user data and privacy
+- Goals: View recyclable materials accepted at each center, Check real-time traffic conditions for different routes, Filter centers by specific materials or distance, Save favorite centers or frequently used routes, Access personal account information for easier navigation 
+
+### User Story S2:
+- Actors: User, Recycling Facility Database, Mapping Software
+- SoftGoals: Large coverage of recycling centers, Accurate hours for each facility, Regular updates on any changes to hours or operational status, Options for contact information of each facility in case of emergencies, Easy access to additional services (e.g. drop-off schedules, reminders)
+- Goals: View hours of operation for recycling centers, Check for any temporary closures or special holiday hours, Arrange optimal drop-off routes based on center availability, Get informed about upcoming recyclable material collection events 
+
+Would you like me to help you with anything else regarding user stories?

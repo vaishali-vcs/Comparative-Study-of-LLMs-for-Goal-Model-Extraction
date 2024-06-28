@@ -1,0 +1,33 @@
+Sure, here is a breakdown of the elements for each user story:
+
+### User Story s1:
+- Actors: User, Recycling Bin, Map Display
+- SoftGoals: Real-time visibility of bin locations, Accurate representation of bin availability, Easy accessibility of map display on various devices and platforms, Comprehensive information about recycling programs and initiatives
+- Goals: To provide users with a convenient way to locate public recycling bins in their area, promote sustainable waste management practices, and raise awareness about recycling programs.
+- Tasks: Collect and integrate data from various sources (government agencies, municipalities, waste management companies) to create an accurate map of recycling bins, Ensure real-time updates of bin availability, Develop a user-friendly interface for seamless access to the map, Provide relevant information about recycling programs alongside the map display.
+- Resources: Technological infrastructure (servers, databases), Human resources for development and maintenance teams, Data collection and updating resources
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+### User Story s2:
+- Actors: User, Recycling Event, Safe Disposal Location
+- SoftGoals: Access to up-to-date information about disposal events, Filtering options to narrow down events based on type of waste and distance, Option to directly link event details and location through integrated mapping service.
+- Goals: To enable users to locate safe disposal events in their vicinity and facilitate convenient waste disposal, Promote awareness about safe and environmentally responsible waste management practices.
+- Tasks: Gather and consolidate information about safe disposal events from various sources, Display event details including date, time, location, type of waste accepted, Integrate with mapping services to provide event locations, Allow users to filter events based on their preferences.
+- Resources: Event data collection resources, Development resources to maintain and update the event display interface
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+### User Story s3:
+- Actors: User, Recycling Center, Waste Disposal
+- SoftGoals: Optimized route planning for waste disposal, Real-time center availability information, Filtering options to display centers based on type of waste accepted, Integration with mapping services for accurate center locations.
+- Goals: To enable users to efficiently plan their waste disposal routes, Provide accessible information about recycling centers and their services.
+- Tasks: Gather and update data about recycling centers including location, hours of operation, types of waste accepted, Develop a route optimization feature to help users plan waste disposal journeys, Ensure accurate representation of recycling center locations through integration with mapping services.
+- Resources: Waste disposal data collection resources, Development resources for the route optimization feature
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+Would you like help with anything else regarding user stories?

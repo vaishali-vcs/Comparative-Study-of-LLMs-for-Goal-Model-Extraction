@@ -1,0 +1,48 @@
+Actors:
+
+* Executive
+* HR Employee
+* Employee
+
+SoftGoals:
+
+* Full access to data related to the company for the executive
+* Modify data of the company for the HR employee
+* View data of the company for the employee and HR employee
+
+Goals:
+
+* Achieve full access to data for the executive
+* Modify data of the company for the HR employee
+* View data of the company for the employee and HR employee
+
+Tasks:
+
+* Provide the executive with full access to data related to the company
+* Allow the HR employee to modify the data of the company
+* Display data of the company for the employee and HR employee
+
+Resources:
+
+* Data related to the company
+* Access to data related to the company
+
+Contribution Links:
+
+* The executive's access to data related to the company contributes to the goal of achieving full access to data
+* The HR employee's ability to modify the data of the company contributes to the goal of modifying data
+* The employee's ability to view data of the company contributes to the goal of viewing data
+
+Dependency Links:
+
+* The executive's access to data related to the company depends on the availability of data
+* The HR employee's ability to modify the data of the company depends on the availability of data and the executive's access to data
+* The employee's ability to view data of the company depends on the availability of data and the executive's access to data
+
+Decomposition Links:
+
+* The goal of achieving full access to data can be decomposed into sub-goals of providing the executive with full access to data and allowing the HR employee to modify the data of the company
+* The goal of modifying data can be decomposed into sub-goals of allowing the HR employee to modify the data of the company and providing the employee with access to data
+* The goal of viewing data can be decomposed into sub-goals of displaying data of the company for the employee and HR employee
+
+Note: The above list of intentional elements is not exhaustive and can be further expanded as per the requirements of the system.

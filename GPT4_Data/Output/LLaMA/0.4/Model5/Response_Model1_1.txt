@@ -1,0 +1,42 @@
+Actors:
+
+* Montfort Hospital (the system itself)
+* Patients (stakeholders)
+
+SoftGoals:
+
+* Provide patients with real-time information of their status and wait time
+* Improve patient experience and satisfaction
+* Increase transparency and trust in the system
+
+Goals:
+
+* To provide accurate and up-to-date information about the patient's status and wait time
+* To enable nurses to easily set the current status and expected time
+
+Tasks:
+
+* To register patients in the system
+* To give patients an access code to track the process in the system
+* To set the current status and expected time
+
+Resources:
+
+* The system itself (WTES)
+* Nurses and other hospital staff
+
+Contribution Links:
+
+* The system will contribute to improving patient experience and satisfaction
+* The system will contribute to increasing transparency and trust in the system
+
+Dependencies Links:
+
+* The system depends on the nurses and other hospital staff to set the current status and expected time
+
+Decomposition Links:
+
+* The task of registering patients can be decomposed into sub-tasks such as collecting patient information, verifying patient identity, and creating a patient account
+* The task of setting the current status and expected time can be decomposed into sub-tasks such as updating the patient's information, setting the current status, and estimating the expected time
+
+Note: The above list of intentional elements is not exhaustive and can be expanded or modified as per the requirements of the project.

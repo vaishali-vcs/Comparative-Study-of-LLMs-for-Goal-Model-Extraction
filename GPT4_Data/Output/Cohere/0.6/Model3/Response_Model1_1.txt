@@ -1,0 +1,23 @@
+Certainly! Here is a list of intentional elements for each user story: 
+
+### User Story S1:
+- Actors: User, Recycling Center Map System
+- SoftGoals: Provide accurate and up-to-date information, Fast and efficient loading and display of map, Ensure seamless integration with user's current location, Offer filtering and search options for users to easily find recycling centers, Enable zoom-in and zoom-out features for a better overview of locations, Ensure high data security and privacy for user information
+- Goals: Enable users to view all recycling center locations, Allow users to check routes to recycling centers, Improve user convenience for recycling center visits
+- Tasks: Collect and display location data for recycling centers, Implement a mapping interface, Ensure accurate route calculation, Provide an option for users to share location data, Regularly update map information to reflect real-time changes
+- Resources: Recycling center location data, Mapping software and tools, Server capacity for data storage and retrieval, Development resources for creating and maintaining the map interface
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+### User Story S2:
+- Actors: User, Recycling Center Hour Information System
+- SoftGoals: Accurate and reliable hour information, Immediate and real-time updates whenever there is a change in schedule, Ease of access and availability of the system from various platforms, User-friendly interface, Transparent and clear display of information, Secure storage of user information
+- Goals: Enable users to view recycling center hours, Allow users to plan drop-offs at convenient times, Improve user satisfaction with accessible information
+- Tasks: Collect and display hour information for recycling centers, Implement a scheduling interface, Ensure accurate hour updates, Offer filtering and sorting options for users to select centers by hours, Regularly verify and update hour information
+- Resources: Recycling center hour data, Development resources for creating and maintaining the scheduling interface, Server capacity for data storage and retrieval, Security measures for user data protection
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+Would you like help with anything else regarding user stories?

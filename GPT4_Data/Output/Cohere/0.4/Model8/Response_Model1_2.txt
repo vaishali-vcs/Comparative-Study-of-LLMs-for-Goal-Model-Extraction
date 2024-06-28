@@ -1,0 +1,11 @@
+Certainly, here is a list of the intentional elements in the user story: 
+
+- Actors - The Kids Helpline, youth seeking counseling, potential predators 
+
+- Goals - To expand the ability to provide counseling via the Internet while maintaining confidentiality, protection from predators, and limiting liability and public scrutiny. 
+
+- Tasks - To choose among various technical options including modifying existing systems and implementing new systems for online counseling. 
+
+- Resources - Funds for expansion, technical expertise, the existing anonymous question and answer system, discussion boards, wikis, text messaging, and chat room systems. 
+
+Can I help you with any other tasks pertaining to this user story?

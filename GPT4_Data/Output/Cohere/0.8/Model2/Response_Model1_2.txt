@@ -1,0 +1,71 @@
+Sure, here is a list of intentional elements for each user story delimited by #### symbols as you have requested:
+
+#### s1: As a user, I want to view a map display of the public recycling bins around my area. ####
+
+**Actors**: User 
+
+**SoftGoals**: Speed, Security, Reliability, Data Integrity
+
+**Goals**: To view a map of public recycling bins around the user's area.
+
+**Tasks**: 
+
+1. Access the user's location.
+2. Use this location to retrieve data on public recycling bins from a database or API.
+3. Display this data on a map interface.
+
+**Resources**: A smartphone with access to location services and a map application, access to a database or API containing information on recycling bins, 
+appropriate security measures to protect user location and data.
+
+**Contribution links**: The user can contribute by providing feedback on the accuracy of the map or the location of recycling bins. 
+
+**Dependencies links**: The user must have access to location services and a map application in order to view the map. 
+
+**Decomposition links**: The user story can be decomposed into tasks such as accessing the user's location, retrieving data on recycling bins, and displaying the map. 
+
+#### S2: As a user, I want to view safe disposal events around my area. ####
+
+**Actors**: User 
+
+**SoftGoals**: Reliability
+
+**Goals**: To view safe disposal events around the user's area. 
+
+**Tasks**: 
+
+1. Access the user's location.
+2. Use this location to retrieve data on safe disposal events from a database or API.
+3. Display this data in a list or calendar interface. 
+
+**Resources**: A smartphone with access to location services and a calendar application, access to a database or API containing information on safe disposal events, 
+
+**Contribution links**: The user can contribute by providing feedback on the accuracy of the displayed events or by suggesting additional events. 
+
+**Dependencies links**: The user must have access to a calendar or list application in order to view the events. 
+
+**Decomposition links**: The user story can be decomposed into tasks such as accessing the user's location, retrieving data on safe disposal events, and displaying the events. 
+
+#### S3: As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste. ####
+
+**Actors**: User 
+
+**SoftGoals**: Speed
+
+**Goals**: To view all recycling center locations on a map. 
+
+**Tasks**: 
+
+1. Retrieve data on recycling centers from a database or API.
+2. Display this data on a map interface.
+
+**Resources**: A smartphone with access to a map application, access to a database or API containing information on recycling centers.
+
+**Contribution links**: The user can contribute by providing feedback on the accuracy of the map or the locations of recycling centers. 
+
+**Dependencies links**: The user must have access to a map application in order to view the map. 
+
+**Decomposition links**: The user story can be decomposed into tasks such as retrieving data on recycling centers, and displaying the map. 
+
+I hope this was helpful! Is there anything else I can assist you with today? 
+
+####

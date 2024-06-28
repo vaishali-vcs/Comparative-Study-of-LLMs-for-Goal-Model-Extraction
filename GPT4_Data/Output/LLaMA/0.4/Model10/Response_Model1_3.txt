@@ -1,0 +1,51 @@
+Actors: 
+
+* Kids and Youth (as stakeholders of the system)
+
+SoftGoals: 
+
+* Anonymity: The system should provide anonymity to the users, ensuring that their personal information is not shared or disclosed without their consent.
+	+ Specifications:
+		- The system should use end-to-end encryption for all communication channels (text messaging, Cyber Café, portal, Chat Rooms).
+		- The system should provide a pseudonym or avatar for users to maintain their anonymity.
+		- The system should not collect or store any personal information (e.g., name, address, phone number) from users.
+		- The system should allow users to delete their account and all associated information upon request.
+* Convenience: The system should provide convenient and accessible counseling services to users.
+	+ Specifications:
+		- The system should offer multiple communication channels (text messaging, Cyber Café, portal, Chat Rooms) to accommodate users' preferences.
+		- The system should provide a user-friendly interface and intuitive navigation for all communication channels.
+		- The system should offer a 24/7 availability for counseling services.
+		- The system should provide a quick response time for messages and queries.
+
+Goals:
+
+* To provide effective counseling services to Kids and Youth.
+
+Tasks:
+
+* To develop a user-friendly and intuitive interface for the system.
+* To implement end-to-end encryption for all communication channels.
+* To create a pseudonym or avatar for users to maintain their anonymity.
+* To provide 24/7 availability for counseling services.
+* To ensure quick response times for messages and queries.
+
+Resources:
+
+* A team of developers and designers to create the system.
+* A team of counselors to provide counseling services.
+
+Contribution Links:
+
+* The system should provide anonymity to users to ensure their privacy and security.
+* The system should offer multiple communication channels to accommodate users' preferences.
+* The system should provide a user-friendly interface and intuitive navigation for all communication channels.
+
+Dependency Links:
+
+* The system depends on the availability of a team of developers and designers to create and maintain the system.
+* The system depends on the availability of a team of counselors to provide counseling services.
+
+Decomposition Links:
+
+* The system can be decomposed into sub-systems for text messaging, Cyber Café, portal, and Chat Rooms.
+* The system can be decomposed into sub-systems for user authentication and authorization, data storage and retrieval, and communication protocols.

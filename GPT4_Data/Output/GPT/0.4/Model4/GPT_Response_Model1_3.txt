@@ -1,0 +1,36 @@
+'Actors': 
+- Executive
+- Employee from the HR department
+- Employee
+
+'SoftGoals': 
+- Executive: Ensure data security, maintain data integrity, efficient data access
+- Employee from HR department: Ensure data security, maintain data integrity, efficient data modification
+- Employee: Ensure data security, maintain data integrity, efficient data viewing
+
+'Goals': 
+- Executive: Full access to company data
+- Employee from HR department: Modify company data
+- Employee: View company data
+
+'Tasks': 
+- Executive: Log in to the system, navigate to the company data section, view data
+- Employee from HR department: Log in to the system, navigate to the company data section, modify data
+- Employee: Log in to the system, navigate to the company data section, view data
+
+'Resources': 
+- Company data
+- System access
+
+'Contribution links': 
+- For the executive, accessing company data contributes positively to having a sense of the company’s performance
+- For the HR department employee, modifying company data contributes positively to their job function
+- For the employee, viewing company data contributes positively to their understanding of the company
+
+'Dependencies links': 
+- The executive, HR department employee, and employee all depend on the system for access to company data
+
+'Decomposition links':
+- The goal of full access to company data for the executive can be decomposed into the tasks of logging in, navigating to the data section, and viewing data
+- The goal of modifying company data for the HR department employee can be decomposed into the tasks of logging in, navigating to the data section, and modifying data
+- The goal of viewing company data for the employee can be decomposed into the tasks of logging in, navigating to the data section, and viewing data

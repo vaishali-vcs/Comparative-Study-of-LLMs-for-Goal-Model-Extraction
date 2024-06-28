@@ -1,0 +1,8 @@
+## Actors: traffic engineers, planners, and designers
+## SoftGoals: minimize congestion, optimize traffic flow, enhance safety, reliability, and efficiency of road networks
+## Goals: achieve efficient road traffic engineering and design
+## Tasks: analyze traffic data, simulate changes to road network, optimize traffic light sequencing and timing
+## Resources: traffic simulation software, road traffic library, traffic data
+## Contribution links: influenced by road network changes, traffic light sequencing and timing
+## Dependencies links: relies on availability of traffic data, reliable software
+## Decomposition links: further analysis can be broken down into sub-elements such as traffic light timing and sequencing, impact assessment of public objects and buildings

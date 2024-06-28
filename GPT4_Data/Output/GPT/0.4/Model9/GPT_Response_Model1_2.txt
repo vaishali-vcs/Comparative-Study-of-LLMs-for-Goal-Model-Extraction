@@ -1,0 +1,12 @@
+Based on the provided user story, the intentional elements can be identified as follows:
+
+- 'Actors': Counselors, Children, Cyber cafes, Portal chat rooms
+- 'SoftGoals': Job satisfaction, Prevent burnout, Actively listening to children's needs
+- 'Goals': Assist as many children as possible, Provide online counseling services
+- 'Tasks': Offering services through cyber cafes and portal chat rooms, Listening to children's needs, Preventing counselor burnout
+- 'Resources': Online platforms (cyber cafes, portal chat rooms), Counselors' time and energy, Children needing assistance
+- 'Contribution links': 
+    - Positive: Providing online counseling services contributes positively to assisting as many children as possible
+    - Negative: Assisting a large number of children may negatively contribute to the softgoal of preventing burnout
+- 'Dependencies links': The task of offering services is dependent on the availability of online platforms
+- 'Decomposition links': The goal of assisting as many children as possible can be decomposed into tasks of offering services through various online platforms and actively listening to children's needs.

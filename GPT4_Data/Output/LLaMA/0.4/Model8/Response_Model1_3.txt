@@ -1,0 +1,59 @@
+Actors:
+
+* The Kids Helpline (the system itself)
+* The youth (the stakeholders of the system)
+
+SoftGoals:
+
+* To provide a safe and secure online counseling platform for youth
+* To ensure confidentiality and privacy of the youth's personal information
+* To protect the youth from potential predators and inappropriate content
+* To provide a comfortable and accessible platform for the youth to seek help
+* To increase the reach and availability of counseling services to more youth
+* To improve the functionality and effectiveness of the online counseling platform
+
+Goals:
+
+* To provide a user-friendly and accessible online counseling platform for the youth
+* To ensure the platform is secure and protects the youth's personal information
+* To provide a variety of communication methods for the youth to seek help (e.g. text messaging, chat rooms, discussion boards)
+* To ensure the platform is available and accessible to the youth at all times
+* To increase the organization's ability to provide counseling services to more youth
+
+Tasks:
+
+* To modify the existing anonymous question and answer system to be accessible online
+* To create a secure and private discussion board for the youth to communicate with counselors
+* To implement a secure and reliable text messaging system for the youth to seek help
+* To create a safe and moderated chat room for the youth to communicate with counselors
+* To ensure the platform is user-friendly and accessible to the youth
+* To provide training and support for counselors to effectively use the online counseling platform
+
+Resources:
+
+* A secure and reliable internet connection
+* A team of experienced IT professionals to design and implement the online counseling platform
+* A team of trained counselors to provide support and guidance to the youth
+* A secure and reliable server to host the online counseling platform
+
+Contribution Links:
+
+* The online counseling platform will contribute to the organization's ability to provide counseling services to more youth
+* The online counseling platform will contribute to the organization's ability to increase funds
+* The online counseling platform will contribute to the organization's ability to provide a safe and secure platform for the youth
+
+Dependencies Links:
+
+* The online counseling platform will depend on the organization's existing anonymous question and answer system
+* The online counseling platform will depend on the organization's existing counseling services
+* The online counseling platform will depend on the organization's trained counselors
+
+Decomposition Links:
+
+* The online counseling platform can be decomposed into the following sub-elements:
+	+ A secure and private discussion board for the youth to communicate with counselors
+	+ A secure and reliable text messaging system for the youth to seek help
+	+ A safe and moderated chat room for the youth to communicate with counselors
+	+ A user-friendly and accessible online counseling platform for the youth
+
+Note: The above list of intentional elements is not exhaustive and may change as the requirements of the organization and the stakeholders evolve.

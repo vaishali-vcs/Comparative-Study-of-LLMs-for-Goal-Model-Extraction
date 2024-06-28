@@ -1,0 +1,47 @@
+Actors:
+
+* Patients
+* Nurses
+
+SoftGoals:
+
+* Provide real-time information about the patient's status and wait time
+* Improve patient satisfaction by keeping them informed about the process
+* Reduce patient frustration by providing accurate wait time estimates
+
+Goals:
+
+* To inform patients about the current status of the process
+* To provide accurate wait time estimates to patients
+* To improve patient satisfaction and reduce patient frustration
+
+Tasks:
+
+* Register patients in the system
+* Give patients access codes to track the process in the system
+* Set current status and expected time for each step
+
+Resources:
+
+* Patient registration database
+* Access code database
+* Real-time wait time estimation system
+
+Contribution Links:
+
+* Patient registration information contributes to the accuracy of wait time estimates
+* Access code information contributes to the patient's ability to track the process
+* Current status and expected time information contributes to the real-time wait time estimates
+
+Dependency Links:
+
+* The system depends on the patient registration database to store patient information
+* The system depends on the access code database to store access code information
+* The system depends on the real-time wait time estimation system to provide accurate wait time estimates
+
+Decomposition Links:
+
+* Patient registration can be decomposed into sub-tasks such as collecting patient information, verifying patient information, and storing patient information in the database
+* Access code can be decomposed into sub-tasks such as generating access codes, distributing access codes to patients, and verifying access codes
+
+Note: The above list of intentional elements is not exhaustive and can be further expanded or modified based on the specific requirements of the system.

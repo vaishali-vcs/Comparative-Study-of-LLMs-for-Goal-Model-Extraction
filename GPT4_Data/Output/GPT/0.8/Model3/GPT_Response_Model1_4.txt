@@ -1,0 +1,36 @@
+Based on the provided user stories, we can extract the following GRL elements:
+
+- 'Actors': 
+  - User
+
+- 'SoftGoals': 
+  - Easy to use
+  - High speed 
+  - Reliable data
+  - High security
+  - User-friendly interface
+  - Real-time data update
+
+- 'Goals': 
+  - View all locations of recycling centers
+  - Get the hours of each recycling facility
+
+- 'Tasks': 
+  - Check which routes to take to drop off waste
+  - Arrange drop-offs on off days or during after-work hours
+
+- 'Resources': 
+  - Map of recycling centers
+  - Operation hours of each recycling center
+
+- 'Contribution links': 
+  - The availability of the map of recycling centers contributes positively to the goal of viewing all recycling center locations.
+  - The provision of each recycling facility's operation hours contributes positively to the goal of getting the hours of each recycling facility.
+
+- 'Dependencies links': 
+  - The task of checking which routes to take depends on the goal of viewing all recycling center locations.
+  - The task of arranging drop-offs depends on the goal of getting the hours of each recycling facility.
+
+- 'Decomposition links':
+  - The goal of viewing all locations of recycling centers is decomposed into the task of checking which routes to take.
+  - The goal of getting the hours of each recycling facility is decomposed into the task of arranging drop-offs.

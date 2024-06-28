@@ -1,0 +1,12 @@
+## Actors: The business owner
+## SoftGoals: Enhance terminal security, Improve system security
+## Goals: Increase sales, Improve customer experience, Boost profits, Improve security
+## Tasks: 
+- Implement access authorization for users by authenticating them using techniques like fingerprint, password and cardkey.
+- Employ encryption measures to improve system security.
+## Resources: Authentication techniques including fingerprint, password and cardkey
+## Contribution links: The business owner wants to boost sales, therefore, wants to improve system security to provide customers with a better online shopping experience.
+## Dependencies links: 
+## Decomposition links: 
+
+The business owner holds the intention to achieve the goals of boosting sales and improving the system security. The owner is focused on ensuring the system security by implementing various authentication techniques and encryption measures.

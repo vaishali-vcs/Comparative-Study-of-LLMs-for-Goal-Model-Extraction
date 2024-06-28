@@ -1,0 +1,33 @@
+Based on the user story, we can identify the following intentional elements:
+
+- 'Actors': 
+  - User: This actor represents the user of the application who wants to view all locations of recycling centers on a map and get the operating hours of each recycling facility.
+
+- 'SoftGoals': 
+  - User-Friendly Interface: The interface should be intuitive and easy to navigate for the user. 
+  - Accuracy: The map and the operating hours of the recycling facilities should be accurate and up-to-date.
+  - Speed: The application should load the map and the details quickly.
+  - Security: The personal data of the user should be secure.
+
+- 'Goals': 
+  - View all locations of recycling centers on a map: The user wants to view all the recycling centers in a specific area to plan routes for dropping off waste.
+  - Get the operating hours of each recycling facility: The user wants to know the operating hours of each recycling facility to plan drop-offs during off days or after-work hours.
+
+- 'Tasks': 
+  - Load Map: The application needs to load a map that shows all the recycling centers in a specific area.
+  - Display Operating Hours: The application needs to display the operating hours of each recycling facility.
+
+- 'Resources': 
+  - Map Data: The application needs access to map data to display the locations of recycling centers.
+  - Operating Hours Data: The application needs access to the operating hours of each recycling facility.
+  
+- 'Contribution links': 
+  - The 'Load Map' task positively contributes to the 'View all locations of recycling centers on a map' goal.
+  - The 'Display Operating Hours' task positively contributes to the 'Get the operating hours of each recycling facility' goal.
+  
+- 'Dependencies links': 
+  - The 'View all locations of recycling centers on a map' goal is dependent on the 'Load Map' task.
+  - The 'Get the operating hours of each recycling facility' goal is dependent on the 'Display Operating Hours' task.
+  
+- 'Decomposition links': 
+  - The user's overall goal of managing waste drop-offs is decomposed into two sub-goals: 'View all locations of recycling centers on a map' and 'Get the operating hours of each recycling facility'. These sub-goals are further decomposed into the 'Load Map' and 'Display Operating Hours' tasks, respectively.

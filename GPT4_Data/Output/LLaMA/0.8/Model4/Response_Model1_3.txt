@@ -1,0 +1,47 @@
+Actors:
+
+* Executive
+* HR Employee
+* Employee
+
+SoftGoals:
+
+* Data access for executives to monitor company performance
+* Data modification for HR employees to update company information
+* Data viewing for employees to access company information
+
+Goals:
+
+* Provide full access to company data for executives
+* Allow HR employees to modify company data
+* Allow employees to view company data
+
+Tasks:
+
+* Create a user interface for executives to access company data
+* Implement data validation and update mechanisms for HR employees
+* Develop a data visualization tool for employees to view company data
+
+Resources:
+
+* Company database
+* Data validation and update mechanisms
+* Data visualization tools
+
+Contribution Links:
+
+* Executives can contribute to the company's performance by accessing and analyzing data
+* HR employees can contribute to the company's information accuracy by modifying data
+* Employees can contribute to the company's efficiency by accessing and viewing data
+
+Dependencies Links:
+
+* Data access for executives depends on the company database being up-to-date and accurate
+* Data modification for HR employees depends on the company database being available and accessible
+* Data viewing for employees depends on the company database being up-to-date and accessible
+
+Decomposition Links:
+
+* Data access for executives can be decomposed into sub-tasks such as accessing, analyzing, and reporting on company data
+* Data modification for HR employees can be decomposed into sub-tasks such as updating employee data, updating financial data, and updating other relevant data
+* Data viewing for employees can be decomposed into sub-tasks such as viewing employee data, viewing financial data, and viewing other relevant data.

@@ -1,0 +1,8 @@
+## Intentional elements of GRL model:
+- **Actors**: The stakeholders of the system or the system itself. Represented as circles with the actor's name inside.
+- **Softgoals**: Represent the system’s operation capabilities and constraints and attempt to improve its functionality. Represented as a hexagon with the softgoal name inside.
+- **Goals**: Represent the goals to be achieved.
+- **Tasks**: Represent the tasks to be performed to achieve Goals and Softgoals. Represented as a hexagon with the task name inside.
+- **Resources**: Represent the resources to be available.
+- **Contribution links**: Represent impacts of one element on another element.
+- **

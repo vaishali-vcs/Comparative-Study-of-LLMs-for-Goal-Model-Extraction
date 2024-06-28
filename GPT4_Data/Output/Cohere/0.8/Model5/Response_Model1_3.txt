@@ -1,0 +1,6 @@
+```
+Actors: Montfort Hospital
+SoftGoals: Patients to be provided with real-time information of their status and expected wait time, registration to WTES to be user-friendly and efficient, system to have the ability to track the process in the system, nurse to set the current status and expected time
+Goals: Provide patients with a user-friendly system to estimate wait times, improve patient experience at Montfort Hospital
+Tasks: Develop a system that can provide patients with real-time information on their status and expected wait time, Create a user-friendly registration system for WTES, Improve the process of tracking the patient journey
+Resources: Nurse available to input current status and expected time, Patients with access to the system to track their process, Hospital equipment and infrastructure to support the new system

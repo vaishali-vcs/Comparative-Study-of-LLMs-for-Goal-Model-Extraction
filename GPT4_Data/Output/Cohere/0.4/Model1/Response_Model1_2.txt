@@ -1,0 +1,8 @@
+## Actors: Traffic engineers, planners and designers
+## SoftGoals: Efficient traffic flow, minimal congestion, safety of drivers and pedestrians
+## Goals: To create a road traffic simulation that enables detailed analysis and provides valuable solutions for traffic planning, changes to road networks, traffic light sequencing and optimisation, and assessing the impact of public objects on traffic.
+## Tasks: To model road networks, place road network objects and public buildings, and simulate traffic flow.
+## Resources: Computing power, road traffic simulation software, data
+## Contribution links: The simulation results in density maps showing congestion and bottlenecks, and these aid development
+## Dependencies links: The accuracy of the simulation depends on the quality of the data and models used
+## Decomposition links: The simulation can be decomposed into different sub-elements such as separate traffic flows for vehicles, pedestrians and public transport

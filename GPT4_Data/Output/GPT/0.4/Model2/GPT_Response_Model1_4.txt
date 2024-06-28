@@ -1,0 +1,52 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- User-friendly interface
+- Accurate display of recycling bin locations
+- Accurate display of safe disposal events
+- Accurate display of recycling center locations
+- Easy navigation through the map
+- Real-time updates of events and locations
+- Secure access to the application
+- Reliable operation of the application
+
+'Goals': 
+- View a map display of public recycling bins
+- View safe disposal events
+- View locations of recycling centers
+
+'Tasks': 
+- Develop a map interface for the application
+- Integrate real-time location tracking of public recycling bins
+- Integrate real-time updates of safe disposal events
+- Integrate real-time location tracking of recycling centers
+- Implement user-friendly navigation features
+- Implement secure access features
+- Ensure reliable operation of the application
+
+'Resources': 
+- Map interface
+- Real-time location tracking system
+- Database of recycling bins, safe disposal events, and recycling centers
+- Navigation features
+- Security features
+- Reliable operation system
+
+'Contribution links': 
+- The map interface contributes positively to the goal of viewing a map display of public recycling bins, safe disposal events, and recycling centers.
+- Real-time location tracking contributes positively to the goal of accurate display of recycling bin locations and recycling center locations.
+- Real-time updates contribute positively to the goal of accurate display of safe disposal events.
+- User-friendly navigation features contribute positively to the softgoal of easy navigation through the map.
+- Secure access features contribute positively to the softgoal of secure access to the application.
+- Reliable operation of the application contributes positively to the softgoal of reliable operation.
+
+'Dependencies links': 
+- The goal of viewing a map display of public recycling bins depends on the task of developing a map interface and integrating real-time location tracking of public recycling bins.
+- The goal of viewing safe disposal events depends on the task of integrating real-time updates of safe disposal events.
+- The goal of viewing locations of recycling centers depends on the task of integrating real-time location tracking of recycling centers.
+
+'Decomposition links':
+- The goal of viewing a map display of public recycling bins is decomposed into the tasks of developing a map interface and integrating real-time location tracking of public recycling bins.
+- The goal of viewing safe disposal events is decomposed into the task of integrating real-time updates of safe disposal events.
+- The goal of viewing locations of recycling centers is decomposed into the task of integrating real-time location tracking of recycling centers.

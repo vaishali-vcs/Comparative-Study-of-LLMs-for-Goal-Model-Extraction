@@ -1,0 +1,47 @@
+Actors:
+
+* The wireless telephony company
+
+SoftGoals:
+
+* High performance: The system should be able to handle a large number of users and provide high-quality service without significant degradation.
+	+ Specifications:
+		- High throughput: The system should be able to transmit and receive data at high speeds.
+		- Low latency: The system should be able to respond quickly to user requests.
+		- Scalability: The system should be able to handle an increasing number of users without significant degradation.
+		- Security: The system should be able to protect user data and prevent unauthorized access.
+* Low cost: The system should be able to achieve high performance while minimizing infrastructure alterations and costs.
+	+ Specifications:
+		- Low hardware costs: The system should be able to utilize existing hardware resources to the fullest extent.
+		- Minimal infrastructure alterations: The system should be able to achieve high performance without significant changes to the existing infrastructure.
+		- Efficient resource utilization: The system should be able to utilize resources such as bandwidth and processing power efficiently.
+
+Goals:
+
+* Optimize hardware utilization to its fullest extent
+* Achieve high throughput while minimizing infrastructure alterations
+
+Tasks:
+
+* Implement resource allocation and scheduling algorithms to maximize hardware utilization
+* Optimize network protocols and algorithms to achieve high throughput
+* Develop monitoring and control systems to ensure system performance and efficiency
+
+Resources:
+
+* Existing hardware resources
+* Network infrastructure
+* Software and firmware
+
+Contribution links:
+
+* The achievement of high performance and low cost will contribute to the success of the wireless telephony company.
+
+Dependency links:
+
+* The achievement of high performance and low cost depends on the effective implementation of resource allocation and scheduling algorithms.
+
+Decomposition links:
+
+* The goal of optimizing hardware utilization can be decomposed into sub-goals of allocating resources and scheduling tasks.
+* The goal of achieving high throughput can be decomposed into sub-goals of optimizing network protocols and algorithms.

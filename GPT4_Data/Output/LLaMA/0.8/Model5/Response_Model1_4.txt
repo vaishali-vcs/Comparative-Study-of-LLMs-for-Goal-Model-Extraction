@@ -1,0 +1,48 @@
+Actors: Montfort Hospital, Patients
+
+SoftGoals:
+
+* Provide real-time information to patients about the current status of the process
+* Allow patients to track their progress in the system
+* Allow nurses to set the current status and expected time for each patient
+
+Goals:
+
+* To inform patients of the current status of the process
+* To provide patients with an estimated wait time
+
+Tasks:
+
+* Register patients in the system
+* Provide patients with an access code to track their progress
+* Set the current status and expected time for each patient
+
+Resources:
+
+* The system should be accessible to patients and nurses
+* The system should have a user-friendly interface for easy navigation
+
+Contribution Links:
+
+* The system should be able to track the progress of patients in real-time
+* The system should provide accurate wait time estimates to patients
+
+Dependencies Links:
+
+* The system should be integrated with the hospital's existing patient management system
+* The system should be able to communicate with the hospital's IT infrastructure
+
+Decomposition Links:
+
+* Registering patients in the system can be decomposed into the following tasks:
+	+ Patient inputting their personal information
+	+ Patient selecting the service they need
+	+ Patient confirming their information
+* Providing patients with an access code can be decomposed into the following tasks:
+	+ Generating a unique access code for each patient
+	+ Sending the access code to the patient's registered contact information
+* Setting the current status and expected time for each patient can be decomposed into the following tasks:
+	+ Nurse selecting the patient's name from the system's database
+	+ Nurse inputting the current status and expected time for each patient
+
+Note: The above decomposition links are just an example and may not be the actual decomposition links for the given user story.

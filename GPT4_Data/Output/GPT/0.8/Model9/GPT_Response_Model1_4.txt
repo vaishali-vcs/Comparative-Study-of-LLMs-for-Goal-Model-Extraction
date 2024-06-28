@@ -1,0 +1,17 @@
+- 'Actors': Kids Helpline organization, Youth in need of counseling, Potential donors, Internet service providers.
+- 'SoftGoals': Increase funds, Expand accessibility, Provide comfort and safety for the youth, Maintain confidentiality, Protection from predators, Avoidance of public scrutiny, Limit liability over guidance, Choose optimal technical options for online counseling.
+- 'Goals': Expand the organization's ability to provide counseling via the Internet, Ensure the safety and privacy of youth during online counseling, Increase the number of youth asking for help.
+- 'Tasks': Modify the existing anonymous question and answer system, Implement discussion boards, Implement wikis, Implement text messaging, Implement chat rooms, Train the staff for online counseling, Monitor the online activities for safety, Implement a secure and confidential online system.
+- 'Resources': Internet connection, Staff for online counseling, Technical team for implementing and maintaining the online system, Funds for expansion.
+- 'Contribution links': 
+    - Technical options contribute positively to expanding online counseling service.
+    - Increased funds contribute positively to expanding online counseling service.
+    - Increased accessibility contributes positively to the number of youth asking for help.
+    - Confidentiality and safety measures contribute negatively to public scrutiny and liability over guidance.
+- 'Dependencies links': 
+    - The organization depends on the Internet service providers for Internet connection.
+    - The organization depends on potential donors for funds.
+    - Youth in need of counseling depends on the organization for help.
+- 'Decomposition links': 
+    - The goal of expanding the organization's ability to provide counseling via the Internet is decomposed into tasks of modifying the existing anonymous question and answer system, implementing discussion boards, wikis, text messaging, chat rooms, training the staff for online counseling, monitoring the online activities for safety, and implementing a secure and confidential online system.
+    - The softgoal of maintaining confidentiality is decomposed into tasks of implementing a secure and confidential online system and monitoring the online activities for safety.

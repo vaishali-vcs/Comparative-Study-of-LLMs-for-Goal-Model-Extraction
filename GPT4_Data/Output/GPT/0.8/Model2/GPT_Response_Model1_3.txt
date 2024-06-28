@@ -1,0 +1,38 @@
+Based on the provided user story, the intentional elements can be identified as follows:
+
+- 'Actors': 
+    - User
+
+- 'SoftGoals':
+    - User-friendly interface: The system should be easy to navigate, allowing users to quickly find the information they need.
+    - Reliable information: The system must ensure the provided information (map displays and event details) is up to date and accurate. 
+    - Security: The system should not compromise user data.
+    - Speed: The system should load map displays and event details swiftly.
+    - Accessibility: The system should be accessible from various devices.
+
+- 'Goals':
+    - View a map display of public recycling bins around the user's area.
+    - View safe disposal events being organised around the user's area.
+    - View all locations of recycling centers on a map.
+
+- 'Tasks':
+    - Develop a feature to display a map of recycling bins in the user's area.
+    - Develop a feature to display safe disposal events around the user's area.
+    - Develop a feature to show recycling centers on a map.
+    - Implement a route planning feature to assist users in finding the best routes to recycling centers.
+
+- 'Resources':
+    - Map data: To be able to display public recycling bins, safe disposal events, and recycling centers.
+    - Event data: Information about safe disposal events being organized in the user's area.
+    - Database: For storing and managing map and event data.
+
+- 'Contribution links':
+    - The tasks contribute positively to the achievement of the goals.
+    - The resources, such as map and event data, contribute positively to the tasks of developing the features needed by the user.
+
+- 'Dependencies links':
+    - The accomplishment of tasks depends on the availability of resources (map data and event data).
+    - The goals depend on the successful completion of the tasks.
+
+- 'Decomposition links':
+    - Each goal is decomposed into tasks for its achievement. For instance, the goal ‘View a map display of public recycling bins around my area’ is decomposed into the task ‘Develop a feature to display a map of recycling bins in the user's area’.

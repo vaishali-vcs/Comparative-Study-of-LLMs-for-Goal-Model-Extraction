@@ -1,0 +1,37 @@
+Certainly, here is a breakdown of the elements for each user story:
+
+### User Story 1:
+- Actors: User
+- SoftGoals: Map display should be zoomable, have directional arrows or pins to represent the location of public recycling bins, and allow for real-time interaction.
+- Goals: To view a map display of public recycling bins around a specified area.
+- Tasks: Use map functionality to zoom in on a specific area, locate public recycling bins, and display them on the map.
+- Resources: Access to location data and map display software.
+- Contribution links: None specified.
+- Dependencies links: None specified.
+- Decomposition links: None specified.
+
+### User Story 2:
+- Actors: User
+- SoftGoals: The system should have a calendar or list of disposal events, with dates, times, and addresses, and allow for event filtering based on type of waste or distance.
+- Goals: To view safe disposal events organised around a specified area.
+- Tasks: Filter safe disposal events based on the user's preferences and display the results on the map or in a list view.
+- Resources: Access to event data and location information.
+- Contribution links: None specified.
+- Dependencies links: None specified.
+- Decomposition links: None specified.
+
+### User Story 3:
+- Actors: User
+- SoftGoals: The map should have clear labels for each recycling center, and allow the user to filter centers by type of waste accepted.
+- Goals: To view all locations of recycling centers on a map, in order to determine the best routes for dropping off waste.
+- Tasks: Display all recycling center locations on a map and allow the user to filter or select centers based on their preferences.
+- Resources: Access to recycling center location data and map display software.
+- Contribution links: None specified.
+- Dependencies links: None specified.
+- Decomposition links: None specified.
+
+Would you like help with anything else regarding user stories or any other topic? 
+
+Let me know if you would like me to clarify or expand on any of the information above. 
+
+Kindly provide additional information or specifications if you have any, and I will gladly generate a more detailed analysis.

@@ -1,0 +1,11 @@
+```
+ "Actors": A <co: 7>circle with the actor name inside</co: 7>
+"SoftGoals": SOFTGOAL <co: 6>Softgoal Name</co: 6>
+Speed, security, reliability, data integrity
+"Goals": Achieve a certain goal
+"Tasks": Subtask
+"Resources": Resources
+"Contribution links": CONTRIBUTION-LINK
+"Dependencies links": DEPENDENCY-LINK
+"Decomposition links": DECOMPOSITION-LINK
+```

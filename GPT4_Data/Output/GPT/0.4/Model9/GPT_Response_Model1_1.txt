@@ -1,0 +1,32 @@
+- 'Actors': 
+  - Counselors: They are the stakeholders who offer online counseling services to children. 
+
+- 'SoftGoals': 
+  - Job Satisfaction: Counselors should strive to prevent burnout in order to attain job satisfaction.
+  - Prevent Burnout: Counselors should strive to prevent burnout while offering their services.
+  - Security: The online counseling services should be secure to protect the children's information.
+  - Reliability: The online counseling services should be reliable so that they are always available when needed.
+  - Speed: The online counseling services should be fast enough to provide immediate assistance.
+
+- 'Goals': 
+  - Assist as many children as they can: This is the primary goal of the counselors.
+  - Actively listen to the children's needs: This is another goal of the counselors.
+
+- 'Tasks': 
+  - Offer online counseling services: This is the task that the counselors need to perform to achieve their goals.
+  - Use cyber cafes and portal chat rooms: These are the platforms that the counselors can use to offer their services.
+
+- 'Resources': 
+  - Cyber cafes: These are the resources that the counselors can use to offer their services.
+  - Portal chat rooms: These are also resources that the counselors can use to offer their services.
+
+- 'Contribution links': 
+  - Offering online counseling services contributes positively to assisting as many children as they can.
+  - Actively listening to the children's needs contributes positively to assisting as many children as they can.
+  - Preventing burnout contributes positively to job satisfaction.
+
+- 'Dependencies links': 
+  - The task of offering online counseling services depends on the resources of cyber cafes and portal chat rooms.
+
+- 'Decomposition links':
+  - The goal of assisting as many children as they can is decomposed into the tasks of offering online counseling services and actively listening to their needs.

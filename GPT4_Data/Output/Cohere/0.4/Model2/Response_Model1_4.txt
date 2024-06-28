@@ -1,0 +1,69 @@
+Sure, here is a breakdown of the elements for each user story:
+
+### S1: View public recycling bins around my area ###
+
+**Actors:** User 
+
+**SoftGoals:** - Display map of recycling bins with specifications: accuracy of map, zoom options, satellite view available, etc.
+- Up-to-date information on bin locations and availability 
+
+**Goals:** Locate public recycling bins in my area 
+
+**Tasks:** Use a map interface to view recycling bins on a map 
+
+**Resources:** Access to internet, Location Services Privileges, Recycling Bin Database 
+
+**Contribution links:** None specified 
+
+**Dependencies links:** None specified 
+
+**Decomposition links:** None specified 
+
+### S2: View safe disposal events around my area ###
+
+**Actors:** User 
+
+**SoftGoals:** - Display events with specifications: event date, venue, time, etc.
+- Filtering options to narrow results (date, distance, type of waste) 
+
+**Goals:** View safe disposal events in my area 
+
+**Tasks:** Use a map interface to view disposal events on a map 
+
+**Resources:** Access to internet, Location Services Privileges, Event Database 
+
+**Contribution links:** None specified 
+
+**Dependencies links:** None specified 
+
+**Decomposition links:** None specified 
+
+### S3: View all recycling center locations on a map ###
+
+**Actors:** User 
+
+**SoftGoals:** - Display map with specifications: zoom options, satellite view available, etc.
+- Search options (by zip code, city, etc.) 
+
+**Goals:** View recycling center locations on a map 
+
+**Tasks:** Use a map interface to view recycling center locations on a map 
+
+**Resources:** Access to internet, Location Services Privileges, Recycling Center Database 
+
+**Contribution links:** None specified 
+
+**Dependencies links:** None specified 
+
+**Decomposition links:** None specified 
+
+Would you like help with anything else? 
+
+#### Additional Notes ####
+The actors in each story are the users of the system. The soft goals are specifications that detail how the system operates and provides functionality to the user. The goals are what the user wants to achieve with the system. The tasks are the steps the user will take to use the system and achieve their goals. The resources are what the user will need to complete their tasks. The contribution and dependency links are not mentioned in the provided user stories, so they have been left blank. The decomposition links are also not mentioned in the user stories, so they have also been left blank. 
+
+Would you like me to restructure this list in a different way?
+
+> *Please note that I am unable to access real-time information, so I cannot provide updates on recycling bins, disposal events, or recycling center locations. My responses are based on your original query and the information available to me prior to January 2023.*
+
+Is there anything else I can help you with?

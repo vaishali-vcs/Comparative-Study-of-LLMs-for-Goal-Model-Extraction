@@ -1,0 +1,34 @@
+'Actors': 
+- Counselors: They are the stakeholders who are responsible for delivering online counseling services and actively listening to the children's needs. They are also responsible for preventing personal burnout and attaining job satisfaction.
+
+'SoftGoals': 
+- Effective Online Counseling: The counselors should be proficient in providing online counseling services to children through cyber cafes and portal chat rooms.
+- Actively listen to children's needs: The counselors must understand and consider the needs and concerns of the children.
+- Prevent Burnout: The counselors should manage their work in a way that prevents burnout.
+- Job Satisfaction: The counselors should derive satisfaction from their job.
+- Speed: The counseling services should be offered in a timely manner.
+- Security: The online platforms used for counseling should be secure.
+- Reliability: The counseling service must be reliable.
+- Data Integrity: The integrity of the data shared during counseling sessions must be maintained.
+
+'Goals': 
+- Assist as many children as they can: The main goal of the counselors is to help as many children as possible through their online counseling services.
+
+'Tasks': 
+- Offering online counseling: To achieve the goal, counselors need to perform the task of providing counseling services online through cyber cafes and chat rooms.
+- Active Listening: Counselors need to actively listen to the children's concerns and needs during the counseling sessions.
+
+'Resources': 
+- Online Platforms: The counselors require cyber cafes and portal chat rooms to deliver the counseling services.
+
+'Contribution links': 
+- Offering online counseling contributes to the goal of assisting as many children as possible.
+- Actively listening to children's needs contributes to the softgoal of effective online counseling.
+- Preventing burnout contributes to the softgoal of job satisfaction.
+
+'Dependency links': 
+- The task of offering online counseling is dependent on the resource of online platforms.
+
+'Decomposition links':
+- The goal of assisting as many children as possible is decomposed into the tasks of offering online counseling and actively listening to children's needs.
+- The softgoal of effective online counseling is decomposed into the tasks of offering online counseling and actively listening to children's needs.

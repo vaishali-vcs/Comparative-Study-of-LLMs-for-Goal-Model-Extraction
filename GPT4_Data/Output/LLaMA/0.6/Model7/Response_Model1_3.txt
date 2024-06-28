@@ -1,0 +1,38 @@
+Actors:
+
+* Business Owner
+
+SoftGoals:
+
+* Improve online shopping experience for customers
+* Enhance system security, including terminal and host security
+
+Goals:
+
+* Boost sales
+
+Tasks:
+
+* Implement access authorization using Fingerprint, Password, and Cardkey techniques
+* Employ encryption measures to enhance system security
+
+Resources:
+
+* User authentication and authorization system
+* Encryption software and technology
+
+Contribution Links:
+
+* System security enhancement contributes to improved online shopping experience for customers
+* Implemented access authorization and encryption measures contribute to terminal and host security
+
+Dependencies Links:
+
+* Implemented access authorization and encryption measures depend on the availability of the user authentication and authorization system
+
+Decomposition Links:
+
+* Access authorization can be decomposed into Fingerprint, Password, and Cardkey techniques
+* Encryption measures can be decomposed into software and technology used for encryption
+
+Note: The softgoals and goals are related to non-functional requirements, while the tasks and resources are related to functional requirements. The contribution and dependencies links demonstrate the relationships between the different intentional elements in the model.

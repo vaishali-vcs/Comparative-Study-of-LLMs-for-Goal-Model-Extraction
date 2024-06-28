@@ -1,0 +1,33 @@
+The intentional elements in this user story are:
+
+- 'Actors': 
+    - User (Stakeholder of the system)
+- 'SoftGoals': 
+    - User-friendly Interface (The system should be intuitive and easy to use)
+    - Speed (The system should display the requested information quickly)
+    - Security (User data and privacy must be protected)
+    - Data Integrity (The displayed data must be accurate and up-to-date)
+- 'Goals': 
+    - View a map display of public recycling bins
+    - View safe disposal events
+    - View locations of recycling centers on a map
+- 'Tasks': 
+    - Implement a map display function
+    - Implement a function to display safe disposal events
+    - Implement a function to display recycling center locations on a map
+    - Ensure the data displayed is accurate and up-to-date
+- 'Resources':
+    - Public recycling bin data
+    - Safe disposal event data
+    - Recycling center location data
+    - Map display function
+- 'Contribution links': 
+    - Implementing the map display function contributes to the goal of viewing a map display of public recycling bins
+    - Implementing the function to display safe disposal events contributes to the goal of viewing safe disposal events
+    - Implementing the function to display recycling center locations on a map contributes to the goal of viewing locations of recycling centers on a map
+- 'Dependencies links': 
+    - The tasks of implementing the map display function, the function to display safe disposal events, and the function to display recycling center locations are all dependent on the availability of accurate and up-to-date data
+- 'Decomposition links':
+    - The goal of viewing a map display of public recycling bins is decomposed into the task of implementing a map display function
+    - The goal of viewing safe disposal events is decomposed into the task of implementing a function to display safe disposal events
+    - The goal of viewing locations of recycling centers on a map is decomposed into the task of implementing a function to display recycling center locations on a map

@@ -1,0 +1,48 @@
+Actors:
+
+* Counselors
+
+SoftGoals:
+
+* Provide online counseling services to children
+* Assist as many children as possible while actively listening to their needs
+* Prevent burnout to attain job satisfaction
+
+Goals:
+
+* Offer online counseling services to children
+* Provide a safe and secure platform for children to share their thoughts and feelings
+* Ensure the well-being of children through active listening and support
+
+Tasks:
+
+* Develop and maintain online counseling services for children
+* Provide a user-friendly platform for children to access counseling services
+* Offer a variety of counseling methods, including cyber cafes and portal chat rooms
+* Ensure the privacy and security of children's personal information
+* Provide training and support for counselors to prevent burnout
+
+Resources:
+
+* Online counseling platform
+* Trained counselors
+* Secure and private communication channels
+* Variety of counseling methods
+
+Contribution links:
+
+* Counselors' active listening and support contribute to the well-being of children
+* Online counseling platform contributes to the accessibility of counseling services for children
+* Training and support for counselors contribute to the prevention of burnout
+
+Dependencies links:
+
+* Online counseling platform depends on the availability of trained counselors
+* Counselors' ability to provide online counseling services depends on the availability of the online counseling platform and secure communication channels
+
+Decomposition links:
+
+* Online counseling platform can be decomposed into sub-components, such as the website, the chat room, and the cyber café
+* Counselors' training and support can be decomposed into sub-tasks, such as providing training on active listening and stress management
+
+Note: The soft goals are not mutually exclusive, and the goals and tasks are not exhaustive, but rather a starting point for the requirements engineering process.

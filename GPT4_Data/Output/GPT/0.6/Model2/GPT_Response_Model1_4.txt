@@ -1,0 +1,41 @@
+Based on the user stories, the following GRL elements can be identified:
+
+- 'Actors':
+   - User: The stakeholder who wants to view a map display of public recycling bins, safe disposal events, and recycling centers around their area.
+
+- 'SoftGoals':
+   - User-friendly Interface: The system should be easy to navigate and use.
+   - Reliable Information: The system should provide accurate and up-to-date information.
+   - Fast Load Time: The system should load the required information quickly.
+   - Data Security: The user's location and other personal data should be kept secure.
+   - Accessibility: The system should be accessible regardless of the user's device or internet speed.
+
+- 'Goals':
+   - View Map Display: The user wants to view a map display of public recycling bins around their area.
+   - View Safe Disposal Events: The user wants to view the safe disposal events currently being organised around their area.
+   - View Recycling Centers: The user wants to view all locations of recycling centers on a map.
+
+- 'Tasks':
+   - Load Map: The system should load a map of the user's area.
+   - Display Recycling Bins: The system should display the locations of public recycling bins on the map.
+   - Display Safe Disposal Events: The system should display the locations of safe disposal events on the map.
+   - Display Recycling Centers: The system should display the locations of recycling centers on the map.
+
+- 'Resources':
+   - Map Data: The system needs access to map data to display the user's area.
+   - Recycling Bin Data: The system needs access to data about the locations of public recycling bins.
+   - Safe Disposal Event Data: The system needs access to data about safe disposal events being organised.
+   - Recycling Center Data: The system needs access to data about the locations of recycling centers.
+
+- 'Contribution links':
+   - The task 'Load Map' contributes positively to the goal 'View Map Display'.
+   - The tasks 'Display Recycling Bins', 'Display Safe Disposal Events', and 'Display Recycling Centers' contribute positively to their respective goals.
+   - The resources 'Map Data', 'Recycling Bin Data', 'Safe Disposal Event Data', and 'Recycling Center Data' contribute positively to their respective tasks.
+
+- 'Dependencies links':
+   - There is a dependency link between the actor 'User' and the tasks 'Load Map', 'Display Recycling Bins', 'Display Safe Disposal Events', and 'Display Recycling Centers'.
+
+- 'Decomposition links':
+   - The goal 'View Map Display' is decomposed into the tasks 'Load Map' and 'Display Recycling Bins'.
+   - The goal 'View Safe Disposal Events' is decomposed into the tasks 'Load Map' and 'Display Safe Disposal Events'.
+   - The goal 'View Recycling Centers' is decomposed into the tasks 'Load Map' and 'Display Recycling Centers'.

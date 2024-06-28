@@ -1,0 +1,44 @@
+Actors:
+
+* Executive
+* HR Employee
+* Employee
+
+SoftGoals:
+
+* To have a sense of the company's performance
+* To modify the data of the company
+* To view the data of the company
+
+Goals:
+
+* To have full access to data related to the company
+* To modify the data of the company
+* To view the data of the company
+
+Tasks:
+
+* To provide access to data related to the company for the executive
+* To allow modification of the data of the company for the HR employee
+* To provide viewing access to the data of the company for the employee
+
+Resources:
+
+* Data related to the company
+
+Contribution Links:
+
+* The executive's access to data related to the company contributes to their ability to have a sense of the company's performance.
+* The HR employee's ability to modify the data of the company contributes to the accuracy and up-to-date-ness of the data.
+* The employee's ability to view the data of the company contributes to their ability to perform their job effectively.
+
+Dependency Links:
+
+* The executive's access to data related to the company depends on the HR employee's ability to modify the data of the company.
+* The employee's ability to view the data of the company depends on the executive's access to data related to the company.
+
+Decomposition Links:
+
+* The task of providing access to data related to the company for the executive can be decomposed into the sub-tasks of retrieving the data and providing it to the executive.
+* The task of allowing modification of the data of the company for the HR employee can be decomposed into the sub-tasks of creating a user interface for data entry and updating the data in the system.
+* The task of providing viewing access to the data of the company for the employee can be decomposed into the sub-tasks of retrieving the data and displaying it to the employee.

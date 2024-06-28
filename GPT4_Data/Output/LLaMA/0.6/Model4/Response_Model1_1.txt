@@ -1,0 +1,48 @@
+Actors:
+
+* Employee
+* HR Department
+* Executive
+
+SoftGoals:
+
+* Data integrity and security
+* Accessibility and usability of data
+* Real-time data availability
+* Data visualization and interpretation
+
+Goals:
+
+* Access to company data for executives
+* Modification of company data for HR department
+* Viewing of company data for employees
+
+Tasks:
+
+* Provide secure access to company data for executives
+* Implement data modification features for HR department
+* Develop user-friendly interfaces for employees to view company data
+
+Resources:
+
+* Data storage and retrieval systems
+* Security protocols and measures
+* User interface design and development tools
+
+Contribution Links:
+
+* Executives' access to company data contributes to their ability to make informed decisions.
+* HR department's ability to modify data contributes to the accuracy and up-to-date-ness of the company's data.
+* Employees' ability to view company data contributes to their productivity and engagement.
+
+Dependencies Links:
+
+* Executives' access to company data depends on the availability of the data and the security protocols in place.
+* HR department's ability to modify data depends on the data storage and retrieval systems and the security protocols in place.
+* Employees' ability to view company data depends on the availability of the data and the user interface design and development tools.
+
+Decomposition Links:
+
+* Provide secure access to company data for executives can be decomposed into tasks such as implementing secure login and authentication mechanisms, providing access controls and data encryption, and ensuring data availability and reliability.
+* Implement data modification features for HR department can be decomposed into tasks such as developing data modification tools and interfaces, testing and validating the modifications, and ensuring data consistency and accuracy.
+* Develop user-friendly interfaces for employees to view company data can be decomposed into tasks such as designing and developing user interfaces, testing and validating the interfaces, and ensuring user satisfaction and adoption.

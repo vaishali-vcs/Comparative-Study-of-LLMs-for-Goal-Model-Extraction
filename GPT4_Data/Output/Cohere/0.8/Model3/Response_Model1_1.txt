@@ -1,0 +1,23 @@
+Certainly! Here is a list of intentional elements for each user story: 
+
+### User Story S1:
+- Actors: User, Recycling Center, Mapping Application
+- SoftGoals: Smooth and accurate visualization of map, Real-time updates of recycling center locations, Accessibility through multiple devices, Incorporation of user preferences for map view, Ensuring data privacy and security
+- Goals: Provide user with accessible information on recycling center locations and enable them to plan their route, Increase public awareness and accessibility of recycling center information, Promote sustainable waste management practices through technology
+- Tasks: Collect and integrate data from recycling centers, Develop and maintain mapping application, Ensure accurate and up-to-date representation of center locations and hours, Provide user-friendly interface for interaction, Ensure data privacy and security measures
+- Resources: Expertise in mapping and location services, Recycling center data, Development resources for mapping application, Funds for data collection and application maintenance
+- Contribution links: Awareness of recycling centers and increased likelihood of visiting them, Improved convenience and efficiency in waste management for users
+- Dependencies links: None
+- Decomposition links: None
+
+### User Story S2:
+- Actors: User, Recycling Center, Waste Management Authority
+- SoftGoals: Accurate and up-to-date information on opening hours, Accessibility through various digital channels, Option for user to receive real-time updates on hours, Integration with user's calendar for easy scheduling, Consistent user experience across different platforms
+- Goals: Provide accurate hours of operation for recycling centers to enable user planning, Enhance user convenience and flexibility for waste management, Improve public accessibility to recycling center information, Promote digital transformation in waste management practices
+- Tasks: Collect and validate hours of operation data from recycling centers, Develop and maintain digital platforms for displaying hours, Ensure seamless integration with user calendars, Provide option for user to receive updates on center hours
+- Resources: Recycling center data, Development resources for digital platforms, Expertise in user experience and interface design, Funds for data collection and platform maintenance
+- Contribution links: Increased awareness of recycling center hours leading to more efficient use of time and reduced waste, Improved convenience and planning for users through calendar integration
+- Dependencies links: S1 (Assumes user can view center locations to plan visits)
+- Decomposition links: None
+
+Would you like me to decompose any of the user stories further?

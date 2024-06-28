@@ -1,0 +1,11 @@
+Sure, here is a breakdown of the elements in the user story: 
+
+- Actors - Kids and Youth, Counseling Service, Text Messaging System, Cyber Café, Portal, Chat Rooms
+- SoftGoals - Prioritize anonymity, Convenient counseling, Prompt response, Effective counseling
+- Goals - To provide a safe and confidential space for kids and youth to seek counseling, To offer various options for counseling to suit different preferences, To ensure prompt and effective response to counseling inquiries
+- Tasks - Establish a secure text messaging system for counseling, Implement a Cyber Café with counseling resources, Maintain a responsive portal for counseling inquiries, Monitor chat rooms for safe and confidential counseling conversations
+- Resources - Counseling experts, IT resources for secure messaging and portal, Physical space for Cyber Café
+- Contribution links - Kids and Youth seeking counseling contribute to the goal of providing counseling services
+- Dependencies links - The availability of counseling experts depends on scheduling and availability of personnel 
+
+Would you like help with any other user stories?

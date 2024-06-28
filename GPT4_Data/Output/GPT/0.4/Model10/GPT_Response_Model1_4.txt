@@ -1,0 +1,35 @@
+- 'Actors': 
+  - Kids and Youth
+  - Counseling Service
+
+- 'SoftGoals': 
+  - Anonymity: The system should ensure the privacy and confidentiality of the users.
+  - Convenience: The system should be easy to use and accessible from anywhere.
+  - Promptness: The system should provide immediate response and quick service.
+  - Effectiveness: The counseling service should be able to effectively address the concerns and issues of the users.
+  
+- 'Goals': 
+  - To provide counseling service to Kids and Youth.
+  - To offer different modes of communication for counseling (text messaging, Cyber Café, portal, Chat Rooms).
+  
+- 'Tasks': 
+  - Develop a system that offers counseling service.
+  - Implement features for text messaging, Cyber Café, portal, and Chat Rooms.
+  - Ensure the system is user-friendly and easy to navigate.
+  - Train counselors to provide effective counseling.
+  
+- 'Resources': 
+  - Trained Counselors
+  - System Developers
+  - IT Infrastructure (servers, databases, etc.)
+  - Communication Channels (text messaging, Cyber Café, portal, Chat Rooms)
+  
+- 'Contribution links': 
+  - The trained counselors contribute to the effectiveness of the counseling service.
+  - The system developers contribute to the development and maintenance of the system.
+  
+- 'Dependencies links': 
+  - The counseling service depends on the IT infrastructure and the trained counselors.
+  
+- 'Decomposition links':
+  - The goal of providing counseling service is decomposed into tasks like system development, feature implementation, and counselor training.

@@ -1,0 +1,55 @@
+Actors:
+
+* Kids and Youth
+
+SoftGoals:
+
+* Anonymity: ability to seek counseling services without revealing personal information
+* Convenience: accessibility of the counseling service through various channels (text messaging, Cyber Café, portal, chat rooms)
+* Promptness: timely response to requests for counseling
+* Effectiveness: provision of helpful and relevant counseling services
+
+SoftGoals Specifications:
+
+* The service should allow users to remain anonymous throughout the counseling process, including the option to use pseudonyms or avatars.
+* The service should offer multiple channels for users to access counseling services, including text messaging, Cyber Café, portal, and chat rooms.
+* The service should provide timely responses to users' requests for counseling, with a target response time of within 24 hours.
+* The service should offer personalized counseling services that are relevant and helpful to users' needs and concerns.
+
+Goals:
+
+* To provide a convenient and accessible counseling service for kids and youth
+* To ensure the privacy and anonymity of users seeking counseling services
+* To offer effective and personalized counseling services that address users' needs and concerns
+
+Tasks:
+
+* Develop a user-friendly platform that allows kids and youth to access counseling services through various channels
+* Implement measures to ensure the privacy and anonymity of users, such as pseudonyms or avatars
+* Hire qualified counselors who can provide timely and effective counseling services
+* Ensure the availability of counseling services through the various channels, including text messaging, Cyber Café, portal, and chat rooms
+
+Resources:
+
+* A user-friendly platform for accessing counseling services
+* Qualified counselors who can provide timely and effective counseling services
+* Multiple channels for accessing counseling services, including text messaging, Cyber Café, portal, and chat rooms
+
+Contribution Links:
+
+* The service should be accessible to kids and youth of all backgrounds and locations
+* The service should be available 24/7 to accommodate users' schedules and needs
+* The service should be affordable and offer flexible pricing options
+
+Dependency Links:
+
+* The service depends on the availability of qualified counselors
+* The service depends on the availability of a user-friendly platform for accessing counseling services
+* The service depends on the availability of multiple channels for accessing counseling services, including text messaging, Cyber Café, portal, and chat rooms
+
+Decomposition Links:
+
+* Developing a user-friendly platform can be decomposed into smaller tasks, such as designing the interface, developing the backend, and testing the platform
+* Ensuring the privacy and anonymity of users can be decomposed into smaller tasks, such as implementing encryption techniques, using pseudonyms or avatars, and ensuring the security of user data
+
+Note: The above is just one possible way to elicit the intentional elements from the user story. Different users may have different requirements and priorities, and the intentional elements may vary accordingly.

@@ -1,0 +1,45 @@
+'Actors': 
+
+- User
+
+'SoftGoals': 
+
+- View map display of public recycling bins, 
+- View safe disposal events, 
+- Check routes to recycling centers, 
+- Improve user's awareness of recycling activities and facilities, 
+- Enhance the system's data accuracy and response speed, 
+- Maintain high security and data integrity
+
+'Goals': 
+
+- Display public recycling bins on map, 
+- Show safe disposal events, 
+- Indicate locations of recycling centers on map
+
+'Tasks': 
+
+- Extract location data of public recycling bins, 
+- Extract information on safe disposal events, 
+- Extract location data of recycling centers, 
+- Display the respective data on a map interface
+
+'Resources': 
+
+- Public recycling bins location data, 
+- Safe disposal events information, 
+- Recycling centers location data, 
+- Map interface
+
+'Contribution links': 
+
+- Displaying data on the map interface contributes positively to the goals of displaying public recycling bins, showing safe disposal events, and indicating recycling centers
+
+'Dependencies links': 
+
+- The task of displaying the respective data on a map interface depends on the extraction of respective information (recycling bins, disposal events, recycling centers)
+
+'Decomposition links':
+
+- The goal of enhancing user's awareness of recycling activities and facilities is decomposed into the goals of displaying public recycling bins, showing safe disposal events, and indicating recycling centers
+- The tasks of extracting respective data are decomposed from the goals of displaying public recycling bins, showing safe disposal events, and indicating recycling centers.

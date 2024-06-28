@@ -1,0 +1,33 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- Ensure user-friendly interface 
+- Ensure data accuracy 
+- Ensure system reliability 
+- Ensure system security 
+- Maintain data integrity
+
+'Goals': 
+- View all locations of recycling centers on a map 
+- Get the hours of each recycling facility
+
+'Tasks': 
+- Develop a feature to display all recycling centers on a map 
+- Develop a feature to show the operating hours of each recycling facility
+
+'Resources': 
+- Recycling center location data 
+- Operating hours data of recycling facilities
+
+'Contribution links': 
+- The feature to display all recycling centers on a map contributes to the goal of viewing all locations of recycling centers 
+- The feature to show the operating hours of each recycling facility contributes to the goal of getting the hours of each recycling facility
+
+'Dependencies links': 
+- The task of developing a feature to display all recycling centers on a map depends on the availability of recycling center location data 
+- The task of developing a feature to show the operating hours of each recycling facility depends on the availability of operating hours data of recycling facilities
+
+'Decomposition links':
+- The goal of viewing all locations of recycling centers on a map is decomposed into the task of developing a feature to display all recycling centers on a map
+- The goal of getting the hours of each recycling facility is decomposed into the task of developing a feature to show the operating hours of each recycling facility

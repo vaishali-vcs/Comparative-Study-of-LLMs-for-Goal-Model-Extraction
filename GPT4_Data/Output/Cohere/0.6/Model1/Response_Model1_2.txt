@@ -1,0 +1,8 @@
+## Actors: Traffic engineers, planners and designers
+## SoftGoals: Efficient traffic flow, minimal congestion, safety of drivers and pedestrians
+## Goals: Achieve efficient road traffic engineering and design, minimise congestion and accidents, optimise traffic light sequencing and timing
+## Tasks: Use road traffic simulation software to model proposed changes to a road network, analyse the impact of traffic light sequencing, placement of road network objects and other factors on traffic flow and capacity
+## Resources: Road traffic simulation software, data about road networks and traffic flows
+## Contribution links: Changes to one aspect of road design may impact another and have consequences for traffic flow and congestion
+## Dependencies links: Road network changes can have economic consequences and be unforgiving when subject to real-world testing
+## Decomposition links: Road networks can be decomposed into sub-elements such as separate lanes for different directions or types of traffic

@@ -1,0 +1,46 @@
+Actors: 
+
+* Counselors (holders of intentions)
+
+SoftGoals:
+
+* Reduce the number of children who are in need of counseling services
+* Increase the number of children who are able to access counseling services
+* Improve the overall well-being of children who receive counseling services
+* Prevent burnout among counselors
+
+Goals:
+
+* Provide online counseling services to children in need
+* Actively listen to the needs of children
+* Offer a safe and secure platform for children to receive counseling services
+* Provide job satisfaction to counselors
+
+Tasks:
+
+* Develop and maintain an online platform for counseling services
+* Recruit and train counselors to provide online counseling services
+* Promote the online counseling services to children and their families
+* Provide ongoing support and resources to counselors to prevent burnout
+
+Resources:
+
+* Online platform for counseling services
+* Trained counselors
+* Marketing and promotion resources
+
+Contribution Links:
+
+* Counselors' contribution to the success of the online counseling services
+* Children's contribution to the success of the online counseling services
+* Parents' contribution to the success of the online counseling services
+
+Dependency Links:
+
+* The online platform for counseling services depends on the availability of trained counselors
+* The success of the online counseling services depends on the availability of resources for counselors to prevent burnout
+
+Decomposition Links:
+
+* Developing and maintaining the online platform for counseling services can be decomposed into smaller tasks such as designing the platform, developing the platform, and maintaining the platform
+* Recruiting and training counselors can be decomposed into smaller tasks such as advertising for counselors, interviewing potential counselors, and providing training for counselors.

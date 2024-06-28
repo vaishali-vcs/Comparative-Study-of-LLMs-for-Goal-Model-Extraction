@@ -1,0 +1,28 @@
+- 'Actors': 
+    - Kids Helpline: A not-for-profit organization counseling youth.
+    - Youth: Various individuals that will be using the internet counseling services.
+- 'SoftGoals': 
+    - Increase reachability: Able to help many kids as possible.
+    - Increase funds: Generate more funds to help the organization.
+    - Confidentiality: To ensure the information shared by the youth remains confidential.
+    - Protection from predators: Ensuring the safety of the youth using the internet counseling services.
+    - Avoid public scrutiny over advice: The advice given should be free from public criticism.
+    - Prevent liability over misinterpreted guidance: The guidance provided should be clear and not easily misinterpreted.
+- 'Goals': 
+    - Expand internet counseling service: to provide counseling online.
+- 'Tasks': 
+    - Evaluate technical options: Choose the best technical option to expand the internet counseling service.
+    - Modify existing anonymous question and answer system: If this is chosen as the best technical option.
+    - Implement discussion boards: If this is chosen as the best technical option.
+    - Implement wikis: If this is chosen as the best technical option.
+    - Implement text messaging: If this is chosen as the best technical option.
+    - Implement chat rooms: If this is chosen as the best technical option.
+- 'Resources': 
+    - Existing anonymous question and answer system.
+    - Discussion boards, wikis, text messaging, chat rooms: Technical options for expanding internet counseling.
+- 'Contribution links': 
+    - The chosen technical option will contribute to the goal of expanding internet counseling service.
+- 'Dependencies links': 
+    - The task of expanding the internet counseling service depends on the chosen technical option.
+- 'Decomposition links':
+    - The goal of expanding internet counseling service is decomposed into various tasks like evaluating technical options and implementing the chosen technical option.

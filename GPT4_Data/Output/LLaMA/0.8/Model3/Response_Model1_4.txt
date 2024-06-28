@@ -1,0 +1,45 @@
+Actors:
+
+* User
+
+SoftGoals:
+
+* Ease of use
+* Accessibility of information
+* Convenience
+
+Goals:
+
+* View all locations of recycling centers on a map
+* Get the hours of each recycling facility
+
+Tasks:
+
+* Display all recycling center locations on a map
+* Provide an interactive map to view the locations
+* Display the hours of each recycling facility
+
+Resources: 
+
+* Map interface
+* Data on recycling center locations and hours
+
+Contribution Links:
+
+* Viewing all locations on a map contributes to the goal of convenience
+* Knowing the hours of each recycling facility contributes to the goal of ease of use
+
+Dependencies Links:
+
+* The map interface requires data on recycling center locations and hours
+
+Decomposition Links:
+
+* Display all recycling center locations on a map can be decomposed into:
+	+ Obtain data on recycling center locations
+	+ Display the data on the map
+* Provide an interactive map to view the locations can be decomposed into:
+	+ Create an interactive map interface
+	+ Integrate the map interface with the data on recycling center locations
+
+Note: The above output is a list of intentional elements, which includes actors, soft goals, goals, tasks, resources, contribution links, dependencies links, and decomposition links. These elements are organized in a bulleted list, with each element separated by a blank line for readability.

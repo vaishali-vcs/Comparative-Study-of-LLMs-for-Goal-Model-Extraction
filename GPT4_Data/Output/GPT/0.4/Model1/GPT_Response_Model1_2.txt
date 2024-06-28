@@ -1,0 +1,31 @@
+- 'Actors': 
+  - Traffic Simulator: This system is the main actor that enables traffic flow simulation and aids in the development of efficient road traffic engineering and design.
+
+- 'SoftGoals': 
+  - Efficient Road Traffic Engineering: This is a softgoal as there's no clear, objective measure of satisfaction. It involves improving the functionality of the traffic system.
+  - Clear Visualizations: This is another softgoal as it aims to improve the user interface and user experience of the system.
+  - Highlighting Congestion: This softgoal is related to the system's capability to identify and highlight areas of traffic congestion.
+  - Demonstrating Traffic Flow and Bottlenecks: This softgoal is related to the system's ability to animate and demonstrate the flow of traffic and identify bottlenecks.
+
+- 'Goals': 
+  - Traffic Flow Simulation: The main goal of the Traffic Simulator is to simulate the flow of traffic.
+
+- 'Tasks': 
+  - Develop Traffic Flow Simulation: This task involves developing the capability to simulate traffic flow.
+  - Design Density Maps: This task involves creating density maps to highlight congestion.
+  - Create Animations: This task involves creating animations to demonstrate traffic flow and bottlenecks.
+
+- 'Resources': 
+  - Traffic Data: This resource is required for the Traffic Simulator to perform its tasks.
+  - Software Tools: These resources are needed to develop the traffic flow simulation, design density maps, and create animations.
+
+- 'Contribution links': 
+  - Traffic Flow Simulation contributes positively to Efficient Road Traffic Engineering.
+  - Clear Visualizations contribute positively to Efficient Road Traffic Engineering.
+  - Highlighting Congestion and Demonstrating Traffic Flow and Bottlenecks contribute positively to Clear Visualizations.
+
+- 'Dependencies links': 
+  - The tasks of Developing Traffic Flow Simulation, Designing Density Maps, and Creating Animations are dependent on the availability of Traffic Data and Software Tools.
+
+- 'Decomposition links': 
+  - The goal of Traffic Flow Simulation is decomposed into the tasks of Developing Traffic Flow Simulation, Designing Density Maps, and Creating Animations.

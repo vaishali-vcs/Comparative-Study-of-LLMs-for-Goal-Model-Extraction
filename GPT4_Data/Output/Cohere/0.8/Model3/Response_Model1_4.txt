@@ -1,0 +1,21 @@
+Certainly! Here is a list of intentional elements for each user story: 
+
+### User Story S1:
+- Actors: User, Recycling Center Map System
+- SoftGoals: Display recycling center locations clearly and accurately, Enable filtering and search options for efficient route planning, Provide real-time updates on center availability and hours, Ensure data security and privacy of user information, Offer detailed information for each recycling center (e.g., type of materials accepted, guidelines for drop-offs)
+- Goals: Enhance user convenience for waste drop-offs, Promote sustainable waste management practices through easy access to recycling centers
+- Tasks: Develop a user-friendly interface for map visualization, Integrate location data for recycling centers, Implement search and filter functions, Ensure accurate and up-to-date information for centers, Provide a secure and privacy-focused experience for users
+- Resources: Recycling center data, Mapping software and tools, Development resources for frontend and backend, Testing resources for usability and functionality, Privacy policy and compliance resources
+- Contribution links: The development of this feature may be contributed to by data scientists, mapping experts, and developers who work together to ensure the accuracy of the map and the effectiveness of the filtering system.
+- Dependencies links: This user story depends on the successful completion of mapping software that locates the user and recycling centers accurately. 
+
+### User Story S2:
+- Actors: User, Recycling Facility Hour Information System
+- SoftGoals: Accurate and up-to-date hour information for each facility, Intuitive interface for easy access to hour information, Option to filter and search for facilities with specific hour requirements, Prompt notifications for any changes in facility hours
+- Goals: Save users time and effort in planning waste drop-offs, Improve user experience by providing reliable information
+- Tasks: Gather and integrate hour information for recycling facilities, Display hour data through the user interface, Implement search and filter functions for hours, Ensure real-time updates and notifications for hour changes, Test the system for usability and reliability
+- Resources: Recycling center data (including hours), Development resources for frontend and backend, Testing resources for usability and functionality, Notification systems for updates
+- Contribution links: The development of this feature may be contributed to by data scientists who ensure the accuracy of the data, and developers who implement the front-end and back-end of the application. 
+- Dependencies links: This user story depends on the user story for viewing recycling center locations on a map, so that users can plan ahead which centers they will visit and when. 
+
+Is there anything else I can help you with?

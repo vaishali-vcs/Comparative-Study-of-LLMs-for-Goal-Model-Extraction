@@ -1,0 +1,66 @@
+Actors:
+
+* User
+
+SoftGoals:
+
+* View a map display of public recycling bins around the user's area
+	+ Specifications:
+		- The system should display the location of public recycling bins on a map
+		- The system should allow the user to filter the map by type of recyclable material accepted by each bin
+		- The system should allow the user to search for recycling bins near their location
+		- The system should provide information on the nearest recycling bins to the user's location
+		- The system should display the number of recycling bins in each location
+		- The system should allow the user to view the details of each recycling bin, including the type of material accepted and the location of the bin
+* View safe disposal events currently being organised around the user's area
+	+ Specifications:
+		- The system should display a list of upcoming safe disposal events in the user's area
+		- The system should provide information on the location, date, and time of each event
+		- The system should allow the user to filter the list of events by type of disposal (e.g., electronics, hazardous waste, etc.)
+		- The system should allow the user to search for events near their location
+		- The system should provide information on the nearest event to the user's location
+		- The system should allow the user to view the details of each event, including the location, date, and time of the event
+* View all locations of recycling centers on a map, so that the user can check which routes to take to drop off waste
+	+ Specifications:
+		- The system should display the location of all recycling centers on a map
+		- The system should allow the user to filter the map by type of recyclable material accepted by each center
+		- The system should allow the user to search for recycling centers near their location
+		- The system should provide information on the nearest recycling center to the user's location
+		- The system should allow the user to view the details of each recycling center, including the type of material accepted and the location of the center
+
+Goals:
+
+* Provide the user with a map display of public recycling bins in their area
+* Provide the user with information on safe disposal events in their area
+* Provide the user with a map display of all recycling centers in their area
+
+Tasks:
+
+* Develop a map display of public recycling bins in the user's area
+* Develop a list of upcoming safe disposal events in the user's area
+* Develop a map display of all recycling centers in the user's area
+
+Resources:
+
+* A database of public recycling bins and safe disposal events in the user's area
+* A map display component for the system
+* A search function for the system
+
+Contribution Links:
+
+* The user can contribute to the system by providing information on safe disposal events in their area
+* The system can contribute to the user by providing information on public recycling bins and safe disposal events in their area
+
+Dependency Links:
+
+* The system depends on a database of public recycling bins and safe disposal events in the user's area
+* The system depends on a map display component for the system
+
+Decomposition Links:
+
+* The system can be decomposed into the following sub-systems:
+	+ Public recycling bin map display
+	+ Safe disposal event list display
+	+ Recycling center map display
+
+Note: The above list of intentional elements is not exhaustive and may change based on the specifications and requirements of the system.

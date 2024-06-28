@@ -1,0 +1,44 @@
+Actors: Business Owner
+
+SoftGoals:
+
+* Enhance customer experience by offering online shopping
+* Increase sales through online channel
+* Ensure system security, with a focus on both terminal and host security
+* Implement access authorization using techniques such as Fingerprint, Password, and Cardkey
+* Employ encryption measures to enhance overall system security
+
+Goals:
+
+* Increase online sales
+* Improve customer experience
+* Ensure system security
+
+Tasks:
+
+* Develop and implement an online shopping platform
+* Integrate access authorization using Fingerprint, Password, and Cardkey
+* Implement encryption measures for data protection
+* Test and validate the online shopping platform
+
+Resources:
+
+* Developers with expertise in online shopping platform development, access authorization, and encryption measures
+* Infrastructure for hosting the online shopping platform
+* Testing equipment and tools
+
+Contribution Links:
+
+* The online shopping platform will contribute to the success of the business by increasing sales and improving customer experience
+* The access authorization and encryption measures will contribute to the security of the system
+
+Dependency Links:
+
+* The online shopping platform will depend on the developers with the necessary expertise to develop and implement it
+* The online shopping platform will depend on the infrastructure to host it
+
+Decomposition Links:
+
+* Developing the online shopping platform can be decomposed into smaller tasks such as designing the user interface, implementing the payment gateway, and integrating with the existing systems
+* Implementing access authorization can be decomposed into smaller tasks such as configuring the Fingerprint, Password, and Cardkey systems
+* Implementing encryption measures can be decomposed into smaller tasks such as selecting the appropriate encryption algorithms and implementing them in the online shopping platform.

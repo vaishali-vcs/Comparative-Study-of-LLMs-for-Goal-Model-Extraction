@@ -1,0 +1,48 @@
+Actors:
+
+* Montfort Hospital (the system itself)
+* Nurses (stakeholders who will use the system to track the process and provide information to patients)
+
+SoftGoals:
+
+* Provide patients with real-time information of their status and wait time
+* Improve patient satisfaction by keeping them informed about the progress of their treatment
+* Reduce the time patients spend in the hospital by streamlining the process and reducing wait times
+
+SoftGoals Specifications:
+
+* The system shall be able to track the patient's status in real-time and provide the patient with an estimated wait time for each step of the process
+* The system shall be able to update the patient's status and expected wait time in real-time as the process progresses
+* The system shall be able to provide patients with real-time notifications of any changes to their status or wait time
+
+Goals:
+
+* To provide nurses with an easy-to-use system to track the patient's process and provide information to patients
+* To reduce the time nurses spend on tracking the patient's process and providing information to patients
+
+Tasks:
+
+* To register patients in the system and provide them with an access code to track their process
+* To set the current status and expected time for each step of the process
+* To update the patient's status and expected wait time in real-time as the process progresses
+
+Resources:
+
+* The system shall be accessible to nurses and patients
+* The system shall have a user-friendly interface for nurses to easily track the patient's process and provide information to patients
+
+Contribution Links:
+
+* The system shall contribute to the improvement of patient satisfaction by providing real-time information of their status and wait time
+* The system shall contribute to the reduction of time patients spend in the hospital by streamlining the process and reducing wait times
+
+Dependency Links:
+
+* The system shall be dependent on the availability of the hospital's IT infrastructure and network
+* The system shall be dependent on the nurses' ability to use the system and track the patient's process
+
+Decomposition Links:
+
+* The system shall be decomposed into the following components: patient registration, access code provision, status and wait time tracking, and real-time notifications
+
+Note: The above list of intentional elements is not exhaustive and may change as new information is gathered or as the requirements of the system evolve.

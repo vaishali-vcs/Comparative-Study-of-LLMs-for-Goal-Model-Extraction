@@ -1,0 +1,10 @@
+```
+ Actors: Montfort Hospital
+ SoftGoals: Real-time information, Wait time estimation, Nurse setting current status and expected time, Registering patients to WTES
+ Goals: Provide patients with information on their status and wait time
+ Tasks: Register patient, Nurse gives access code to patient, Nurse sets current status and expected time
+ Resources: Patients, Nurses
+ Contribution links: Nurse gives access code to patient impacts registering patient to WTES
+ Dependencies links: Nurse needs to register the patient to WTES before setting the current status and expected time
+ Decomposition links: Registering patient to WTES can be decomposed into sub-elements: Nurse gives access code to patient
+```

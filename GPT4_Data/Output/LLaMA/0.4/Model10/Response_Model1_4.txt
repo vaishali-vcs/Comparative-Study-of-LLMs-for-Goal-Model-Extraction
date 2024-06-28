@@ -1,0 +1,50 @@
+Actors:
+
+* Kids and Youth
+
+SoftGoals:
+
+* Anonymity: The system should provide an anonymous counseling service to protect the privacy of the users.
+	+ Specifications: The system should not collect any personal information from the users, and the communication should be encrypted.
+	+ Improvement: The system should provide a secure and reliable anonymous counseling service to ensure the users' privacy is protected.
+* Convenience: The system should provide a convenient counseling service that is accessible through various channels (text messaging, Cyber Café, portal, Chat Rooms).
+	+ Specifications: The system should be available 24/7 and should have a user-friendly interface.
+	+ Improvement: The system should provide a seamless and efficient counseling service that is accessible through the users' preferred channels.
+* Promptness: The system should provide prompt and effective counseling services to address the users' needs.
+	+ Specifications: The system should have a response time of less than 24 hours, and the counseling service should be available 24/7.
+	+ Improvement: The system should provide a timely and effective counseling service that addresses the users' needs and concerns.
+
+Goals:
+
+* Provide an anonymous counseling service to protect the privacy of the users.
+	+ Tasks: Develop a secure and reliable anonymous counseling service, ensure the system does not collect any personal information, and implement encryption to protect the users' communication.
+* Provide a convenient counseling service that is accessible through various channels.
+	+ Tasks: Develop a user-friendly interface, ensure the system is available 24/7, and provide a seamless and efficient counseling service through the users' preferred channels.
+* Provide prompt and effective counseling services to address the users' needs.
+	+ Tasks: Develop a counseling service with a response time of less than 24 hours, ensure the system is available 24/7, and provide timely and effective counseling services to address the users' needs and concerns.
+
+Resources:
+
+* A team of counselors and IT professionals to develop and maintain the system.
+* A secure and reliable communication platform to ensure the users' privacy is protected.
+* A user-friendly interface to ensure the system is accessible and easy to use.
+
+Contribution Links:
+
+* The system's anonymity and convenience features will contribute to the users' satisfaction and trust in the system.
+* The system's promptness and effectiveness will contribute to the users' positive experience and satisfaction.
+
+Dependency Links:
+
+* The system's functionality and performance are dependent on the availability of a team of counselors and IT professionals to develop and maintain the system.
+* The system's anonymity and convenience features are dependent on the availability of a secure and reliable communication platform.
+
+Decomposition Links:
+
+* The system's anonymity and convenience features can be decomposed into the following sub-features:
+	+ Anonymous communication
+	+ Multiple channels for counseling (text messaging, Cyber Café, portal, Chat Rooms)
+	+ User-friendly interface
+* The system's promptness and effectiveness can be decomposed into the following sub-features:
+	+ Timely response to the users' requests
+	+ Efficient counseling services that address the users' needs and concerns

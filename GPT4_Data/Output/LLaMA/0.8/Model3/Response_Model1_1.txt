@@ -1,0 +1,46 @@
+Actors:
+
+* User
+* System
+
+SoftGoals:
+
+* Provide a user-friendly interface to view recycling center locations and hours.
+* Enable users to plan their route to drop off waste efficiently.
+* Provide users with the ability to access recycling center information at any time.
+
+Goals:
+
+* Display all recycling center locations on a map.
+* Provide information on the hours of each recycling facility.
+* Allow users to view the locations and hours of multiple recycling centers.
+
+Tasks:
+
+* Create a user-friendly interface to display recycling center locations and hours.
+* Develop a map view to display the locations of recycling centers.
+* Integrate a search function to allow users to find specific recycling centers.
+* Implement a filter feature to allow users to view only the recycling centers that are open during their preferred hours.
+
+Resources:
+
+* Access to a map API for displaying location information.
+* A database to store recycling center information.
+* A user interface design to create a user-friendly experience.
+
+Contribution Links:
+
+* User can contribute to a more sustainable environment by using the app to recycle properly.
+* The app can contribute to the community by providing a convenient way for users to recycle.
+
+Dependency Links:
+
+* The app's functionality depends on the recycling center information being accurate and up-to-date.
+* The app's functionality depends on the user's location being accurately determined.
+
+Decomposition Links:
+
+* Displaying recycling center locations can be decomposed into retrieving data from a database and displaying it on a map.
+* Providing information on recycling center hours can be decomposed into retrieving schedules from the recycling centers and displaying them in a user-friendly format.
+
+Note: The above list of intentional elements is based on the given user story, and it is not exhaustive. As you continue to work on the project, you may discover additional intentional elements and refine the existing ones.

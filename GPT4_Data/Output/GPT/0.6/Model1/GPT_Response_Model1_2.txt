@@ -1,0 +1,33 @@
+- 'Actors': 
+  - Traffic Simulator
+
+- 'SoftGoals': 
+  - Efficient road traffic engineering and design
+  - Clear visualizations
+  - Quick aid development
+  - Highlighting congestion
+  - Demonstrating traffic flow and bottlenecks
+
+- 'Goals': 
+  - Enable traffic flow simulation
+
+- 'Tasks': 
+  - Generate density maps
+  - Create animations demonstrating traffic flow and bottlenecks
+
+- 'Resources': 
+  - Traffic data
+  - Visualization tools
+  - Engineering and design tools
+
+- 'Contribution links': 
+  - Traffic flow simulation contributes to efficient road traffic engineering and design
+  - Clear visualizations contribute to quick aid development
+  - Density maps and animations contribute to highlighting congestion and demonstrating traffic flow and bottlenecks
+
+- 'Dependencies links': 
+  - The generation of density maps and animations depend on traffic data and visualization tools
+  - Efficient road traffic engineering and design depends on traffic flow simulation
+
+- 'Decomposition links':
+  - The goal of enabling traffic flow simulation is decomposed into the tasks of generating density maps and creating animations.

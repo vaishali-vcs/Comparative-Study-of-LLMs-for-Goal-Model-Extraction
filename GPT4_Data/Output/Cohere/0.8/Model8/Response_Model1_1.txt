@@ -1,0 +1,37 @@
+#### Actors:
+**Kids Helpline Organization**: The non-profit organization that provides counseling to youth over the phone and aims to expand their services to internet counseling to reach more kids.
+**Counselors**: The individuals providing counseling services to kids either over the phone or through internet mediums. 
+
+#### SoftGoals:
+- **Accessibility**: The system should be accessible to as many kids as possible, including those who may not be comfortable seeking in-person or phone counseling.
+- **Anonymity**: The organization must ensure youth seeking help retain their anonymity to protect their privacy and limit public scrutiny of their concerns.
+- **Multiplatform**: The system must allow kids to reach out through various platforms such as email, messaging, chat rooms, and other familiar communication methods. 
+
+#### Goals:
+- Increase the number of kids who seek and get counseling for their concerns.
+- Provide alternative methods of communication to phone calls to make counseling accessible to kids comfortable with online communication.
+- Offer additional resources and support to kids in need through internet means. 
+
+#### Tasks:
+- Analyze the existing anonymous question and answer system and identify its limitations and strengths.
+- Research and evaluate other internet counseling platforms to identify potential risks and benefits.
+- Consult with experts in cybersecurity and privacy protection to ensure that the chosen system protects kids from predators and maintains confidentiality.
+- Develop guidelines and training materials for counselors to ensure they provide appropriate advice and support while remaining within legal and ethical boundaries.
+
+#### Resources:
+- Expert advice from cybersecurity and counseling professionals.
+- Financial resources for system maintenance and expansion.
+- Technical resources for developing and implementing new systems.
+
+#### Contribution links:
+- Choosing a system to expand on their existing platform to include internet counseling may complement their current phone counseling system.
+- Developing a robust privacy policy for youth using their platform.
+
+#### Dependencies links:
+- The success of the platform depends on youth adopting it as an alternative to phone counseling.
+- The platform’s success also depends on the organization’s ability to train and support counselors in providing quality care online.
+
+#### Decomposition links:
+- Expanding into online counseling may be broken down into smaller tasks such as choosing a platform, developing privacy and safety protocols, and training counselors.
+
+Can I help you with any other brainstorming needs?

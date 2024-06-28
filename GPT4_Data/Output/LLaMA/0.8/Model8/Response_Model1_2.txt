@@ -1,0 +1,47 @@
+Actors: 
+
+* The Kids Helpline (holder of intentions), representing the not-for-profit organization that counsels youth over the phone.
+
+SoftGoals:
+
+* Provide easy-to-access online counseling services to increase the number of children seeking help.
+* Ensure the safety and privacy of all online interactions.
+* Provide a comfortable and confidential distance for children to seek help.
+* Protect the organization from potential legal liabilities and public scrutiny.
+
+Goals:
+
+* Develop an online counseling service that is accessible to multiple individuals.
+* Implement a modified anonymous question and answer system to facilitate online interactions.
+* Create a safe and secure environment for online counseling, including protection from predators.
+* Increase the availability of online counseling resources, such as discussion boards, wikis, text messaging, and chat rooms.
+
+Tasks:
+
+* Research and evaluate available technical options for expanding online counseling services.
+* Develop and implement a secure and confidential online counseling platform.
+* Implement a moderation system to ensure the safety and appropriateness of online content and interactions.
+* Provide training and support for counselors and other staff members to effectively utilize the new online counseling platform.
+
+Resources:
+
+* Access to a secure and reliable internet connection.
+* A dedicated team of IT professionals to manage and maintain the online counseling platform.
+* Adequate funding to support the development and implementation of the online counseling service.
+
+Contribution Links:
+
+* The online counseling service will contribute to the organization's goal of providing easy-to-access counseling services to more children.
+* The online counseling service will contribute to the organization's goal of increasing funds, as it will allow the organization to reach a wider audience and provide additional resources.
+
+Dependency Links:
+
+* The online counseling service will depend on the organization's existing anonymous question and answer system, as it will be modified to facilitate online interactions.
+* The online counseling service will depend on the organization's existing counseling staff, as they will be responsible for providing online counseling services.
+
+Decomposition Links:
+
+* The task of researching and evaluating available technical options for expanding online counseling services can be decomposed into smaller tasks, such as researching different online counseling platforms and evaluating their features and capabilities.
+* The task of developing and implementing a secure and confidential online counseling platform can be decomposed into smaller tasks, such as developing a user interface and implementing security measures.
+
+Note: The above list of intentional elements is not exhaustive, and additional elements may be identified as the user story is further developed and refined.

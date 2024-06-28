@@ -1,0 +1,55 @@
+### Actors:
+
+* The Kids Helpline (the system itself)
+* Youth seeking counseling (stakeholders)
+* Parents of youth seeking counseling (stakeholders)
+* Volunteer counselors (stakeholders)
+* IT staff (stakeholders)
+
+### SoftGoals:
+
+* Provide a safe and comfortable online environment for youth to seek counseling
+* Increase accessibility of counseling services to a broader range of youth
+* Ensure confidentiality and protection of personal information
+* Minimize the risk of predators or public scrutiny over advice
+* Balance the need for anonymity with the need for effective communication
+
+### Goals:
+
+* Provide online counseling services that are accessible and convenient for youth
+* Increase the number of youth seeking counseling through the online service
+* Ensure the online service is secure and confidential
+* Provide a user-friendly interface for youth and volunteer counselors
+
+### Tasks:
+
+* Develop a secure and anonymous online question and answer system
+* Implement discussion boards and wikis for youth to communicate with volunteer counselors
+* Integrate text messaging and chat rooms for real-time communication
+* Design a user-friendly interface for the online service
+* Train volunteer counselors on how to effectively interact with youth online
+
+### Resources:
+
+* Secure servers and network infrastructure
+* Anonymous question and answer system software
+* Discussion board and wiki software
+* Text messaging and chat room software
+* Training materials for volunteer counselors
+
+### Contribution Links:
+
+* The online counseling service will contribute to the organization's goal of providing accessible counseling services to a broader range of youth.
+* The online service will provide a safe and comfortable environment for youth to seek counseling, which will contribute to the organization's goal of ensuring confidentiality and protection of personal information.
+
+### Dependencies Links:
+
+* The online counseling service will depend on the organization's existing anonymous question and answer system, as well as the training of volunteer counselors.
+* The online service will also depend on the organization's existing network infrastructure and secure servers.
+
+### Decomposition Links:
+
+* The online question and answer system can be decomposed into sub-systems for handling user authentication, message moderation, and data encryption.
+* The discussion boards and wikis can be decomposed into sub-systems for handling user authentication, content moderation, and data storage.
+
+Note: The above diagram is just an example and can be further refined and expanded based on the specific requirements of the Kids Helpline's online counseling service.

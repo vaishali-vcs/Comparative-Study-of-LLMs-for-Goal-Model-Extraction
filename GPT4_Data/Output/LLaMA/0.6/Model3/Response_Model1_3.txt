@@ -1,0 +1,27 @@
+* Actors:
+	+ User
+* SoftGoals:
+	+ To view all locations of recycling centers on a map
+	+ To check which routes to take to drop off waste
+	+ To have access to the hours of each recycling facility
+	+ To arrange drop-offs on the user's off days or during after-work hours
+* Goals:
+	+ To view the locations of recycling centers on a map
+	+ To get the hours of each recycling facility
+* Tasks:
+	+ Display the locations of recycling centers on a map
+	+ Provide the hours of each recycling facility
+* Resources:
+	+ Map display
+	+ Hours of each recycling facility
+* Contribution Links:
+	+ The user's ability to view the locations of recycling centers on a map contributes to their ability to check which routes to take to drop off waste
+	+ The user's ability to get the hours of each recycling facility contributes to their ability to arrange drop-offs on their off days or during after-work hours
+* Dependencies Links:
+	+ The map display and the hours of each recycling facility depend on the user's ability to view the locations of recycling centers on a map
+	+ The user's ability to get the hours of each recycling facility depends on the recycling facilities providing their hours
+* Decomposition Links:
+	+ The task of displaying the locations of recycling centers on a map can be decomposed into sub-tasks such as retrieving the locations from a database or API, and displaying them on the map
+	+ The task of providing the hours of each recycling facility can be decomposed into sub-tasks such as retrieving the hours from a database or API, and displaying them to the user
+
+Note: The above list is not exhaustive, and there may be other intentional elements, links, and sub-tasks that are not explicitly mentioned.

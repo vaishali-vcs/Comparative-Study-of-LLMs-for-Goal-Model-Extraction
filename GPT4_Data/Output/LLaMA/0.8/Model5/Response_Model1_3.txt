@@ -1,0 +1,42 @@
+Actors: Montfort Hospital (system itself), patients, nurses
+SoftGoals: 
+
+* Provide patients with real-time information about their status and wait time
+* Reduce uncertainty and anxiety for patients
+* Increase transparency and communication between patients, nurses, and other hospital staff
+
+Goals:
+
+* To register patients in the system
+* To give patients an access code to track the process
+* To set the current status and expected time for each patient
+
+Tasks:
+
+* To develop a user-friendly interface for patients to track their status and wait time
+* To integrate the system with the hospital's existing systems (e.g. electronic medical records)
+* To ensure the system is secure and confidential
+
+Resources:
+
+* Hospital IT infrastructure (servers, networks, databases)
+* Software development team
+* Security experts
+
+Contribution Links:
+
+* Patients can contribute to the system by providing feedback on the user experience and suggestions for improvement
+* Nurses can contribute to the system by updating the current status and expected time for each patient
+* Hospital IT infrastructure is essential for the system to function properly
+
+Dependencies Links:
+
+* The system depends on the hospital's existing systems (e.g. electronic medical records) to gather information about the patients' status and wait time
+* The system depends on the nurses to update the current status and expected time for each patient
+
+Decomposition Links:
+
+* The system can be decomposed into sub-systems for patient registration, access code generation, and status and wait time tracking
+* The system can be decomposed into smaller components for user interface, data integration, and security
+
+Note: The above list of intentional elements is not exhaustive and can be expanded or modified as needed based on the specific requirements of the system.

@@ -1,0 +1,38 @@
+Actors: Montfort Hospital, patients
+
+SoftGoals:
+
+* Improve patient experience by providing real-time information about the status of the process.
+* Reduce patient anxiety by providing accurate wait time estimates.
+* Increase patient satisfaction by keeping them informed about the progress of their treatment.
+
+Goals:
+
+* To provide patients with real-time information about their current status in the process.
+* To estimate wait times for patients at each step of the process.
+
+Tasks:
+
+* Register patients in the WTES system.
+* Provide nurses with access codes to track the process in the system.
+* Set the current status and expected time for each step of the process.
+
+Resources:
+
+* WTES system
+* Access codes
+* Nursing staff
+
+Contribution Links:
+
+* Patient registration in WTES system contributes to the goal of providing real-time information to patients.
+* Setting the current status and expected time for each step of the process contributes to the goal of estimating wait times.
+
+Dependency Links:
+
+* The success of the WTES system depends on the availability of the nursing staff to set the current status and expected time for each step of the process.
+
+Decomposition Links:
+
+* Patient registration can be decomposed into sub-tasks such as entering patient information, verifying patient identity, and confirming patient registration.
+* Setting the current status and expected time for each step of the process can be decomposed into sub-tasks such as identifying the current step, estimating the time required for the step, and updating the system with the current status and expected time.

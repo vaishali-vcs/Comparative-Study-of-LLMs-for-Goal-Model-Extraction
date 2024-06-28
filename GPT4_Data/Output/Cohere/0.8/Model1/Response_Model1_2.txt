@@ -1,0 +1,8 @@
+## Actors: Traffic engineers, planners and designers
+## SoftGoals: Improve traffic flow and capacity, reduce congestion and bottlenecks, optimize road traffic engineering and design
+## Goals: Achieve efficient road traffic engineering and design
+## Tasks: Use road traffic simulation software to model traffic flow and simulate changes, additions or subtractions to a road network, generate statistics for congestion and traffic jams, optimize traffic light sequencing and timing, and place road network objects such as parking bays and bus stops
+## Resources: Road traffic simulation software, road network data
+## Contribution links: None
+## Dependencies links: None
+## Decomposition links: None

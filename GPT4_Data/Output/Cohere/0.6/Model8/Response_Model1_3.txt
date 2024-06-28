@@ -1,0 +1,23 @@
+Certainly, here is a breakdown of the elements in the user story:
+
+- **Actors**: The actors in this story are the kids who seek counseling and the counselors who provide advice through the Kids Helpline. The organization itself is also an actor responsible for making decisions regarding the technical options for expanding internet counseling. 
+
+- **SoftGoals**: 
+  - Confidentiality: The organization must ensure that any information shared by kids seeking counseling is kept private and secure. 
+  - Accessibility: The platform should be easy to use and accessible to kids who may not be comfortable with traditional forms of communication. 
+  - Scalability: As the organization aims to reach more kids, the system should be able to handle a large number of users and traffic without compromising performance.
+  - Security: A mechanism must be in place to protect kids from potential predators and ensure that the platform is safe for them to use. 
+
+- **Goals**: The organization aims to provide a platform for kids to seek counseling electronically while ensuring confidentiality, accessibility, scalability, and security. 
+
+- **Tasks**: The tasks involved may include researching and evaluating different technical options, such as modifying their existing anonymous question and answer system, incorporating discussion boards, wikis, text messaging, or establishing chat rooms. The organization may also need to develop or implement new procedures and train staff accordingly to provide counseling effectively through these platforms. 
+
+- **Resources**: The resources available could include funding for the expansion, expertise in telecommunications and counseling, and infrastructure to support the chosen technical platforms. 
+
+- **Contribution links**: The links could be the factors that influenced the organization to expand their services to online counseling, such as increasing funds, reaching a wider audience, and providing a safer platform for kids to seek help. 
+
+- **Dependencies links**: The dependencies could be the concerns the organization has regarding the existing system, such as maintaining confidentiality, protecting kids from predators, and avoiding liability for misinterpreted guidance. 
+
+- **Decomposition links**: The links could be the various components of the internet counseling service, including the existing anonymous question and answer system, discussion boards, wikis, text messaging, and chat rooms. 
+
+Would you like help with anything else?

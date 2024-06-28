@@ -1,0 +1,40 @@
+The intentional elements extracted from this user story are:
+
+- 'Actors': 
+  - Business Owner
+  - Customers
+  - System (Online Shopping System)
+
+- 'SoftGoals':
+  - System Security Enhancement
+  - Terminal Security Enhancement
+  - Host Security Enhancement
+  - User Experience Optimization
+
+- 'Goals': 
+  - Boost Sales
+  - Offer Online Shopping Experience
+
+- 'Tasks': 
+  - Implement Access Authorization
+  - User Authentication
+  - Employ Encryption Measures
+
+- 'Resources': 
+  - Fingerprint technique for authentication
+  - Password technique for authentication
+  - Cardkey technique for authentication
+  - Encryption Techniques
+
+- 'Contribution Links': 
+  - Implementing Access Authorization contributes positively to Terminal Security Enhancement
+  - User Authentication contributes positively to Terminal Security Enhancement
+  - Employing Encryption Measures contributes positively to Overall System Security
+
+- 'Dependencies Links': 
+  - Terminal Security Enhancement depends on User Authentication and Access Authorization implementation
+  - Overall System Security Enhancement depends on Terminal Security Enhancement, Host Security Enhancement, and Encryption Measures implementation
+
+- 'Decomposition Links':
+  - System Security Enhancement is decomposed into Terminal Security Enhancement and Host Security Enhancement
+  - Implement Access Authorization is decomposed into User Authentication techniques (Fingerprint, Password, Cardkey)

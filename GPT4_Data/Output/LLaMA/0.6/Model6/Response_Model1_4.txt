@@ -1,0 +1,48 @@
+Actors:
+
+* The wireless telephony company
+
+SoftGoals:
+
+* High performance: The company aims to provide high-quality services to its customers, with fast data transfer rates and low latency.
+	+ Specifications:
+		- High throughput: The system should be capable of handling a large number of users and data transfers without significant performance degradation.
+		- Low latency: The system should respond quickly to user requests, with minimal delay.
+		- High availability: The system should be available and operational at all times, with minimal downtime for maintenance or upgrades.
+* Low cost: The company aims to minimize its infrastructure costs, while ensuring that the system is reliable and efficient.
+	+ Specifications:
+		- Low infrastructure cost: The system should be able to utilize existing infrastructure to the fullest extent possible, with minimal additional hardware or software costs.
+		- Efficient resource utilization: The system should be able to utilize resources such as bandwidth, processing power, and storage to the fullest extent possible, with minimal waste.
+
+Goals:
+
+* Optimize hardware utilization: The company aims to maximize the utilization of its hardware resources, such as bandwidth and processing power, to ensure that the system is running at its full potential.
+* Achieve high throughput: The company aims to provide high-speed data transfer rates to its customers, with minimal delays or disruptions.
+
+Tasks:
+
+* Implement resource allocation algorithms to ensure efficient utilization of hardware resources.
+* Optimize network topology and routing to minimize latency and maximize throughput.
+* Implement quality of service (QoS) mechanisms to prioritize traffic and ensure that critical applications receive adequate resources.
+* Monitor and analyze system performance to identify areas for improvement and optimize the system accordingly.
+
+Resources:
+
+* Existing infrastructure: The company aims to utilize its existing infrastructure to the fullest extent possible, including network elements, servers, and storage devices.
+* New hardware: The company may need to purchase new hardware, such as additional servers or network elements, to support increased demand or to improve system performance.
+* Software and applications: The company may need to purchase or develop new software and applications to support its goals, such as QoS mechanisms or resource allocation algorithms.
+
+Contribution links:
+
+* The success of the wireless telephony company's goals will contribute to the success of its customers, who will benefit from high-quality services and low costs.
+* The success of the company's goals will also contribute to the success of its employees, who will benefit from the company's financial success and the ability to provide high-quality services to customers.
+
+Dependencies links:
+
+* The success of the company's goals depends on the availability and performance of its existing infrastructure, such as network elements and servers.
+* The success of the company's goals also depends on the development and implementation of new software and applications, such as QoS mechanisms and resource allocation algorithms.
+
+Decomposition links:
+
+* The goal of optimizing hardware utilization can be decomposed into sub-goals, such as optimizing bandwidth utilization and optimizing processing power utilization.
+* The goal of achieving high throughput can be decomposed into sub-goals, such as minimizing latency and maximizing data transfer rates.

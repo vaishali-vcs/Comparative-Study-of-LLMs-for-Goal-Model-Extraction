@@ -1,0 +1,14 @@
+```
+ Actors: The active entities in the system or its environment who want goals to be achieved, tasks to be performed, resources to be available, and soft goals to be satisfied. 
+
+SoftGoals: conditions or states of affairs in the world that the actor would like to achieve. These are requirements that outline how well the system will operate, including speed, security, reliability, and data integrity. 
+
+Goals: achievements that the actor wants to attain. 
+
+Tasks: operations that need to be carried out to achieve the goals and soft goals. 
+
+Resources: elements that are necessary for achieving the goals. 
+
+Contribution links: the impacts of one element on another element. 
+
+Dependency links:

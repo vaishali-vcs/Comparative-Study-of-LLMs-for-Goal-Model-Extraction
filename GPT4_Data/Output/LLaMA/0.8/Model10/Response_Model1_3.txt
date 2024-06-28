@@ -1,0 +1,50 @@
+Actors:
+
+* Kids and Youth (as the stakeholders of the system)
+
+SoftGoals:
+
+* Confidentiality and anonymity of the counseling service
+* Accessibility and convenience of the counseling service through various channels (text messaging, Cyber Café, portal, Chat Rooms)
+* Timeliness and promptness of the counseling service
+* Effectiveness of the counseling service in addressing the needs of the Kids and Youth
+
+Goals:
+
+* Provide a secure and confidential counseling service
+* Offer a variety of channels for accessing the counseling service (text messaging, Cyber Café, portal, Chat Rooms)
+* Ensure prompt and effective counseling service
+
+Tasks:
+
+* Implement secure and confidential communication channels for the counseling service
+* Develop a user-friendly and accessible portal for the counseling service
+* Ensure the counseling service is available through multiple channels (text messaging, Cyber Café, portal, Chat Rooms)
+* Provide timely and effective counseling service to the Kids and Youth
+
+Resources:
+
+* Secure and confidential communication channels (e.g. encryption, secure servers)
+* User-friendly and accessible portal (e.g. easy navigation, clear instructions)
+* Multiple channels for accessing the counseling service (text messaging, Cyber Café, portal, Chat Rooms)
+
+Contribution Links:
+
+* The confidentiality and anonymity of the counseling service is crucial for the well-being and trust of the Kids and Youth.
+* The accessibility and convenience of the counseling service through multiple channels will increase the likelihood of the Kids and Youth using the service.
+* Timely and effective counseling service will help the Kids and Youth to address their issues and improve their mental health.
+
+Dependency Links:
+
+* The counseling service is dependent on the availability of the communication channels and the portal.
+* The counseling service is dependent on the expertise and availability of the counselors.
+
+Decomposition Links:
+
+* The counseling service can be decomposed into the following components:
+	+ Secure and confidential communication channels
+	+ User-friendly and accessible portal
+	+ Multiple channels for accessing the counseling service
+	+ Timely and effective counseling service
+
+Note: The above list of intentional elements is not exhaustive and can be further elaborated based on the specific requirements of the stakeholders.

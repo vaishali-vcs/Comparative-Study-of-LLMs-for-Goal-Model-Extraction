@@ -1,0 +1,51 @@
+Actors:
+
+* The Kids Helpline (the system or the organization itself)
+
+SoftGoals:
+
+* To provide a comfortable and accessible platform for youth to seek counseling online
+* To increase the reach and accessibility of the counseling service to more youth
+* To ensure the confidentiality and privacy of the youth using the online counseling service
+* To protect the youth from potential predators and public scrutiny over the advice given
+* To ensure the liability of the organization is minimized in case of misinterpreted guidance
+
+Goals:
+
+* To provide a secure and reliable online counseling service to youth
+* To ensure the online counseling service is accessible to multiple individuals
+* To provide a user-friendly interface for the youth to seek counseling online
+
+Tasks:
+
+* To modify the existing anonymous question and answer system to be accessible online
+* To create a secure and moderated discussion board for youth to seek counseling online
+* To develop a wiki to provide youth with information and resources on various topics related to counseling
+* To integrate text messaging and chat rooms for real-time counseling support
+
+Resources:
+
+* A secure and reliable online platform for counseling
+* Trained counselors and moderators to provide support and guidance to youth
+* A team of IT professionals to maintain and update the online platform
+* Adequate funding to support the expansion of the online counseling service
+
+Contribution Links:
+
+* The online counseling service will contribute to the organization's goal of reaching more youth and providing them with the support they need
+* The online counseling service will contribute to the organization's goal of increasing funds to support its counseling services
+
+Dependencies Links:
+
+* The success of the online counseling service depends on the organization's ability to secure a reliable and secure online platform
+* The success of the online counseling service depends on the organization's ability to recruit and train adequate counselors and moderators
+
+Decomposition Links:
+
+* The online counseling service can be decomposed into the following components:
+	+ Modification of the existing anonymous question and answer system
+	+ Creation of a secure and moderated discussion board
+	+ Development of a wiki
+	+ Integration of text messaging and chat rooms
+
+Note: The above list of intentional elements is based on the given user story and the GRL model. The list provides a detailed description of the actors, softgoals, goals, tasks, resources, contribution links, dependencies links, and decomposition links that are relevant to the user story.

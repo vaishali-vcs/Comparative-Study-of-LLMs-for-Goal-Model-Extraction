@@ -1,0 +1,29 @@
+Based on the provided user stories, the intentional elements can be extracted as follows:
+
+- 'Actors': 
+    - Executive
+    - HR Department Employee
+    - Employee
+- 'SoftGoals':
+    - Improve company performance
+    - Maintain data integrity
+    - Ensure data security
+    - Provide timely data access
+- 'Goals': 
+    - Full access to company data for the executive
+    - Modify company data for the HR department employee
+    - View company data for the employee
+- 'Tasks': 
+    - Implement data access control
+    - Implement data modification control
+    - Implement data view control
+- 'Resources':
+    - Company data
+- 'Contribution links': 
+    - Data access control contributes positively to the goal of full access for the executive
+    - Data modification control contributes positively to the goal of modifying data for the HR department employee
+    - Data view control contributes positively to the goal of viewing data for the employee
+- 'Dependencies links': 
+    - The executive depends on the HR department employee and the employee for the company data
+- 'Decomposition links':
+    - The softgoal of improving company performance is decomposed into the goals of full access, data modification, and data viewing.

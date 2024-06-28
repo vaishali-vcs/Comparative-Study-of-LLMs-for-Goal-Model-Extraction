@@ -1,0 +1,43 @@
+Actors: 
+
+* User
+
+SoftGoals:
+
+* To provide the user with an easy way to find recycling bins and safe disposal events around their area
+* To enable the user to view all recycling centers on a map for easy routing
+
+Goals:
+
+* To view a map display of public recycling bins around the user's area
+* To view the safe disposal events currently being organized around the user's area
+* To view all locations of recycling centers on a map
+
+Tasks:
+
+* To display a map of public recycling bins around the user's area
+* To list the safe disposal events currently being organized around the user's area
+* To display all locations of recycling centers on a map
+
+Resources:
+
+* A map display of public recycling bins around the user's area
+* A list of safe disposal events currently being organized around the user's area
+* A map display of all locations of recycling centers
+
+Contribution Links:
+
+* The map display of public recycling bins and safe disposal events will contribute to the user's ability to easily find recycling options
+* The map display of all locations of recycling centers will contribute to the user's ability to easily route to recycling centers
+
+Dependencies Links:
+
+* The map display of public recycling bins and safe disposal events may depend on the availability of location information and mapping data
+* The map display of all locations of recycling centers may depend on the availability of location information and mapping data
+
+Decomposition Links:
+
+* The map display of public recycling bins and safe disposal events can be decomposed into smaller components such as the map display itself and the data used to populate the map
+* The map display of all locations of recycling centers can be decomposed into smaller components such as the map display itself and the data used to populate the map
+
+Is there anything else you would like to add or change?

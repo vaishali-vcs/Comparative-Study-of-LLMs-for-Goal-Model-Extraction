@@ -1,0 +1,42 @@
+Sure, here is a breakdown of the elements for each user story:
+
+### User Story 1:
+- Actors: User, Recycling Bin Map Display
+- SoftGoals: Accurate map positioning, Up-to-date information, User-friendly interface, Secure data handling, 
+Reliable location markers
+- Goals: View public recycling bins around a user's area 
+- Tasks: Collect location data for recycling bins, Create map display, Enable user interaction with the map, 
+Provide information on bin availability and contents
+- Resources: Recycling bin location data, Mapping software, Development and design resources, Data management systems, 
+Cybersecurity measures
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+### User Story 2:
+- Actors: User, Safe Disposal Events
+- SoftGoals: Real-time event updates, Easy event filtering, Transparent event information, User-event interaction, 
+Event organizer collaboration
+- Goals: View safe disposal events around a user's area
+- Tasks: Gather event data from organizers, Display event options to the user, Enable event filtering and search, 
+Provide event information, Facilitate user registration or attendance
+- Resources: Event data, Development and design resources, User interface elements, Collaboration tools for organizers, 
+Marketing resources
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+### User Story 3:
+- Actors: User, Recycling Center Locations
+- SoftGoals: Clear route planning, Optimization of location data, Interactive map display, Secure data handling, 
+Real-time location updates
+- Goals: View all recycling center locations on a map to determine drop-off routes
+- Tasks: Collect location data for recycling centers, Integrate this data with map information, Enable route planning features, 
+Display center hours and acceptances
+- Resources: Recycling center location data, Mapping software, Route optimization tools, Development and design resources, 
+Data management systems, Cybersecurity measures
+- Contribution links: None specified
+- Dependencies links: None specified
+- Decomposition links: None specified
+
+Would you like help with anything else?

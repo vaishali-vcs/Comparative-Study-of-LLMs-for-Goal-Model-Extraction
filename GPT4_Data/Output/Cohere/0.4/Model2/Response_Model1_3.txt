@@ -1,0 +1,33 @@
+Sure, here is a breakdown of the elements for each user story:
+
+### User Story S1:
+- **Actors**: User
+- **SoftGoals**: Map display should be zoomable, searchable, and have good resolution and accuracy. The system should have a user-friendly interface and be accessible on multiple devices.
+- **Goals**: View a map display of recycling bins around the user's area.
+- **Tasks**: Use mapping software to display the locations of public recycling bins in the user's area. This may require access to geographical data and trash collection infrastructure information.
+- **Resources**: Mapping software, geographical data, trash collection infrastructure information
+- **Contribution links**: None specified
+- **Dependencies links**: None specified
+- **Decomposition links**: None specified
+
+### User Story S2:
+- **Actors**: User
+- **SoftGoals**: The system should display accurate dates, times, and locations for safe disposal events, and provide ways for users to get more information or sign up for events.
+- **Goals**: View safe disposal events around the user's area.
+- **Tasks**: Gather information about safe disposal events from local organizations, governments, or waste management companies. This may require event data extraction and processing.
+- **Resources**: Event data extraction and processing tools, information about safe disposal regulations and guidelines
+- **Contribution links**: None specified
+- **Dependencies links**: None specified
+- **Decomposition links**: None specified
+
+### User Story S3:
+- **Actors**: User
+- **SoftGoals**: The system should indicate waiting times, distances to each recycling center, and their capacities. It should have a clear and simple user interface.
+- **Goals**: View all locations of recycling centers on a map, to aid in determining which routes to take to drop off waste.
+- **Tasks**: Display all recycling center locations on a map. This may require access to geographical data and recycling center information.
+- **Resources**: Geographical data, recycling center information, route optimization software
+- **Contribution links**: None specified
+- **Dependencies links**: None specified
+- **Decomposition links**: None specified
+
+Would you like help with anything else?

@@ -1,0 +1,45 @@
+Actors:
+
+* The wireless telephony company
+
+SoftGoals:
+
+* High performance: The system should be able to handle a high volume of calls and provide fast call setups, low latency, and high throughput.
+	+ Specifications:
+		- High throughput: The system should be able to handle a minimum of 10,000 calls per second.
+		- Low latency: Call setup should take no more than 200ms.
+		- Fast call setups: Call setup should take no more than 100ms.
+		- High availability: The system should be available 99.99% of the time.
+* Low cost: The system should minimize infrastructure alterations and utilize hardware resources to their fullest extent.
+	+ Specifications:
+		- Minimal infrastructure alterations: The system should not require significant changes to the existing infrastructure.
+		- Efficient hardware utilization: The system should be able to utilize hardware resources to their fullest extent, minimizing waste and unnecessary expenditure.
+
+Goals:
+
+* Achieve high performance at low cost
+
+Tasks:
+
+* Optimize hardware utilization to its fullest extent
+* Achieve high throughput while minimizing infrastructure alterations
+
+Resources:
+
+* Existing infrastructure
+* Hardware resources (e.g. servers, routers, switches)
+
+Contribution Links:
+
+* The system's high performance will contribute to the company's reputation and customer satisfaction.
+* The system's low cost will contribute to the company's profitability and financial stability.
+
+Dependencies Links:
+
+* The system's performance is dependent on the existing infrastructure and hardware resources.
+* The system's cost is dependent on the availability and utilization of hardware resources.
+
+Decomposition Links:
+
+* The goal of achieving high performance can be decomposed into sub-goals of optimizing hardware utilization and achieving high throughput.
+* The goal of achieving low cost can be decomposed into sub-goals of minimizing infrastructure alterations and utilizing hardware resources to their fullest extent.

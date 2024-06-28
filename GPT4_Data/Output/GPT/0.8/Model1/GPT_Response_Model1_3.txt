@@ -1,0 +1,34 @@
+'Actors': 
+- Traffic Simulator: The system itself that enables traffic flow simulation and aids in efficient road traffic engineering and design.
+
+'SoftGoals': 
+- Efficient Road Traffic Engineering and Design: The system should help in creating the most efficient road traffic designs.
+- Quick Aid Development: The system should be able to aid development quickly.
+- Clear Visualization: The system should provide clear visualization of traffic flow and congestion.
+- Speed: The system should be able to process and render traffic simulations quickly.
+- Reliability: The system should consistently provide accurate and reliable traffic simulations.
+- Data Integrity: The system should ensure that the simulation data is accurate and consistent.
+
+'Goals': 
+- Traffic Flow Simulation: The system's main function is to simulate traffic flow.
+- Identify Congestion: The system should be able to identify areas of congestion in the traffic flow.
+- Demonstrate Traffic Flow and Bottlenecks: The system should be able to demonstrate and visualize traffic flow and bottlenecks.
+
+'Tasks': 
+- Simulate Traffic Flow: The system should be able to simulate traffic flow based on given parameters.
+- Visualize Traffic Flow: The system should visualize the simulated traffic flow.
+- Identify and Highlight Congestion: The system should identify areas of congestion and highlight them on the visualization.
+- Animate Traffic Flow: The system should animate traffic flow to demonstrate the movement and bottlenecks.
+
+'Resources': 
+- Traffic Data: The system needs traffic data to simulate and visualize traffic flow.
+- Visualization Tools: The system needs tools to visualize and animate traffic flow and congestion.
+
+'Contribution links': 
+- Contribution links are not explicitly mentioned in the user story. 
+
+'Dependencies links': 
+- Dependencies links are not explicitly mentioned in the user story.
+
+'Decomposition links':
+- Decomposition links are not explicitly mentioned in the user story.

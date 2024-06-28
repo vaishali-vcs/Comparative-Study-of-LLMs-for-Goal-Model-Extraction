@@ -1,0 +1,42 @@
+Actors:
+
+* User
+
+SoftGoals:
+
+* To view all locations of recycling centers on a map
+	+ Specifications:
+		- Display all recycling center locations on a map with accurate geolocation information
+		- Provide search functionality to find specific recycling centers by name or location
+		- Include information on recycling center hours, types of materials accepted, and contact information
+		- Ensure map is interactive and allows users to filter by location, type of material, or hours of operation
+		- Provide a routing feature to help users find the most efficient route to a recycling center
+
+Goals:
+
+* To be able to view all locations of recycling centers on a map
+	+ Tasks:
+		- Create a map of recycling center locations
+		- Integrate with a map service provider to display locations and provide search functionality
+		- Populate the map with information on recycling center hours, types of materials accepted, and contact information
+
+Resources:
+
+* Map service provider (e.g. Google Maps, OpenStreetMap)
+* Geolocation data (e.g. latitude and longitude)
+* API for integrating with map service provider
+
+Contribution Links:
+
+* The user story s1 contributes to the goal of being able to view all locations of recycling centers on a map
+* The user story s2 contributes to the goal of being able to get the hours of each recycling facility
+
+Dependencies Links:
+
+* The task of creating a map of recycling center locations depends on the availability of geolocation data and a map service provider
+* The task of integrating with a map service provider depends on the availability of an API for integrating with the map service provider
+
+Decomposition Links:
+
+* The task of creating a map of recycling center locations can be decomposed into sub-tasks of collecting geolocation data and populating the map with information on recycling center hours, types of materials accepted, and contact information
+* The task of integrating with a map service provider can be decomposed into sub-tasks of selecting a map service provider and integrating with the provider's API.

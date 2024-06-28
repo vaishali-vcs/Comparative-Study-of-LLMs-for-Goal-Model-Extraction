@@ -1,0 +1,41 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- User-friendly interface
+- Secure access to location data
+- Reliable map display
+- Accurate location data for recycling bins, safe disposal events, and recycling centers
+- Quick display of requested data
+
+'Goals': 
+- To view a map display of public recycling bins in the user's area
+- To view the safe disposal events happening in the user's area
+- To view locations of recycling centers on a map 
+
+'Tasks': 
+- Build a map display feature in the application
+- Integrate the application with public databases to fetch location data of recycling bins
+- Develop a feature to display safe disposal events based on user's location
+- Implement a feature to display recycling centers on a map
+- Create a route suggestion feature to guide user to recycling centers
+
+'Resources': 
+- Public databases containing location data of recycling bins, recycling centers, and safe disposal events
+- Application development team
+- Tools for map display and route suggestion
+
+'Contribution links': 
+- The display feature in the application contributes positively to the user's ability to view the desired informations
+- The accuracy of location data contributes positively to user satisfaction
+- Fast data display contributes positively to user satisfaction
+- Secure access to location data contributes positively to user's trust in the application
+
+'Dependency links': 
+- The map display feature depends on the availability and accuracy of location data
+- The user satisfaction depends on the user-friendly interface, secure access to location data, reliable map display, accurate location data and quick display of requested data
+
+'Decomposition links':
+- The goal of viewing the map display of public recycling bins is decomposed into the task of building a map display feature and integrating it with public databases
+- The goal of viewing safe disposal events is decomposed into the task of developing a feature to display these events based on user's location
+- The goal of viewing recycling centers on a map is decomposed into the tasks of implementing a map display feature and creating a route suggestion feature.

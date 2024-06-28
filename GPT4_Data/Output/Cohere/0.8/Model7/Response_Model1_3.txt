@@ -1,0 +1,8 @@
+## Actors: The business owner
+## SoftGoals: To boost sales, offer customers an online shopping experience, with a key focus on ensuring system security
+## Goals: To achieve increased sales, offer a secure online shopping experience for customers
+## Tasks: To achieve the goal of increased sales, enhance the online shopping experience for customers through measures such as improving the website interface and ensuring a smooth transaction process. To achieve the goal of a secure online shopping experience, implement measures such as using encryption techniques, two-factor authentication, and access control systems to protect customer data and ensure secure transactions. 
+## Resources: Encryption techniques, two-factor authentication devices, access control systems
+## Contribution links: The business owner's goal of boosting sales is linked to the task of enhancing the online shopping experience, as a secure online environment encourages customer trust and engagement. The goal of ensuring system security is linked to the tasks of implementing encryption techniques, two-factor authentication, and access control systems, as these measures protect customer data and ensure secure transactions. 
+## Dependencies links: The business owner's goal of ensuring system security depends on the successful implementation of the tasks outlined above.
+## Decomposition links: The tasks outlined above decompose into smaller tasks such as implementing encryption techniques, two-factor authentication, and access control systems.

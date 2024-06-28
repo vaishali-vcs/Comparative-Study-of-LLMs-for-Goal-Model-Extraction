@@ -1,0 +1,43 @@
+- 'Actors': 
+    - Kids Helpline organization
+    - Youth seeking advice
+    - Public scrutinizers
+    - Potential predators
+
+- 'SoftGoals':
+    - Confidentiality of the online counseling system
+    - Protection from predators
+    - Mitigating public scrutiny over advice
+    - Reducing liability over misinterpreted guidance
+    - Increasing accessibility for more individuals
+    - Maintaining a comforting distance for the youth
+    - Fundraising for the organization
+
+- 'Goals':
+    - Expansion of the organization's ability to provide counseling via the Internet
+    - Choosing the most suitable technical options to expand their internet counseling service
+
+- 'Tasks':
+    - Modifying the existing anonymous question and answer system
+    - Implementing discussion boards
+    - Implementing wikis
+    - Implementing text messaging services
+    - Implementing chat rooms
+
+- 'Resources':
+    - Existing anonymous question and answer system
+    - Technical options for online counseling (discussion boards, wikis, text messaging, chat rooms)
+    - Funding for expansion
+    - Trained counselors
+
+- 'Contribution links':
+    - The task of modifying the existing system contributes positively to the goal of expanding online counseling.
+    - Implementing new technical options like discussion boards, wikis, text messaging, and chat rooms contributes positively to the goal of expanding online counseling.
+    - The softgoal of confidentiality contributes positively to the goal of choosing the most suitable technical options.
+
+- 'Dependencies links':
+    - The task of implementing new technical options is dependent on the available resources.
+    - The goal of expanding online counseling is dependent on the successful completion of the various tasks.
+
+- 'Decomposition links':
+    - The goal of expanding online counseling is decomposed into several tasks: modifying the existing system, implementing discussion boards, wikis, text messaging, and chat rooms.

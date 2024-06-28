@@ -1,0 +1,3 @@
+## Intentional elements of GRL:
+- **Actors**: Represent stakeholders of the system or the system itself. In GRL, actors are represented as circles with their names inside. 
+- **Softgoals**: Represent the intentions of the actors or the conditions that need to be fulfilled. A softgoal might be a non-functional requirement such as performance, security or reliability. These are described with a set of specifications that describe the system’s operation capabilities and constraints and attempt to

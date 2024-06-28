@@ -1,0 +1,28 @@
+- 'Actors': 
+  - Counselors: They represent the stakeholders who offer online counseling services with the aim of helping children.
+  - Children: They are the recipients of the online counseling services. 
+
+- 'SoftGoals': 
+  - Assisting as many children as possible: This is a soft goal as there is no clear quantifiable measure of satisfaction. 
+  - Actively listening to the children's needs: This soft goal is aimed at understanding and addressing the children's needs. 
+  - Preventing burnout: This soft goal aims to ensure that the counselors maintain their well-being and job satisfaction. 
+
+- 'Goals': 
+  - Job satisfaction: The counselors aim to achieve this goal by preventing burnout and actively listening to the children's needs. 
+
+- 'Tasks': 
+  - Provide online counseling services: This task includes offering services in cyber cafes and portal chat rooms. 
+  - Actively listen to the children's needs: This task involves understanding and addressing the children's needs. 
+
+- 'Resources': 
+  - Online platforms: These include cyber cafes and portal chat rooms used to provide the counseling services. 
+
+- 'Contribution links': 
+  - The task of providing online counseling services contributes positively to the soft goal of assisting as many children as possible. 
+  - The task of actively listening to the children's needs contributes positively to the soft goal of understanding and addressing the children's needs. 
+
+- 'Dependencies links': 
+  - The goal of job satisfaction depends on the soft goal of preventing burnout. 
+
+- 'Decomposition links':
+  - The goal of job satisfaction can be decomposed into the tasks of providing online counseling services and actively listening to the children's needs.

@@ -1,0 +1,48 @@
+'Actors': 
+- Kids Helpline organization
+- Youth who need counseling
+- Potential online predators
+- Public scrutinizers
+
+'SoftGoals':
+- Increase accessibility to counseling service
+- Maintain confidentiality of users
+- Protect users from online predators
+- Withstand public scrutiny over advice
+- Avoid liability over misinterpreted guidance
+- Ensure security of the online system
+- Maintain reliability of the counseling service
+- Ensure integrity of user data
+
+'Goals': 
+- Expand the ability to provide counseling via the Internet
+- Increase funds for the organization
+- Encourage more youth to ask for help
+
+'Tasks':
+- Choose among multiple technical options for expanding internet counseling service
+    - Modify existing anonymous question and answer system
+    - Implement discussion boards
+    - Implement wikis
+    - Enable text messaging
+    - Create chat rooms
+
+'Resources':
+- Existing anonymous question and answer system
+- Proposed technical options (discussion boards, wikis, text messaging, chat rooms)
+- Funds for expansion
+- Internet for online counseling
+
+'Contribution links':
+- The choice of technical options contributes to the goal of expanding internet counseling service
+- The task of choosing among technical options contributes to the softgoal of increasing accessibility
+- The task of modifying existing system contributes to the softgoal of maintaining confidentiality
+- The task of creating chat rooms might negatively contribute to the softgoal of protecting users from predators
+
+'Dependencies links':
+- The goal of expanding internet counseling service depends on the task of choosing among technical options
+- The softgoal of maintaining confidentiality depends on the task of modifying existing system
+
+'Decomposition links':
+- The goal of expanding internet counseling service is decomposed into tasks of choosing among technical options and modifying existing system
+- The softgoal of increasing accessibility is decomposed into tasks of implementing discussion boards, wikis, text messaging, and creating chat rooms

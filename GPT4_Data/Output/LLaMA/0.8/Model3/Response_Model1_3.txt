@@ -1,0 +1,47 @@
+Actors:
+
+* User
+
+SoftGoals:
+
+* To provide the user with the ability to view all locations of recycling centers on a map, allowing them to plan their routes effectively.
+	+ Specifications:
+		- The system should display all recycling centers on a map, with their location and address visible to the user.
+		- The system should allow the user to filter the map by location, such as by city or zip code.
+		- The system should provide route planning functionality, allowing the user to view the most efficient routes to each recycling center.
+* To provide the user with the ability to view the hours of each recycling facility, allowing them to arrange drop-offs on their off days or during after-work hours.
+	+ Specifications:
+		- The system should display the hours of operation for each recycling facility, including any restrictions or limitations.
+		- The system should allow the user to filter the list of recycling facilities by their hours of operation.
+
+Goals:
+
+* To provide the user with an easy-to-use interface for finding and accessing recycling centers.
+* To provide the user with accurate and up-to-date information about recycling centers and their hours of operation.
+
+Tasks:
+
+* To create a map view of all recycling centers, allowing the user to view their locations and routes.
+* To retrieve and display the hours of operation for each recycling facility.
+
+Resources:
+
+* A map view of all recycling centers, with location and address information.
+* A list of recycling facilities, with their hours of operation.
+
+Contribution Links:
+
+* The map view of recycling centers will contribute to the user's ability to plan their routes effectively.
+* The list of recycling facilities with their hours of operation will contribute to the user's ability to arrange drop-offs on their off days or during after-work hours.
+
+Dependencies:
+
+* The system will depend on a database of recycling centers and their locations.
+* The system will depend on a geolocation service to provide the user with the map view of recycling centers.
+
+Decomposition Links:
+
+* The map view of recycling centers can be decomposed into a list view and a filter view.
+* The list of recycling facilities with their hours of operation can be decomposed into a list view and a filter view.
+
+Note: The above list of intentional elements is a detailed explanation of the user story, highlighting the key elements and their relationships. It is not a straightforward list of requirements, but rather a structured explanation of the user's needs and the system's capabilities.

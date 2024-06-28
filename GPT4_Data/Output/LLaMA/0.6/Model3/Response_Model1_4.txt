@@ -1,0 +1,30 @@
+Actors: 
+- User 
+
+SoftGoals:
+- The system should provide the user with an easy-to-use interface to view recycling center locations on a map.
+- The system should provide the user with the hours of each recycling facility, so that the user can arrange drop-offs on their off days or during after-work hours.
+
+Goals:
+- Provide the user with a map view of all recycling center locations.
+- Provide the user with the hours of each recycling facility.
+
+Tasks:
+
+- Display recycling center locations on a map.
+- Provide the user with information about the hours of each recycling facility.
+
+Resources:
+- A database of recycling center locations and hours.
+- A mapping service to display recycling center locations on a map.
+
+Contribution Links:
+- The user can contribute to the system by providing feedback on the accuracy of the recycling center locations and hours.
+
+Dependencies Links:
+- The system depends on the availability of a database of recycling center locations and hours.
+
+Decomposition Links:
+- The task of providing the user with information about the hours of each recycling facility can be decomposed into the sub-tasks of retrieving the hours from the database and displaying them to the user.
+
+Note: The softgoals and goals are related to non-functional requirements, whereas the tasks are related to functional requirements. The softgoals and goals provide a high-level view of what the system should achieve, while the tasks provide a more detailed view of how the system will achieve those objectives.

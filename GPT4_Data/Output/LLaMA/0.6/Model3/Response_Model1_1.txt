@@ -1,0 +1,29 @@
+* Actors:
+	+ User
+* SoftGoals:
+	+ To provide the user with a convenient and efficient way to find recycling centers and their hours of operation.
+	+ To enable the user to plan their waste disposal routes and schedules accordingly.
+	+ To improve the user's experience and reduce the time spent on waste disposal.
+* Goals:
+	+ To display all recycling centers on a map, with their locations and hours of operation.
+	+ To allow the user to filter the list of recycling centers by distance, hours of operation, or other relevant criteria.
+	+ To enable the user to get directions to the nearest recycling center.
+* Tasks:
+	+ To develop a user-friendly interface for searching and viewing recycling centers on a map.
+	+ To integrate with a mapping service to display the locations of recycling centers.
+	+ To retrieve and display information on the hours of operation for each recycling center.
+	+ To provide a filtering mechanism for the list of recycling centers.
+* Resources:
+	+ A mapping service (e.g. Google Maps) to display the locations of recycling centers.
+	+ A database of recycling centers, with information on their locations and hours of operation.
+	+ A user interface for searching and viewing recycling centers on a map.
+* Contribution Links:
+	+ The user can contribute to the system by providing feedback on the accuracy of the information displayed.
+	+ The system can contribute to the user by providing up-to-date information on recycling centers and their hours of operation.
+* Dependencies Links:
+	+ The system depends on the mapping service to display the locations of recycling centers.
+	+ The system depends on the database of recycling centers to retrieve information on their locations and hours of operation.
+* Decomposition Links:
+	+ The system can be decomposed into smaller components, such as the user interface, the mapping service integration, and the database integration.
+
+Please note that the above list of intentional elements is not exhaustive and may change based on the specific requirements of the system.

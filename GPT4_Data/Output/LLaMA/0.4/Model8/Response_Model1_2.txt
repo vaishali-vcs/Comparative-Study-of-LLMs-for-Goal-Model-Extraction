@@ -1,0 +1,57 @@
+Actors:
+
+* The Kids Helpline (TKH) (holder of intentions)
+* Youth (beneficiaries of the service)
+* Parents (potential users of the service)
+* Technical team (responsible for implementing the solution)
+
+SoftGoals:
+
+* Provide a safe and comfortable environment for youth to seek help
+* Increase the accessibility of counseling services for youth
+* Maintain the confidentiality of the youth's information
+* Protect the youth from potential predators and inappropriate content
+* Provide a platform for youth to connect with other youth who may be facing similar challenges
+* Increase the organization's visibility and funding
+
+Goals:
+
+* Develop a secure and reliable online counseling platform
+* Implement a user-friendly interface for the platform
+* Ensure the platform is accessible to youth with different levels of technical expertise
+* Provide a variety of communication channels (e.g., text messaging, chat rooms, discussion boards)
+* Ensure the platform is accessible to youth with different levels of physical ability
+* Provide a way for youth to connect with trained counselors
+
+Tasks:
+
+* Research and evaluate various technical options for the platform (e.g., modification of existing anonymous question and answer system, discussion boards, wikis, text messaging, chat rooms)
+* Develop a detailed technical specification for the platform
+* Implement the chosen technical solution
+* Test the platform for security, reliability, and usability
+* Train counselors on the use of the platform
+* Promote the platform to potential users (youth, parents, and technical team)
+
+Resources:
+
+* Technical expertise (e.g., software developers, system administrators)
+* Funding for platform development and maintenance
+* Infrastructure (e.g., servers, network bandwidth)
+* Training materials for counselors
+
+Contribution Links:
+
+* The platform will provide a safe and comfortable environment for youth to seek help, which will contribute to the achievement of the soft goal of providing a safe and comfortable environment.
+* The platform will increase the accessibility of counseling services for youth, which will contribute to the achievement of the soft goal of increasing the accessibility of counseling services.
+* The platform will maintain the confidentiality of the youth's information, which will contribute to the achievement of the soft goal of maintaining the confidentiality of the youth's information.
+
+Dependency Links:
+
+* The success of the platform will depend on the availability of trained counselors to provide support to youth.
+* The success of the platform will depend on the availability of funding for platform development and maintenance.
+
+Decomposition Links:
+
+* The task of researching and evaluating various technical options for the platform can be decomposed into smaller tasks, such as researching the features and functionality of different platforms, and evaluating the technical feasibility and cost-effectiveness of each option.
+
+Note: The above list of intentional elements is not exhaustive and may change as the requirements of the project evolve.

@@ -1,0 +1,41 @@
+'Actors': 
+- User
+
+'SoftGoals': 
+- User-friendly interface
+- High accuracy of data display
+- Real-time update of information
+- Secure access to the system
+- Reliable operation
+- High system performance
+
+'Goals': 
+- To view a map display of public recycling bins around the user's area.
+- To view safe disposal events currently being organized around the user's area.
+- To view all locations of recycling centers on a map.
+
+'Tasks': 
+- Implement a map display feature for public recycling bins.
+- Implement a feature to display safe disposal events.
+- Implement a map view feature for all recycling center locations.
+- Implement a route suggestion feature for reaching recycling centers.
+
+'Resources': 
+- Map display system 
+- Database of recycling bins, safe disposal events, and recycling centers
+- User's location data
+
+'Contribution links': 
+- The map display feature contributes to the goal of viewing recycling bins and recycling centers.
+- The feature to display safe disposal events contributes to the goal of viewing these events.
+- The route suggestion feature contributes to the goal of viewing routes to recycling centers.
+
+'Dependency links': 
+- The task of displaying a map depends on the availability of the map display system and the database.
+- The task of displaying safe disposal events depends on the database of these events.
+- The task of suggesting routes depends on the user's location data and the database of recycling centers.
+
+'Decomposition links':
+- The goal of viewing a map display of public recycling bins is decomposed into the task of implementing a map display feature.
+- The goal of viewing safe disposal events is decomposed into the task of implementing a feature to display these events.
+- The goal of viewing all locations of recycling centers on a map is decomposed into the task of implementing a map view feature and a route suggestion feature.

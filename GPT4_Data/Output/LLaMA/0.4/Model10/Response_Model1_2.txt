@@ -1,0 +1,52 @@
+Actors:
+
+* Kids and Youth (as stakeholders of the system)
+* Counselors (as holders of intentions and actors in the system)
+
+SoftGoals:
+
+* Anonymity: Kids and Youth should be able to use the service without revealing their identities.
+* Convenience: The service should be accessible through various channels (text messaging, Cyber Café, portal, Chat Rooms) and should be easy to use.
+* Promptness: The counseling service should be available at any time and should provide quick responses to the users' queries.
+* Effectiveness: The service should provide helpful and relevant advice to the users.
+
+Goals:
+
+* To provide a safe and confidential counseling service to Kids and Youth.
+* To offer a variety of channels for users to access the counseling service.
+* To provide prompt and effective responses to the users' queries.
+
+Tasks:
+
+* To develop a secure and anonymous messaging system for text messaging.
+* To create a user-friendly portal and Chat Rooms for users to access the counseling service.
+* To establish partnerships with Cyber Cafés to provide access to the service.
+* To train counselors to provide prompt and effective responses to users' queries.
+
+Resources:
+
+* Secure and anonymous messaging system for text messaging.
+* User-friendly portal and Chat Rooms.
+* Partnerships with Cyber Cafés.
+* Trained counselors.
+
+Contribution Links:
+
+* The secure and anonymous messaging system will contribute to the achievement of the SoftGoal of anonymity.
+* The user-friendly portal and Chat Rooms will contribute to the achievement of the SoftGoal of convenience.
+* The partnerships with Cyber Cafés will contribute to the achievement of the SoftGoal of convenience.
+* The trained counselors will contribute to the achievement of the Goal of providing prompt and effective responses to users' queries.
+
+Dependencies Links:
+
+* The development of the secure and anonymous messaging system depends on the availability of resources such as funding and expertise.
+* The creation of the user-friendly portal and Chat Rooms depends on the availability of resources such as funding and expertise.
+* The establishment of partnerships with Cyber Cafés depends on the availability of resources such as funding and expertise.
+* The training of counselors depends on the availability of resources such as funding and expertise.
+
+Decomposition Links:
+
+* The secure and anonymous messaging system can be decomposed into sub-elements such as encryption, authentication, and secure communication protocols.
+* The user-friendly portal and Chat Rooms can be decomposed into sub-elements such as user interface design, user experience, and accessibility.
+* The partnerships with Cyber Cafés can be decomposed into sub-elements such as negotiation, contracting, and partnership management.
+* The training of counselors can be decomposed into sub-elements such as curriculum development, training delivery, and evaluation.

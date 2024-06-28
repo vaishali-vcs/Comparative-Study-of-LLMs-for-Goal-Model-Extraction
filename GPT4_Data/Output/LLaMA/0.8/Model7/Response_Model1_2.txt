@@ -1,0 +1,48 @@
+Actors:
+
+• Business Owner (system or stakeholder)
+
+Soft Goals:
+
+• Enhance system security to protect against unauthorized access and data breaches.
+• Ensure the online shopping experience is secure and trustworthy for customers.
+
+Soft Goals Specifications:
+
+• Implement multi-factor authentication methods, including fingerprint recognition, password entry, and cardkey access.
+• Employ end-to-end encryption for all sensitive data transmitted between the system and customers.
+• Regularly update and maintain the system's security protocols to stay ahead of emerging threats.
+• Ensure system logs are properly stored and monitored to detect and respond to security incidents.
+
+Goals:
+
+• Boost sales by providing an online shopping experience.
+
+Tasks:
+
+• Develop and implement a secure online shopping platform.
+• Integrate multi-factor authentication methods.
+• Implement end-to-end encryption for sensitive data transmissions.
+• Monitor and update system security protocols regularly.
+• Ensure system logs are properly stored and monitored.
+
+Resources:
+
+• Development team with expertise in secure coding practices and web application security.
+• Infrastructure for hosting the online shopping platform.
+• Security audit and testing tools.
+
+Contribution Links:
+
+• The secure online shopping platform will contribute to the achievement of the soft goal of enhancing system security.
+• The implementation of multi-factor authentication will contribute to the achievement of the soft goal of protecting against unauthorized access.
+
+Dependency Links:
+
+• The online shopping platform's security will depend on the implementation of multi-factor authentication and end-to-end encryption.
+• The success of the online shopping platform will depend on the development team's expertise in secure coding practices and web application security.
+
+Decomposition Links:
+
+• Implementing multi-factor authentication can be decomposed into sub-tasks, such as fingerprint recognition, password entry, and cardkey access.
+• Implementing end-to-end encryption can be decomposed into sub-tasks, such as configuring SSL/TLS protocols and implementing encryption for sensitive data transmissions.

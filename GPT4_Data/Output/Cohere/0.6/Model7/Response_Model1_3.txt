@@ -1,0 +1,18 @@
+## Actors: The business owner
+## SoftGoals: 
+- Ensure a secure online shopping experience for customers 
+- Improve system functionality with regards to speed, security, reliability, and data integrity 
+## Goals: 
+- Boost sales 
+- Achieve terminal security by adopting fingerprint, password and cardkey techniques 
+- Enhance host security by employing encryption measures 
+## Tasks: 
+- Implement access authorization techniques 
+- Adopt security measures, such as encryption 
+- Develop an incident response plan 
+- Backup and encrypt data 
+## Resources: 
+- Fingerprint, Password and Cardkey techniques 
+- Encryption measures 
+- Development and encryption tools 
+##

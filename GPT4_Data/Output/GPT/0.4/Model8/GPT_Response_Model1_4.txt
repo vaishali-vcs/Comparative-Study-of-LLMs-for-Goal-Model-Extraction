@@ -1,0 +1,39 @@
+- 'Actors': 
+    - Kids Helpline Organization
+    - Youth (who use the service)
+    - Donors (who provide funds)
+- 'SoftGoals': 
+    - Increase accessibility of counseling services
+    - Maintain confidentiality of users
+    - Protect users from predators
+    - Avoid public scrutiny over advice
+    - Minimize liability over misinterpreted guidance
+    - Improve functionality of the system
+    - Ensure speed of the system
+    - Ensure security of the system
+    - Ensure reliability of the system
+    - Maintain data integrity of the system
+- 'Goals': 
+    - Expand counseling services via the Internet
+    - Increase funds for the organization
+- 'Tasks': 
+    - Choose among multiple technical options for expansion
+    - Modify existing anonymous question and answer system
+    - Implement discussion boards
+    - Implement wikis
+    - Implement text messaging
+    - Implement chat rooms
+- 'Resources': 
+    - Internet
+    - Technical options (anonymous question and answer system, discussion boards, wikis, text messaging, chat rooms)
+    - Funds
+- 'Contribution links': 
+    - The technical options contribute to the goal of expanding counseling services via the Internet
+    - The goal of expanding counseling services via the Internet contributes to the softgoal of increasing accessibility of counseling services
+    - The goal of expanding counseling services via the Internet contributes to the softgoal of increasing funds for the organization
+- 'Dependencies links': 
+    - The task of choosing among multiple technical options depends on the availability of funds
+    - The task of implementing each technical option depends on the decision made in the task of choosing among multiple technical options
+- 'Decomposition links':
+    - The goal of expanding counseling services via the Internet is decomposed into the tasks of choosing among multiple technical options and implementing the chosen options
+    - The softgoal of maintaining confidentiality of users is decomposed into the tasks of modifying the existing anonymous question and answer system and implementing secure technical options like chat rooms and text messaging.

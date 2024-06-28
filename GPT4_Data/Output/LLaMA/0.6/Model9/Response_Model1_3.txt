@@ -1,0 +1,44 @@
+Actors: 
+
+* Counselors
+
+SoftGoals: 
+
+* Provide online counseling services to assist as many children as possible
+* Actively listen to the needs of children
+* Prevent burnout to attain job satisfaction
+
+Goals: 
+
+* Offer accessible and timely counseling services to children
+* Provide a safe and comfortable online environment for children to share their concerns
+* Foster a sense of trust and rapport with children
+
+Tasks: 
+
+* Develop and maintain online counseling platforms and tools
+* Recruit and train counselors to provide online counseling services
+* Establish and maintain communication channels with children and their families
+* Monitor and evaluate the effectiveness of online counseling services
+
+Resources: 
+
+* Online counseling platforms and tools
+* Trained counselors
+* Secure and confidential online communication channels
+* Online resources and materials for children and their families
+
+Contribution Links:
+
+* Counselors' active listening to children's needs contributes to the prevention of burnout
+* Preventing burnout contributes to job satisfaction among counselors
+
+Dependencies links:
+
+* Counselors' availability and willingness to provide online counseling services depends on the availability of online platforms and tools
+* The effectiveness of online counseling services depends on the availability of trained counselors and secure online communication channels
+
+Decomposition links:
+
+* Developing and maintaining online counseling platforms and tools can be decomposed into sub-tasks such as designing and developing the platform, testing and debugging the platform, and updating and maintaining the platform
+* Recruiting and training counselors to provide online counseling services can be decomposed into sub-tasks such as advertising job openings, reviewing applications, and providing training and support to counselors.
