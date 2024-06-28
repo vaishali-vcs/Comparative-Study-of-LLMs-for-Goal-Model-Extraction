@@ -7,7 +7,7 @@ This paper presents the research approach using Large Language Models (LLMs)- GP
 1. GPT_Data folder is the root file for all th input and the output data. 
 2. 'GPT_Data/Input' folder consists of the user stories that were used to evaluate the approach.
 3. 'GPT_Data/Prompts' folder consists of the textual prompts used to generate responses.
-4. 'GPT_Data/Output' folder consists of responses from GPT-4.
+4. 'GPT_Data/Output' folder consists of responses for the three LLMs- GPT-4, Llama-13B, and Cohere for all `Temperarature' settings.
 5. 'utils.py' file consists of helper code for loading user stories and saving the LLM responses.
 6. 'config.json' file has the configuration strings. Place your OPENAI License Key here. 
 7. 'GPT4_goalmodel_generation.py' consists of the driver code.
